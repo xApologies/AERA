@@ -30,3 +30,7 @@ The unique Black Prophecy is a **framework-wide shared-fictional-continuity even
 The unicorns of MK231 preserve/interpret the prophecies particularly deeply, but their in-world knowledge is not perfect. A distant future culture may only remember fragments. Other fictional worlds can have different populations, schools and traditions. No human requires pre-existing knowledge of ancient eight-verse poetry in order to use Transduction; the Prophecies describe the overall magical architecture and its history.
 
 **Literary provenance:** These are *authorial fantasy statements* under AERA, not claims about supernatural events demonstrably occurring in Earth's physical history. No debate about real-world prophecy is required for story production.
+
+### Expanded concepts of magic
+
+See [Seven Concepts of Magic](CONCEPTS/00_READ_FIRST.md) for the expanded operation/constraint explanations and [crosswalk](CONCEPTS/08_CROSSWALK.md). These concepts are explained independently of their literary framing as prophecies; the separate Black Prophecy above remains unchanged.

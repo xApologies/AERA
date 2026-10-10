@@ -1,0 +1,113 @@
+{
+  "package": "AERA_SEVEN_CONCEPTS_SEMANTIC_PASS_v0.4.0",
+  "date": "2026-10-10",
+  "baseline": "801647e445686a77e43eaf9e9f13806ef99b0933",
+  "target": "https://github.com/xApologies/AERA",
+  "verification": {
+    "safe_paths": true,
+    "crc_entries": 14,
+    "sha256_payload_files": 12,
+    "manifest_sizes": true
+  },
+  "application": {
+    "imported": [
+      "CONCEPTS/00_READ_FIRST.md",
+      "CONCEPTS/01_SEVEN_REALMS.md",
+      "CONCEPTS/02_UNWRITTEN.md",
+      "CONCEPTS/03_BORROWED_HOURS.md",
+      "CONCEPTS/04_THOUSAND_THREADS.md",
+      "CONCEPTS/05_COVENANT_GARDENS.md",
+      "CONCEPTS/06_LIVING_ART.md",
+      "CONCEPTS/07_CARTOGRAPHERS.md",
+      "CONCEPTS/08_CROSSWALK.md",
+      "provenance/SEMANTIC_AUDIT.md"
+    ],
+    "modified": [
+      "PROPHECIES.md",
+      "FRAMEWORK_INDEX.md",
+      "CHANGELOG.md"
+    ],
+    "preserved": [
+      "CONSTITUTION.md",
+      "Executable.md",
+      "README.md",
+      "MANIFEST.json",
+      "SHA256SUMS.txt"
+    ],
+    "exclusions": [
+      "_inbox/",
+      "*.zip",
+      "external staging"
+    ]
+  },
+  "source_note": "Source-recovery assertions in SEMANTIC_AUDIT.md are preserved from the author-supplied package. This publication did not fetch or clone upstream repositories.",
+  "manifest": {
+    "package": "AERA_SEVEN_CONCEPTS_SEMANTIC_PASS_v0.4.0",
+    "target": "https://github.com/xApologies/AERA",
+    "kind": "incremental semantic preservation",
+    "files": [
+      {
+        "path": "CONCEPTS/00_READ_FIRST.md",
+        "size": 1764,
+        "sha256": "9ffd766d24ed3975a90a4d9fbcf0fb6a487022ad898eb822f9636757f268fc33"
+      },
+      {
+        "path": "CONCEPTS/01_SEVEN_REALMS.md",
+        "size": 1704,
+        "sha256": "3fce72b3df3e4012f22ba2cfc8dffc6c205465f823b7d49ab8b1c4997f97a7d1"
+      },
+      {
+        "path": "CONCEPTS/02_UNWRITTEN.md",
+        "size": 2115,
+        "sha256": "7a5bc8138448c7d6dc5b8a11aec1baae0ff907d1f488b8232b8da4216e065a9c"
+      },
+      {
+        "path": "CONCEPTS/03_BORROWED_HOURS.md",
+        "size": 1970,
+        "sha256": "e72c4b6eb5f6d45f9b13be5884115ca92edb1051c7f714dfbb867af4d830badb"
+      },
+      {
+        "path": "CONCEPTS/04_THOUSAND_THREADS.md",
+        "size": 2159,
+        "sha256": "b4d7277cb578d9439f1b0deaf8503f2859f8d8f2516f01ee80cd1efcffd1e846"
+      },
+      {
+        "path": "CONCEPTS/05_COVENANT_GARDENS.md",
+        "size": 2031,
+        "sha256": "c4bd86f19c5a3f1f8d592c74e47b8680e7c648d5922502350b8299eaadf22587"
+      },
+      {
+        "path": "CONCEPTS/06_LIVING_ART.md",
+        "size": 2257,
+        "sha256": "7ecea30e375dadec449eeb2fcbffa001aa64dab750a3090f1e27874131bb0baa"
+      },
+      {
+        "path": "CONCEPTS/07_CARTOGRAPHERS.md",
+        "size": 2281,
+        "sha256": "cd4928bbf523b0655f00252f0199fb5aeca072c8f05242b805cf27645894f521"
+      },
+      {
+        "path": "CONCEPTS/08_CROSSWALK.md",
+        "size": 3312,
+        "sha256": "ed323293a5d5bea365398cb93def76b317b732dd7fa619b9fda3c349a9aed933"
+      },
+      {
+        "path": "Executable.md",
+        "size": 3136,
+        "sha256": "78f3e0e85f81f9a6685959410f3c3df6165eb4ffe94acaa4d124a7baed14d39b"
+      },
+      {
+        "path": "README.md",
+        "size": 646,
+        "sha256": "e0aa873fe666399cf86d900f97e510eb25e50c418a29c47816d336a146e3bcc2"
+      },
+      {
+        "path": "provenance/SEMANTIC_AUDIT.md",
+        "size": 3150,
+        "sha256": "7093f3de05626e665c8ed5994734d378aa50b8f6b2847cc5eee172393c53ca6d"
+      }
+    ]
+  },
+  "checksum_list": "9ffd766d24ed3975a90a4d9fbcf0fb6a487022ad898eb822f9636757f268fc33  CONCEPTS/00_READ_FIRST.md\n3fce72b3df3e4012f22ba2cfc8dffc6c205465f823b7d49ab8b1c4997f97a7d1  CONCEPTS/01_SEVEN_REALMS.md\n7a5bc8138448c7d6dc5b8a11aec1baae0ff907d1f488b8232b8da4216e065a9c  CONCEPTS/02_UNWRITTEN.md\ne72c4b6eb5f6d45f9b13be5884115ca92edb1051c7f714dfbb867af4d830badb  CONCEPTS/03_BORROWED_HOURS.md\nb4d7277cb578d9439f1b0deaf8503f2859f8d8f2516f01ee80cd1efcffd1e846  CONCEPTS/04_THOUSAND_THREADS.md\nc4bd86f19c5a3f1f8d592c74e47b8680e7c648d5922502350b8299eaadf22587  CONCEPTS/05_COVENANT_GARDENS.md\n7ecea30e375dadec449eeb2fcbffa001aa64dab750a3090f1e27874131bb0baa  CONCEPTS/06_LIVING_ART.md\ncd4928bbf523b0655f00252f0199fb5aeca072c8f05242b805cf27645894f521  CONCEPTS/07_CARTOGRAPHERS.md\ned323293a5d5bea365398cb93def76b317b732dd7fa619b9fda3c349a9aed933  CONCEPTS/08_CROSSWALK.md\n78f3e0e85f81f9a6685959410f3c3df6165eb4ffe94acaa4d124a7baed14d39b  Executable.md\ne0aa873fe666399cf86d900f97e510eb25e50c418a29c47816d336a146e3bcc2  README.md\n7093f3de05626e665c8ed5994734d378aa50b8f6b2847cc5eee172393c53ca6d  provenance/SEMANTIC_AUDIT.md\n",
+  "package_instructions": "# Executable.md — Codex incremental semantic publication v0.4.0\n\n## Authorization and destination\n\nThe author explicitly requests this semantic update to **existing** https://github.com/xApologies/AERA (`main`). This is NOT a new repository bootstrap. Work in `C:\\Users\\rando\\_AERA` (confirm actual existing local path before changing anything). `_inbox` is strictly local and must remain untracked. Do not clone, copy or import entire upstream MK147, MK231, `_bricked`, MK157 or `_raeon` repositories.\n\n## Execution steps\n\n1. Inspect the local AERA Git repository and `origin`, `git status`, current branch and latest remote `main`. If local changes or diverged history exist, **do not overwrite them**; stop or reconcile non-destructively. No force push.\n2. Locate the downloaded `AERA_SEVEN_CONCEPTS_SEMANTIC_PASS_v0.4.0.zip` in `_inbox`. Extract to a temporary **local-only** staging folder, guarding against path traversal and unexpected files.\n3. Validate ZIP CRC, `MANIFEST.json` and `SHA256SUMS.txt` against the extracted payload. Do not publish the archive, staging folder or `_inbox`.\n4. Add the entire `CONCEPTS/` directory (nine Markdown files) and `provenance/SEMANTIC_AUDIT.md` to the existing repository. Do not delete or overwrite unrelated AERA canon. Preserve existing `PROPHECIES.md` and separate Black Prophecy material; do not change names or lock previously open mathematical mechanics.\n5. Add a brief navigational link from the existing `PROPHECIES.md` and `FRAMEWORK_INDEX.md` or `README.md` to `CONCEPTS/00_READ_FIRST.md` if those files exist. Keep their current content intact. Add changelog entry `v0.4.0 Seven Concepts semantic recovery`.\n6. Ensure `.gitignore` excludes `_inbox/`, `*.zip`, temporary staging. Ensure the source zip and historical archives are not tracked. `Executable.md` is an instruction from this package; do not replace the repository's root `Executable.md` unless the repository's own constitution explicitly requires a new copy. A receipt in `provenance/` is sufficient.\n7. Perform a semantic verification: all seven concepts and original operation/constraint pairs present; Seven Realms (not Six); Borrowed Hours; current Covenant Gardens plural; distinct from six basins, six operational domains, six lifecycle stages and Black Prophecy; Time Shell, Genesis Resolution/Bandwidth and conscious consent distinctions preserved; all INTERPRETIVE and OPEN statements remain clearly labeled.\n8. Commit the changes to `main` using normal Git workflow, push to `origin main` (no force), fetch remote and verify remote SHA equals local HEAD. Report SHA, changed files, verification results and exclusions. If blocked, explain without claiming publication.\n\n## Hard constraints\n\n- No new physical theories or formal equations.\n- Do not treat semantic interpretive notes as canonized mechanics.\n- Do not conflate magic's seven concepts with the later seven ancient prophecies or rewrite the eighth Black Prophecy.\n- Do not overwrite the first-publish corpus or replace the root constitution with a short summary.\n- Preserve all existing framework invariants and author-configurable freedoms.\n"
+}

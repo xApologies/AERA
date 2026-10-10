@@ -25,3 +25,7 @@ This is the navigation hub for author and AI. Open only the topical documents yo
 | What has been decided? | [`provenance/DECISION_LEDGER.md`](provenance/DECISION_LEDGER.md) | explicitly authored decisions |
 
 **Canonical source owners:** `_bricked` mathematical source; MK147 world/systems; MK231 story and prophecies; `_raeon` game data; MK157 *selective* examples. No repositories are copied in this first publication.
+
+## Seven Concepts semantic expansion
+
+Read [CONCEPTS/00_READ_FIRST.md](CONCEPTS/00_READ_FIRST.md) for the seven expanded concepts, [CONCEPTS/08_CROSSWALK.md](CONCEPTS/08_CROSSWALK.md) for their boundaries, and [provenance/SEMANTIC_AUDIT.md](provenance/SEMANTIC_AUDIT.md) for source lineage and open questions.

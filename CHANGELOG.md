@@ -17,3 +17,10 @@ A smaller thread-scoped 20-file summary dated 2026-10-10; now included byte-for-
 ## Later source migration
 
 NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately scoped), complete public author workshop, choose publishing licenses, rigorous audit of every original project file. These are not part of v0.3.0.
+
+## v0.4.0 Seven Concepts semantic recovery (2026-10-10)
+
+- Added seven expanded concepts, their operation/constraint pairs, a crosswalk, and the package provenance audit.
+- Preserved the root Constitution, existing canon, original prophecy table, and separate Black Prophecy; added navigation only to the existing prophecy and framework index documents.
+- Kept INTERPRETIVE explanations and OPEN mechanics labeled; no upstream repositories or new mechanics were imported.
+- Preserved package instructions and integrity evidence in the publication receipt; inbound and historical ZIPs remain local and ignored.
