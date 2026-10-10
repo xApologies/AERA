@@ -1,0 +1,13 @@
+# MK231 — Independent local realm continuities, narrative linearity and earned relationships
+
+In this particular **seven-populated-realm** realization, each of Red, Orange, Yellow, Green, Blue, Violet, White maintains coherent **independent local temporal continuity**. Kira moves forward sequentially in her personal narrative, but the other realms may accumulate very different amounts of history before her arrival. This is **not a universal property imposed on every AERA author** and **no numerical ratios are locked**.
+
+Illustrations, NOT canon: Kira 23 on first Binding, maybe 27 by Book VI after four personal years, while a Black Leviathan egg has existed in Blue for ~200 local years; Black Kitsune might be 15–25 local years old while Kira has experienced only one or two years. Previous hypothetical `57 Green years / 1 White year` and 3/7/1.7/200 local examples are only illustrative. No global conversion formula was accepted, nor a rule that all clocks pause or accelerate together. **Within** any realm time stays locally coherent.
+
+The Black Phoenix Egg's original formation prompts a unicorn prophecy. **Kira's later first shared-existence Binding** initiates other Black realizations across realms. Since temporal evolution and biology differ, they need not appear at one common young age. Green's Kitsune can live a whole developmental history, Red's Dragon egg may be guarded by a political culture for decades, Blue's Leviathan egg may exist for centuries, while Kira continues her comparatively short personal journey. These are possible narrative expressions, not guaranteed numbers.
+
+Each Black entity retains independent agency. The prophecy's promise of expanded capabilities in a shared existence does **not** grant Kira entitlement to an egg, a person or a cradle. Kira earns trust via diplomacy, service and addressing local conflicts; in her human role as a cross-realm traveler she can act as mediator. A specific three-faction dragon war and name 'Kirati' remain PROPOSED. The Unicorns, as prophecy keepers, become later guides, with their own consent and reasons for alliance.
+
+Kira's union of six beings is **reciprocal amplification**: selected abilities become available to her, while each creature's native magic is strengthened. For example an Orange Phoenix may exhibit Violet-*comparable effective power*; it remains Orange-native. **No fixed multiplier or infinite output**.
+
+The characters are linked across their histories via the **overall AERA World Clock stack** (authorial structure) and the story's local travel/prophecy relationships; this is not a new required L0 global scheduler.

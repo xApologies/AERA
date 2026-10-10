@@ -1,0 +1,11 @@
+# Concept, knowledge, fatigue and Institutions of Knowledge
+
+**No mana reservoir:** fatigue is a physiological/endurance-like decline in the ability to sustain access to the Genesis Field and relevant energy basins while actively performing or maintaining Shapings. Recovery/training may restore/improve endurance, but training does not automatically overwrite Bound geometry or eliminate all fatigue.
+
+**Conceptual understanding is an improvable major variable.** Someone remembering a picture of a fireball can realize an inefficient, fatiguing version while someone with good chemistry/thermal-transfer understanding can use the SAME predefined geometry to produce a more efficient, controlled Shaping. Exact numerical fatigue equations are not given in this initial corpus. This is central to the MK147 **Age of Knowledge** idea: the general public/professions recognize that concept improves realized output and return to Institutions of Knowledge.
+
+**Institutions of Knowledge** are available/expected educational roles within AERA civilizations; authors determine institutional form and what they teach. Blackstone in MK147 emphasizes Biology, Chemistry, Differential Geometry, Topology, Genesis Field Theory, Anatomy and clinical training because Binding Circles have already simplified the operator's need for direct geometric construction. Other societies may teach direct Shape/Hold, apprenticeships, mental imagery or other methods. No mandatory magic-school trope, ancient tome or scripted instruction arc.
+
+Example: Binding Circle manufacturing externalizes substantial Shape/Hold complexity. The user still Conceives, Resolves basin energy into the field, Manifests and Releases. The distinction between geometric accessibility and conceptual mastery is a design strength, not an extra seventh operation.
+
+Source: [MK147 systems canon](https://github.com/xApologies/Mk-147/blob/main/live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md); [MK147 culture/knowledge canon](https://github.com/xApologies/Mk-147/blob/main/live-model/05_CULTURE/V2_CULTURE_CANON.md); [MK147 Binding/PSSP/Fatigue](https://github.com/xApologies/Mk-147/blob/main/live-model/04_SYSTEMS/BINDING_VAEN.md).

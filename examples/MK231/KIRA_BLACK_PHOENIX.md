@@ -1,0 +1,15 @@
+# MK231 — Kira, the Affliction and first Black Phoenix relationship
+
+Kira is an adopted human blacksmith/armorsmith of **age 23** at opening, genetically Afflicted. Most Afflicted die aged **11–17**, though oldest documented survivor reached **37** (not a known biological absolute maximum). Folk contagion fears stigmatize the condition, though its origin is genetic. Low-income adoptive blacksmith household diligently saves for expensive rare `vaen` plus Genesis-crystal therapeutic Binding, so Kira has **no ordinary Shaping Bindings** at opening. Sibling count and exact kin names remain OPEN (younger sister and older brother(s) as working direction).
+
+A stolen unusual Black Phoenix egg, lost during its theft and reaching Kira's White material world, temporarily improves afflicted skin while held. Kira and consulted experts believe it could provide the missing curative identity in a Binding Circle. She attempts a therapeutic Binding and instead binds the **living independent Black Phoenix identity** into persistent shared existence with her own. The egg hatches as a free, conscious being. The full effect on Kira's genetic Affliction remains **OPEN**. The Binding starts the wider Black emergence sequence, after which she may only enter further **Black shared-existence** Bindings, not regular acquired shaping Bindings.
+
+## Phoenix visual
+
+Initially a recognizable hawk-like avian silhouette, with beak, talons and wings but **no physical feathers**. The body itself is dynamically rolling **BLACK FLAME**. Red→Violet neon channels/spectrum remain trapped inside the Black Flame, shifting and flowing within; ordinary exterior orange flames or six neat rainbow stripes are **not** the chosen morphology. Humanoid form develops later; no fixed scene/date or mechanism yet. A corrected nine-panel Black Phoenix sheet is included only as an exploratory historical visual reference if present.
+
+## Complementary first magical toolkit
+
+The Black Phoenix specializes strongly in **Coherence** and healing/topological stabilization; Kira specializes unusually strongly in **Decoherence**, deliberate destabilization of persistent topology. Both obtain a reciprocal amplifying benefit from their relationship. This is a specialized but extraordinary **Persistent Topology / Coherence–Decoherence** capability, not instant access to fireballs/volcanoes/all possible Shapings. Phoenix native rebirth is established; whether Kira herself inherits resurrection/rebirth remains OPEN. Ordinary Decoherence is known but typically weak/inefficient relative to stabilizing topology. Black amplification makes it particularly effective against ELDRIS persistent recursive collapse closure without establishing automatic invincibility. Range, fatigue, targeting and resistances remain OPEN.
+
+Kira can work as a respected **`helkir`**, entering dungeon-`aithren` communities and learning healing while initially remaining in White. This is her first novel's narrative foundation, not AERA's general casting mechanic.

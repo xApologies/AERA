@@ -1,0 +1,13 @@
+# AERA local-only package handoff; never commit inbound archives.
+/_inbox/
+**/_inbox/
+/.aera-staging/
+/.aera-tmp/
+*.bak
+*.tmp
+__pycache__/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.zip

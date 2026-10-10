@@ -1,0 +1,3 @@
+# License / public reuse policy — author decision pending
+
+AERA's intended goal is a reusable high-fantasy framework for future authors. The author has **not selected a software/content/artwork license** for this publication. Do not invent one, automatically apply a Creative Commons license, or assert that a public GitHub repository alone grants unrestricted rights to publish derivative novels. Different licenses may be suitable for source text, original fiction, artwork, original mathematics and upstream game/code assets; the author chooses later. This file is a flag, **not** a license agreement.
