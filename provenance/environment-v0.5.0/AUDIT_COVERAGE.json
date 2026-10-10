@@ -1,0 +1,416 @@
+{
+  "audit_items": [
+    {
+      "id": "E01",
+      "meaning": "Six discrete chromatic energy structures, Red through Violet, separate from operational Transduction domains",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L0/CHROMATIC_EXISTENCE.md + L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E02",
+      "meaning": "Reference landmarks 1/7 through 6/7 do not fix every Starscape's realized neon positions",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L0/CHROMATIC_EXISTENCE.md + L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E03",
+      "meaning": "White superposes actual configurations; equilibrium is not identical proportions",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L0/CHROMATIC_EXISTENCE.md + L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E04",
+      "meaning": "A Starscape can persist while local instability occurs",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L0/CHROMATIC_EXISTENCE.md + L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E05",
+      "meaning": "Suitable neon instability supplies collapse-driven environmental phenomena",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L0/CHROMATIC_EXISTENCE.md + L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E06",
+      "meaning": "Inhabited realm realization and a particular monster crisis are selectable, not mandatory settings",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L0/CHROMATIC_EXISTENCE.md + L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E07",
+      "meaning": "Yellow instability is an MK231 example, not a universal requirement that every threat be Yellow",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L0/CHROMATIC_EXISTENCE.md + L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E08",
+      "meaning": "Eldris form from bounded, persistent recursive Genesis/chirality collapse",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E09",
+      "meaning": "The recursive process stabilizes rather than simply stopping",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E10",
+      "meaning": "Black collapse body and colored basin traces are distinct",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E11",
+      "meaning": "Eldris blackness is distinct from Kira's Black-spectrum identity",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E12",
+      "meaning": "Eldris are not inherently demonic and not ordinary wildlife",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E13",
+      "meaning": "Eldris are not restricted to dungeon birth",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E14",
+      "meaning": "Six eldris behavior families and A/B/C threat grouping",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E15",
+      "meaning": "Energy-mass closure explains physically interacting substance, not ordinary flesh",
+      "prior_finding": "PARTIAL",
+      "treatment": "Source detail restored in payload",
+      "destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E16",
+      "meaning": "Orange intrusion effects; Yellow force vs Blue expressed secondary effects; Green reinforcement's tactical consequences",
+      "prior_finding": "PARTIAL",
+      "treatment": "Source detail restored in payload",
+      "destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E17",
+      "meaning": "Delvers classify by observed interaction and trace; first contact matters",
+      "prior_finding": "PARTIAL",
+      "treatment": "Source detail restored in payload",
+      "destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E18",
+      "meaning": "No White eldris in the inherited palette",
+      "prior_finding": "PARTIAL",
+      "treatment": "Source detail restored in payload",
+      "destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E19",
+      "meaning": "Dungeons are persistent geographic prisms/strata, not one-time cleared levels",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/03_DUNGEONS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E20",
+      "meaning": "AERA dungeons do not require an endemic collapse-driven monster crisis",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/03_DUNGEONS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E21",
+      "meaning": "Eldris are effectively confined to compatible dungeon strata",
+      "prior_finding": "WEAKENED",
+      "treatment": "Source detail restored in payload",
+      "destination": "L2/ENVIRONMENT/03_DUNGEONS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E22",
+      "meaning": "Dungeon exterior settlements are comparatively safe because of containment",
+      "prior_finding": "PRESERVED IN SUMMARY",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/03_DUNGEONS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E23",
+      "meaning": "Dungeon oscillation allows changing admissible configurations",
+      "prior_finding": "SOURCE DETAIL TO ADD",
+      "treatment": "Source detail restored in payload",
+      "destination": "L2/ENVIRONMENT/03_DUNGEONS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E24",
+      "meaning": "Dungeons can yield crystals, flora, cores and unusual resource events, including no-monster outcomes",
+      "prior_finding": "PARTIAL",
+      "treatment": "Source detail restored in payload",
+      "destination": "L2/ENVIRONMENT/03_DUNGEONS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E25",
+      "meaning": "Dungeon output is determined by admissibility, not encounter fairness",
+      "prior_finding": "SOURCE DETAIL TO ADD",
+      "treatment": "Source detail restored in payload",
+      "destination": "L2/ENVIRONMENT/03_DUNGEONS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E26",
+      "meaning": "Genesis storms are localized field disturbances",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E27",
+      "meaning": "Storms can produce eldris without producing domai",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E28",
+      "meaning": "Domai are temporary bounded environments, not conscious organisms",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E29",
+      "meaning": "Red–Violet domai; no White domai",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E30",
+      "meaning": "Non-conscious superposed White structural crystal core",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E31",
+      "meaning": "The core does not govern or command the eldris",
+      "prior_finding": "PARTIAL",
+      "treatment": "Source detail restored in payload",
+      "destination": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E32",
+      "meaning": "Core break causes progressive unraveling, not instantaneous disappearance",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E33",
+      "meaning": "Natural expiration is another route to unraveling/dissipation",
+      "prior_finding": "SOURCE DETAIL TO ADD",
+      "treatment": "Source detail restored in payload",
+      "destination": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E34",
+      "meaning": "Source lifespan generally increases with basin, without fixed timers",
+      "prior_finding": "SOURCE DETAIL TO ADD",
+      "treatment": "Source detail restored in payload",
+      "destination": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E35",
+      "meaning": "Nearby depth is usable while distant depth degrades toward a blurred surface-like/2D appearance",
+      "prior_finding": "PARTIAL",
+      "treatment": "Source detail restored in payload",
+      "destination": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E36",
+      "meaning": "Domai harvests include crystals, Genesis dust/White dust, vaen and other resources",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E37",
+      "meaning": "Core unraveling gives a risky final harvest and evacuation period",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E38",
+      "meaning": "Non-Genesis, Genesis-adapted and Genesis-dependent biology",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/GENESIS_BIOLOGY.md + L2/ALCHEMY_VAEN.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E39",
+      "meaning": "Other Genesis organisms need not be eldris; glow alone does not define dependence",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/GENESIS_BIOLOGY.md + L2/ALCHEMY_VAEN.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E40",
+      "meaning": "A biological resource can be used in Alchemy and qualify as vaen by its identity/properties",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/GENESIS_BIOLOGY.md + L2/ALCHEMY_VAEN.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E41",
+      "meaning": "Physical sigils, arrays and Architect-created velis are distinct technologies",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/05_STABILIZATION_AND_WILDS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E42",
+      "meaning": "Metropolitan arrays can stabilize a larger territory against collapse risk",
+      "prior_finding": "PRESERVED IN SUMMARY",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/05_STABILIZATION_AND_WILDS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E43",
+      "meaning": "The Wilds is a Genesis-risk condition outside reliable stabilization, not a biome",
+      "prior_finding": "SOURCE DETAIL TO ADD",
+      "treatment": "Source detail restored in payload",
+      "destination": "L2/ENVIRONMENT/05_STABILIZATION_AND_WILDS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E44",
+      "meaning": "Organic towns/dungeon-support settlements are distinct from planned Village Hubs",
+      "prior_finding": "OPTIONAL SOURCE EXAMPLE",
+      "treatment": "Optional source example preserved as such",
+      "destination": "L2/ENVIRONMENT/05_STABILIZATION_AND_WILDS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E45",
+      "meaning": "Dungeon delvers and storm chasers have distinct operating cultures",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/CULTURE_AND_GAMES.md + L2/ENVIRONMENT/06_ENVIRONMENTAL_CONNECTIONS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E46",
+      "meaning": "Aithren belonging, competence, discovery, contribution, technical/social gatherings",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/CULTURE_AND_GAMES.md + L2/ENVIRONMENT/06_ENVIRONMENTAL_CONNECTIONS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E47",
+      "meaning": "Vaelum are independent organizations; Crown/Accord recognition is not universal command",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/CULTURE_AND_GAMES.md + L2/ENVIRONMENT/06_ENVIRONMENTAL_CONNECTIONS.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E48",
+      "meaning": "Specific MK147 response pattern: Red/Orange local vaelle and specialist aithren; Yellow+ military involvement",
+      "prior_finding": "OPTIONAL SOURCE EXAMPLE",
+      "treatment": "Optional source example preserved as such",
+      "destination": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md, section 7",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E49",
+      "meaning": "Local societies, gateway realizations, encounter populations and temporal ratios remain author-selected",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md + L2/ASTRONOMY_GEOGRAPHY.md",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    },
+    {
+      "id": "E50",
+      "meaning": "Standalone behavioral constitution remains in its own repository domain",
+      "prior_finding": "PRESERVED",
+      "treatment": "Existing accepted meaning retained / protected",
+      "destination": "chat-thread/CHAT_THREAD_CONSTITUTION.md (protected, unchanged)",
+      "publication_status": "PENDING_CODEX_PUBLICATION"
+    }
+  ],
+  "additional_actions": [
+    {
+      "id": "ENV-06",
+      "action": "Correct dungeon/dmai excursions to dungeon/domai excursions only",
+      "destination": "L2/CULTURE_AND_GAMES.md"
+    },
+    {
+      "id": "SRC-01",
+      "action": "Preserve complete original master, 12 pages / sections 0–18, and source boundaries",
+      "destination": "provenance/environment-v0.5.0/sources/ELDRIS_MASTER_LRS.pdf"
+    }
+  ]
+}

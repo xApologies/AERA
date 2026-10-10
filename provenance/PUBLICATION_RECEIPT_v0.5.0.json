@@ -1,0 +1,1006 @@
+{
+  "package": "AERA_ENVIRONMENT_SEMANTIC_PASS_v0.5.0",
+  "date": "2026-10-10",
+  "baseline_head": "7a939c3d8614cbc98d5476c9888551101563f105",
+  "target": "https://github.com/xApologies/AERA",
+  "branch": "main",
+  "package_sha256": "1d4d1f6d0434bbcc56029cde63d7b58afe402e5cfb0ec4fa471e587a1b593f37",
+  "manifest_sha256": "ebe4f651d94aefcafd630ec74c5d8b65e50ce9d300d7e5270370c8709f41a30c",
+  "source_pdf_sha256": "b202cf5ebbaf0e79e0a2e22b922a3ce6adbfe9f5bc35d8d122daa49494707bcc",
+  "source_hashes": {
+    "package": "AERA_ENVIRONMENT_SEMANTIC_PASS_v0.5.0",
+    "date": "2026-10-10",
+    "target_commit": "7a939c3d8614cbc98d5476c9888551101563f105",
+    "sources": [
+      {
+        "id": "eldris_master",
+        "title": "MK147 MASTER MODEL — ELDRIS / LRS",
+        "original_filename": "MASTER(1).pdf",
+        "source": "Current conversation upload; author-designated definitive reference",
+        "sha256": "b202cf5ebbaf0e79e0a2e22b922a3ce6adbfe9f5bc35d8d122daa49494707bcc",
+        "bytes": 129675,
+        "pages": 12,
+        "sections": "0–18",
+        "local_path": "provenance/environment-v0.5.0/sources/ELDRIS_MASTER_LRS.pdf",
+        "extraction_path": "provenance/environment-v0.5.0/sources/ELDRIS_MASTER_EXTRACTED.txt",
+        "identity_note": "Byte-identical to the master supplied during the preceding environmental audit; preservation does not silently reverse the earlier AERA generalization of origin."
+      },
+      {
+        "id": "mk147_storms",
+        "repository": "xApologies/Mk-147",
+        "commit": "ae7c8b406370b752fd5e6f809be0148315294379",
+        "path": "live-model/02_WORLD/STORMS_DOMAI.md",
+        "git_blob_sha": "16cacdb88e0e16cdfe3ecb756e5d8afaed7c785f",
+        "sha256": "e643d2fd635b561f5fc5d81543ff157e96364e727e08248a6648d9a6995d8ba2",
+        "local_path": "provenance/environment-v0.5.0/sources/mk147_storms.txt",
+        "scope": "Selected exact source file; not an upstream tree clone",
+        "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/02_WORLD/STORMS_DOMAI.md"
+      },
+      {
+        "id": "mk147_dungeons",
+        "repository": "xApologies/Mk-147",
+        "commit": "ae7c8b406370b752fd5e6f809be0148315294379",
+        "path": "live-model/02_DOMAINS/ELDRIS_DUNGEONS_DOMAI.md",
+        "git_blob_sha": "9c3328f9c0e158ffd5333b1c8ebe40ac1e8efedf",
+        "sha256": "1faeac297e4e27a9f4b0f0e3dab683b1b499d4aa7a290f573d58cc712e7f2d61",
+        "local_path": "provenance/environment-v0.5.0/sources/mk147_dungeons.txt",
+        "scope": "Selected exact source file; not an upstream tree clone",
+        "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/02_DOMAINS/ELDRIS_DUNGEONS_DOMAI.md"
+      },
+      {
+        "id": "mk147_settlements",
+        "repository": "xApologies/Mk-147",
+        "commit": "ae7c8b406370b752fd5e6f809be0148315294379",
+        "path": "live-model/02_WORLD/KINGDOM_SETTLEMENTS.md",
+        "git_blob_sha": "bbe9c86bd09098f2d5fbe10e0f6acf62d0188794",
+        "sha256": "ebbf49942d3286dcede85d5c37e1875b670d8f398f625f9e812845c0475cc7cb",
+        "local_path": "provenance/environment-v0.5.0/sources/mk147_settlements.txt",
+        "scope": "Selected exact source file; not an upstream tree clone",
+        "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/02_WORLD/KINGDOM_SETTLEMENTS.md"
+      },
+      {
+        "id": "mk147_authority",
+        "repository": "xApologies/Mk-147",
+        "commit": "ae7c8b406370b752fd5e6f809be0148315294379",
+        "path": "live-model/00_GOVERNANCE/V2_CANON_AUTHORITY.md",
+        "git_blob_sha": "2fd9dded65b9421e308258c33af8050879121f7e",
+        "sha256": "e7b6001f5162f8ab3d5a13f3151032ec5d6f9894db95a13dcbb60ce2fffb08cd",
+        "local_path": "provenance/environment-v0.5.0/sources/mk147_authority.txt",
+        "scope": "Selected exact source file; not an upstream tree clone",
+        "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/00_GOVERNANCE/V2_CANON_AUTHORITY.md"
+      }
+    ],
+    "supplemental_no_white_source": {
+      "repository": "xApologies/MK157",
+      "commit": "af81a7d15f2123434df6c4f56544b92d9df18a43",
+      "path": "live-model/ELDRIS_REFERENCE.md",
+      "scope": "Only general ontology/palette; no encounters, trials, character application, rewards or gameplay imported",
+      "url": "https://github.com/xApologies/MK157/blob/af81a7d15f2123434df6c4f56544b92d9df18a43/live-model/ELDRIS_REFERENCE.md"
+    }
+  },
+  "files_installed": [
+    {
+      "path": "L2/CULTURE_AND_GAMES.md",
+      "sha256": "2a0c9afcbbc229fa48a91879dba575e26d5471dfe89d6557f30bf9f66188cb57",
+      "bytes": 4117,
+      "integration": "baseline-compatible narrow edit"
+    },
+    {
+      "path": "L2/ENVIRONMENT/00_READ_FIRST.md",
+      "sha256": "e7993f3740fc2b291ad1455af15904d2afc6869799eaada5ca3f5eecfb722710",
+      "bytes": 3241,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md",
+      "sha256": "b3912742f6c5c4bdb47f58ec7b794c2d16191e19070ab5fcd1125559c93681b6",
+      "bytes": 3720,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "sha256": "1724812bff74574a1b19caf72f7c5d88ae37a411ab31ae21bf1d461bce0cd8f2",
+      "bytes": 11523,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "L2/ENVIRONMENT/03_DUNGEONS.md",
+      "sha256": "f7cb7bd2a09ba38ec92c26ce0374ed0849eb6ba8eaecab7928cb79d2e105bf3f",
+      "bytes": 5792,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+      "sha256": "a1059b6f7084ddf3bebea0ff40a36224b27ac648f0e92c5b64c83abee4ca40d6",
+      "bytes": 4886,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "L2/ENVIRONMENT/05_STABILIZATION_AND_WILDS.md",
+      "sha256": "384cececd0bb9a160172a7a0b22459e97436fa8f2b812f189a83104534430717",
+      "bytes": 3627,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "L2/ENVIRONMENT/06_ENVIRONMENTAL_CONNECTIONS.md",
+      "sha256": "6b61cc3c1c56bac20ecd59f0a33644c8cf400290fe910cd97e39c93f1206f340",
+      "bytes": 3665,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "L2/GENESIS_ENVIRONMENTS.md",
+      "sha256": "c7d4ff52978f10ba8f075beaf924db8b62b2b91d8732eecffbe84aca053de514",
+      "bytes": 5840,
+      "integration": "baseline-compatible narrow edit"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/AUDIT_COVERAGE.json",
+      "sha256": "a771cc8958e1620e50e271bb5e8cafd94842312f7f0b46471c50ecdb964d2783",
+      "bytes": 18011,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/AUDIT_COVERAGE.md",
+      "sha256": "08a0c9bf843eef75ba0ce7fa950464a22f93e4fcbad606df3ef117a05375c04d",
+      "bytes": 10694,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/CHANGE_RECORD.md",
+      "sha256": "08e33caef89f83a51ca3e13031ebc43cab58f214637a994f17e2221dc8ebf6ed",
+      "bytes": 2163,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/MASTER_SECTION_MAP.md",
+      "sha256": "286544c2a7ae1192124e10ac225932ea1e5e4a7d7abe5d05ae93bb9a85288a2a",
+      "bytes": 3935,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/PREVIOUS_ENVIRONMENT_AUDIT.md",
+      "sha256": "09e3a863c6c10716022131b86517cf5e71c07ed2b1c12e534e1fe21bb63521df",
+      "bytes": 21286,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/SOURCE_BOUNDARIES.md",
+      "sha256": "5a0b0eb56d995c96656164197bae7b387470e26015bf551cfdc5547c20a056d7",
+      "bytes": 4227,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/SOURCE_CONTEXT_NOTES.md",
+      "sha256": "8723c621d6fa1aec4399fd1e9deb63ed0aa92c633682d6886b88b8fcad2fe0ca",
+      "bytes": 3315,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/SOURCE_REGISTER.json",
+      "sha256": "c39c2d607a147e1e58eced34770db57234d9d0d221fd2998eb031bfe3c3a9af3",
+      "bytes": 3937,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/SOURCE_REGISTER.md",
+      "sha256": "0c1d1019dbde9209b3d18b9e9c04637ad6b1a92cf5939ff04fd26120a2d54883",
+      "bytes": 4717,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/sources/ELDRIS_MASTER_EXTRACTED.txt",
+      "sha256": "5ad7ca24d875a552220fa9052652907e2ac07298b8e9c8d046ace4012f5fb42e",
+      "bytes": 17638,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/sources/ELDRIS_MASTER_LRS.pdf",
+      "sha256": "b202cf5ebbaf0e79e0a2e22b922a3ce6adbfe9f5bc35d8d122daa49494707bcc",
+      "bytes": 129675,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/sources/mk147_authority.txt",
+      "sha256": "e7b6001f5162f8ab3d5a13f3151032ec5d6f9894db95a13dcbb60ce2fffb08cd",
+      "bytes": 688,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/sources/mk147_dungeons.txt",
+      "sha256": "1faeac297e4e27a9f4b0f0e3dab683b1b499d4aa7a290f573d58cc712e7f2d61",
+      "bytes": 1427,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/sources/mk147_settlements.txt",
+      "sha256": "ebbf49942d3286dcede85d5c37e1875b670d8f398f625f9e812845c0475cc7cb",
+      "bytes": 2147,
+      "integration": "new exact payload"
+    },
+    {
+      "path": "provenance/environment-v0.5.0/sources/mk147_storms.txt",
+      "sha256": "e643d2fd635b561f5fc5d81543ff157e96364e727e08248a6648d9a6995d8ba2",
+      "bytes": 2456,
+      "integration": "new exact payload"
+    }
+  ],
+  "navigation_and_release_files": [
+    "L2/README.md",
+    "FRAMEWORK_INDEX.md",
+    "CHANGELOG.md",
+    "NEXT_THREAD_HANDOFF.md",
+    "provenance/DECISION_LEDGER.md"
+  ],
+  "reviewed_merge_differences": [],
+  "preserved_hashes": {
+    "CONCEPTS/00_READ_FIRST.md": "9ffd766d24ed3975a90a4d9fbcf0fb6a487022ad898eb822f9636757f268fc33",
+    "CONCEPTS/01_SEVEN_REALMS.md": "3fce72b3df3e4012f22ba2cfc8dffc6c205465f823b7d49ab8b1c4997f97a7d1",
+    "CONCEPTS/02_UNWRITTEN.md": "7a5bc8138448c7d6dc5b8a11aec1baae0ff907d1f488b8232b8da4216e065a9c",
+    "CONCEPTS/03_BORROWED_HOURS.md": "e72c4b6eb5f6d45f9b13be5884115ca92edb1051c7f714dfbb867af4d830badb",
+    "CONCEPTS/04_THOUSAND_THREADS.md": "b4d7277cb578d9439f1b0deaf8503f2859f8d8f2516f01ee80cd1efcffd1e846",
+    "CONCEPTS/05_COVENANT_GARDENS.md": "c4bd86f19c5a3f1f8d592c74e47b8680e7c648d5922502350b8299eaadf22587",
+    "CONCEPTS/06_LIVING_ART.md": "7ecea30e375dadec449eeb2fcbffa001aa64dab750a3090f1e27874131bb0baa",
+    "CONCEPTS/07_CARTOGRAPHERS.md": "cd4928bbf523b0655f00252f0199fb5aeca072c8f05242b805cf27645894f521",
+    "CONCEPTS/08_CROSSWALK.md": "ed323293a5d5bea365398cb93def76b317b732dd7fa619b9fda3c349a9aed933",
+    "CONSTITUTION.md": "5345121d04f3e5d6df738d93d198bdca3e3f9141f37c1d0903cabd321494a8de",
+    "L0/CHROMATIC_EXISTENCE.md": "17dc8ff5acc7a218601dd1cf0a99a99a74a661405356a1779336e6dffbfd1639",
+    "L0/GENESIS_FIELD.md": "0319b4c84089a9b459e5811e733b488cb67e2a618656fbbaa48cb8a5582ace6b",
+    "L0/GRAVITY_TIME_ER_FOAM.md": "b42d84f2fc74a5bf31c753e21e61ea1b40b28996a8806fbbdcdcd4411c0d7893",
+    "L0/RAINBOW_ROAD.md": "dab71bcf0e25ea3ed4084bc45608e96669e5d694cfd13ed1089f65f68103ce8c",
+    "L0/README.md": "6e90283e7f4129f9b6ba971b03a2e44c7d31ab59b3734d8fe38cef6927aec98e",
+    "L1/FATIGUE_CONCEPT.md": "e92e7a3b5e3a3408d9604159bf417af5b9ee9ec0a033dde81384a7888e9304b7",
+    "L1/GENESIS_ACCESS.md": "1bb5daffa6ab8e96f9e3466bfe1e177f51af100e0c9e64d42ec75444d83b51ff",
+    "L1/OPERATIONS.md": "17fd812046f23b9e12eeda5e1d63ccbc9ca14b0819b2373dcc06ff4cc3f8893b",
+    "L1/README.md": "8f56e6a43afaaf197b5c91d1f885e8972fd8feb6ea8a9ec6af8505809957126e",
+    "L1/SHAPING_INTERFACES.md": "6b834d33aee69e7273fe37d1dbe32e00c3a27d5a5d87cd94ff1615ac9438b588",
+    "L1/TRANSDUCTION_LIFECYCLE.md": "698b843c630a107e19cd0fdd6671062420d6e9345174b9231606540807d85876",
+    "PROPHECIES.md": "f0520c427bdbfb6331c4350cdad839c75b2087c9855829b6d6aa3fd8655ac807",
+    "chat-thread/CHAT_THREAD_CONSTITUTION.md": "2eae5d887935a19b4704f965b04cad65c62ce6d4d8f6815ffa03c24998db8162",
+    "examples/MK231/KIRA_BLACK_PHOENIX.md": "9cdc75a260c9cad0c327cffb78401a0167e24fb4527816d984d531c2fb35a1a3",
+    "examples/MK231/README.md": "a843387682bd502da3342bef3d8a971517ea6109c586335ff958a0f2eee30dfd",
+    "examples/MK231/REALM_TIME_AND_TRUST.md": "d6ee30af449684c4c461369a80868be911722e306f86b5d9adab3683f705514a",
+    "examples/MK231/SEVEN_BOOKS_AND_COMPANIONS.md": "7d233a1bee3b576e17ce1b758e00525d3abd3444e51e3394b4e4ba6ae0f450bc",
+    "examples/MK231/SEVEN_REALMS_AND_SPECIES.md": "f4b3e88c1c69f2a82ca0f579f0599b3b499263f4544bc2abeaf43ea68f756c85"
+  },
+  "audit_results": [
+    {
+      "id": "E01",
+      "meaning": "Six discrete chromatic energy structures, Red through Violet, separate from operational Transduction domains",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L0/CHROMATIC_EXISTENCE.md",
+        "L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md"
+      ],
+      "section": "Chromatic setting context; Relationships, not a compulsory chain"
+    },
+    {
+      "id": "E02",
+      "meaning": "Reference landmarks 1/7 through 6/7 do not fix every Starscape's realized neon positions",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L0/CHROMATIC_EXISTENCE.md",
+        "L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md"
+      ],
+      "section": "Chromatic setting context; Relationships, not a compulsory chain"
+    },
+    {
+      "id": "E03",
+      "meaning": "White superposes actual configurations; equilibrium is not identical proportions",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L0/CHROMATIC_EXISTENCE.md",
+        "L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md"
+      ],
+      "section": "Chromatic setting context; Relationships, not a compulsory chain"
+    },
+    {
+      "id": "E04",
+      "meaning": "A Starscape can persist while local instability occurs",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L0/CHROMATIC_EXISTENCE.md",
+        "L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md"
+      ],
+      "section": "Chromatic setting context; Relationships, not a compulsory chain"
+    },
+    {
+      "id": "E05",
+      "meaning": "Suitable neon instability supplies collapse-driven environmental phenomena",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L0/CHROMATIC_EXISTENCE.md",
+        "L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md"
+      ],
+      "section": "Chromatic setting context; Relationships, not a compulsory chain"
+    },
+    {
+      "id": "E06",
+      "meaning": "Inhabited realm realization and a particular monster crisis are selectable, not mandatory settings",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L0/CHROMATIC_EXISTENCE.md",
+        "L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md"
+      ],
+      "section": "Chromatic setting context; Relationships, not a compulsory chain"
+    },
+    {
+      "id": "E07",
+      "meaning": "Yellow instability is an MK231 example, not a universal requirement that every threat be Yellow",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L0/CHROMATIC_EXISTENCE.md",
+        "L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md"
+      ],
+      "section": "Chromatic setting context; Relationships, not a compulsory chain"
+    },
+    {
+      "id": "E08",
+      "meaning": "Eldris form from bounded, persistent recursive Genesis/chirality collapse",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/02_ELDRIS.md"
+      ],
+      "section": "1–10"
+    },
+    {
+      "id": "E09",
+      "meaning": "The recursive process stabilizes rather than simply stopping",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/02_ELDRIS.md"
+      ],
+      "section": "1–10"
+    },
+    {
+      "id": "E10",
+      "meaning": "Black collapse body and colored basin traces are distinct",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/02_ELDRIS.md"
+      ],
+      "section": "1–10"
+    },
+    {
+      "id": "E11",
+      "meaning": "Eldris blackness is distinct from Kira's Black-spectrum identity",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/02_ELDRIS.md"
+      ],
+      "section": "1–10"
+    },
+    {
+      "id": "E12",
+      "meaning": "Eldris are not inherently demonic and not ordinary wildlife",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/02_ELDRIS.md"
+      ],
+      "section": "1–10"
+    },
+    {
+      "id": "E13",
+      "meaning": "Eldris are not restricted to dungeon birth",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/02_ELDRIS.md"
+      ],
+      "section": "1–10"
+    },
+    {
+      "id": "E14",
+      "meaning": "Six eldris behavior families and A/B/C threat grouping",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/02_ELDRIS.md"
+      ],
+      "section": "1–10"
+    },
+    {
+      "id": "E15",
+      "meaning": "Energy-mass closure explains physically interacting substance, not ordinary flesh",
+      "prior_finding": "PARTIAL",
+      "result": "PASS — semantically reviewed",
+      "treatment": "source detail restored",
+      "final_destinations": [
+        "L2/ENVIRONMENT/02_ELDRIS.md"
+      ],
+      "section": "1–10"
+    },
+    {
+      "id": "E16",
+      "meaning": "Orange intrusion effects; Yellow force vs Blue expressed secondary effects; Green reinforcement's tactical consequences",
+      "prior_finding": "PARTIAL",
+      "result": "PASS — semantically reviewed",
+      "treatment": "source detail restored",
+      "final_destinations": [
+        "L2/ENVIRONMENT/02_ELDRIS.md"
+      ],
+      "section": "1–10"
+    },
+    {
+      "id": "E17",
+      "meaning": "Delvers classify by observed interaction and trace; first contact matters",
+      "prior_finding": "PARTIAL",
+      "result": "PASS — semantically reviewed",
+      "treatment": "source detail restored",
+      "final_destinations": [
+        "L2/ENVIRONMENT/02_ELDRIS.md"
+      ],
+      "section": "1–10"
+    },
+    {
+      "id": "E18",
+      "meaning": "No White eldris in the inherited palette",
+      "prior_finding": "PARTIAL",
+      "result": "PASS — semantically reviewed",
+      "treatment": "source detail restored",
+      "final_destinations": [
+        "L2/ENVIRONMENT/02_ELDRIS.md"
+      ],
+      "section": "1–10"
+    },
+    {
+      "id": "E19",
+      "meaning": "Dungeons are persistent geographic prisms/strata, not one-time cleared levels",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/03_DUNGEONS.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E20",
+      "meaning": "AERA dungeons do not require an endemic collapse-driven monster crisis",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/03_DUNGEONS.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E21",
+      "meaning": "Eldris are effectively confined to compatible dungeon strata",
+      "prior_finding": "WEAKENED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "source detail restored",
+      "final_destinations": [
+        "L2/ENVIRONMENT/03_DUNGEONS.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E22",
+      "meaning": "Dungeon exterior settlements are comparatively safe because of containment",
+      "prior_finding": "PRESERVED IN SUMMARY",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/03_DUNGEONS.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E23",
+      "meaning": "Dungeon oscillation allows changing admissible configurations",
+      "prior_finding": "SOURCE DETAIL TO ADD",
+      "result": "PASS — semantically reviewed",
+      "treatment": "source detail restored",
+      "final_destinations": [
+        "L2/ENVIRONMENT/03_DUNGEONS.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E24",
+      "meaning": "Dungeons can yield crystals, flora, cores and unusual resource events, including no-monster outcomes",
+      "prior_finding": "PARTIAL",
+      "result": "PASS — semantically reviewed",
+      "treatment": "source detail restored",
+      "final_destinations": [
+        "L2/ENVIRONMENT/03_DUNGEONS.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E25",
+      "meaning": "Dungeon output is determined by admissibility, not encounter fairness",
+      "prior_finding": "SOURCE DETAIL TO ADD",
+      "result": "PASS — semantically reviewed",
+      "treatment": "source detail restored",
+      "final_destinations": [
+        "L2/ENVIRONMENT/03_DUNGEONS.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E26",
+      "meaning": "Genesis storms are localized field disturbances",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E27",
+      "meaning": "Storms can produce eldris without producing domai",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E28",
+      "meaning": "Domai are temporary bounded environments, not conscious organisms",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E29",
+      "meaning": "Red–Violet domai; no White domai",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E30",
+      "meaning": "Non-conscious superposed White structural crystal core",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E31",
+      "meaning": "The core does not govern or command the eldris",
+      "prior_finding": "PARTIAL",
+      "result": "PASS — semantically reviewed",
+      "treatment": "source detail restored",
+      "final_destinations": [
+        "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E32",
+      "meaning": "Core break causes progressive unraveling, not instantaneous disappearance",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E33",
+      "meaning": "Natural expiration is another route to unraveling/dissipation",
+      "prior_finding": "SOURCE DETAIL TO ADD",
+      "result": "PASS — semantically reviewed",
+      "treatment": "source detail restored",
+      "final_destinations": [
+        "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E34",
+      "meaning": "Source lifespan generally increases with basin, without fixed timers",
+      "prior_finding": "SOURCE DETAIL TO ADD",
+      "result": "PASS — semantically reviewed",
+      "treatment": "source detail restored",
+      "final_destinations": [
+        "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E35",
+      "meaning": "Nearby depth is usable while distant depth degrades toward a blurred surface-like/2D appearance",
+      "prior_finding": "PARTIAL",
+      "result": "PASS — semantically reviewed",
+      "treatment": "source detail restored",
+      "final_destinations": [
+        "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E36",
+      "meaning": "Domai harvests include crystals, Genesis dust/White dust, vaen and other resources",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E37",
+      "meaning": "Core unraveling gives a risky final harvest and evacuation period",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md"
+      ],
+      "section": "1–8"
+    },
+    {
+      "id": "E38",
+      "meaning": "Non-Genesis, Genesis-adapted and Genesis-dependent biology",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/GENESIS_BIOLOGY.md",
+        "L2/ALCHEMY_VAEN.md"
+      ],
+      "section": "Three existing organism classifications; Interactions with Alchemy; vaen"
+    },
+    {
+      "id": "E39",
+      "meaning": "Other Genesis organisms need not be eldris; glow alone does not define dependence",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/GENESIS_BIOLOGY.md",
+        "L2/ALCHEMY_VAEN.md"
+      ],
+      "section": "Three existing organism classifications; Interactions with Alchemy; vaen"
+    },
+    {
+      "id": "E40",
+      "meaning": "A biological resource can be used in Alchemy and qualify as vaen by its identity/properties",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/GENESIS_BIOLOGY.md",
+        "L2/ALCHEMY_VAEN.md"
+      ],
+      "section": "Three existing organism classifications; Interactions with Alchemy; vaen"
+    },
+    {
+      "id": "E41",
+      "meaning": "Physical sigils, arrays and Architect-created velis are distinct technologies",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/05_STABILIZATION_AND_WILDS.md"
+      ],
+      "section": "1–5"
+    },
+    {
+      "id": "E42",
+      "meaning": "Metropolitan arrays can stabilize a larger territory against collapse risk",
+      "prior_finding": "PRESERVED IN SUMMARY",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/05_STABILIZATION_AND_WILDS.md"
+      ],
+      "section": "1–5"
+    },
+    {
+      "id": "E43",
+      "meaning": "The Wilds is a Genesis-risk condition outside reliable stabilization, not a biome",
+      "prior_finding": "SOURCE DETAIL TO ADD",
+      "result": "PASS — semantically reviewed",
+      "treatment": "source detail restored",
+      "final_destinations": [
+        "L2/ENVIRONMENT/05_STABILIZATION_AND_WILDS.md"
+      ],
+      "section": "1–5"
+    },
+    {
+      "id": "E44",
+      "meaning": "Organic towns/dungeon-support settlements are distinct from planned Village Hubs",
+      "prior_finding": "OPTIONAL SOURCE EXAMPLE",
+      "result": "PASS — semantically reviewed",
+      "treatment": "optional source example retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/05_STABILIZATION_AND_WILDS.md"
+      ],
+      "section": "1–5"
+    },
+    {
+      "id": "E45",
+      "meaning": "Dungeon delvers and storm chasers have distinct operating cultures",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/CULTURE_AND_GAMES.md",
+        "L2/ENVIRONMENT/06_ENVIRONMENTAL_CONNECTIONS.md"
+      ],
+      "section": "1–6"
+    },
+    {
+      "id": "E46",
+      "meaning": "Aithren belonging, competence, discovery, contribution, technical/social gatherings",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/CULTURE_AND_GAMES.md",
+        "L2/ENVIRONMENT/06_ENVIRONMENTAL_CONNECTIONS.md"
+      ],
+      "section": "1–6"
+    },
+    {
+      "id": "E47",
+      "meaning": "Vaelum are independent organizations; Crown/Accord recognition is not universal command",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/CULTURE_AND_GAMES.md",
+        "L2/ENVIRONMENT/06_ENVIRONMENTAL_CONNECTIONS.md"
+      ],
+      "section": "1–6"
+    },
+    {
+      "id": "E48",
+      "meaning": "Specific MK147 response pattern: Red/Orange local vaelle and specialist aithren; Yellow+ military involvement",
+      "prior_finding": "OPTIONAL SOURCE EXAMPLE",
+      "result": "PASS — semantically reviewed",
+      "treatment": "optional source example retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md"
+      ],
+      "section": "7. Optional MK147 response example"
+    },
+    {
+      "id": "E49",
+      "meaning": "Local societies, gateway realizations, encounter populations and temporal ratios remain author-selected",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md",
+        "L2/ASTRONOMY_GEOGRAPHY.md"
+      ],
+      "section": "Chromatic setting context; Relationships, not a compulsory chain"
+    },
+    {
+      "id": "E50",
+      "meaning": "Standalone behavioral constitution remains in its own repository domain",
+      "prior_finding": "PRESERVED",
+      "result": "PASS — semantically reviewed",
+      "treatment": "retained",
+      "final_destinations": [
+        "chat-thread/CHAT_THREAD_CONSTITUTION.md"
+      ],
+      "section": "Protected standalone behavioral constitution"
+    }
+  ],
+  "source_section_results": [
+    {
+      "section": 0,
+      "heading": "Name / term",
+      "pdf_pages": "1",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "ELDRIS/LRS equivalence; original dungeon-born wording also retained with explicit scope note.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 1,
+      "heading": "What an eldris is",
+      "pdf_pages": "1",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "Persistent process, not evil or ordinary finished object; stable/closed/admitted.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 2,
+      "heading": "Origin pipeline",
+      "pdf_pages": "1–2",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "Basic and expanded sequences; basin/collapse/closure-state distinction.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 3,
+      "heading": "Why they look black",
+      "pdf_pages": "2–3",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "Containment, color leakage sites and examples.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 4,
+      "heading": "Basin identity versus visual color",
+      "pdf_pages": "3",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "Collapse body versus basin-derived behavior.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 5,
+      "heading": "Basin classifications",
+      "pdf_pages": "4–6",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "All six families, substance/force/effects and tactical distinctions.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 6,
+      "heading": "Power category model",
+      "pdf_pages": "6–7",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "A/B/C and qualitative transition jumps; no invented numerical law.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 7,
+      "heading": "Relation to chirality field",
+      "pdf_pages": "7",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "Propagation, boundary, persistence, closure, admissibility, recursive inheritance.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 8,
+      "heading": "Relation to Genesis Field",
+      "pdf_pages": "7–8",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "Normal matter-like organization versus stabilized runaway collapse.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 9,
+      "heading": "S3 / closed manifold intuition",
+      "pdf_pages": "8",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "Retain source qualification; further context in SOURCE_CONTEXT_NOTES.md.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 10,
+      "heading": "Why they have substance",
+      "pdf_pages": "8",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "Energy-mass closure, physical interaction and dispersal; not ordinary flesh.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 11,
+      "heading": "Relation to spirits",
+      "pdf_pages": "8–9",
+      "final_destination": "provenance/environment-v0.5.0/SOURCE_CONTEXT_NOTES.md",
+      "preservation_note": "Preserved source-context discussion; not a new mandatory afterlife system.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 12,
+      "heading": "Dungeon connection",
+      "pdf_pages": "9–10",
+      "final_destination": "L2/ENVIRONMENT/03_DUNGEONS.md",
+      "preservation_note": "Oscillation; all output categories; example populations; admissibility not fairness.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 13,
+      "heading": "Visual canon",
+      "pdf_pages": "10",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "Body, possible horns/limbs, trace and exclusions.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 14,
+      "heading": "Story classification",
+      "pdf_pages": "10–11",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "Classification by behavior/trace; first contact matters.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 15,
+      "heading": "Why this model matters",
+      "pdf_pages": "11",
+      "final_destination": "provenance/environment-v0.5.0/SOURCE_CONTEXT_NOTES.md",
+      "preservation_note": "Source synthesis and scope retained in SOURCE_CONTEXT_NOTES.md.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 16,
+      "heading": "Definitive one-line model",
+      "pdf_pages": "11",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "Local instability, bounded propagation, basin-dominant persistent entity.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 17,
+      "heading": "Definitive short form",
+      "pdf_pages": "11–12",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "Black collapse structure; colors identify closure, not body pigment.",
+      "result": "PASS — source text and destination reviewed"
+    },
+    {
+      "section": 18,
+      "heading": "Final canon phrase",
+      "pdf_pages": "12",
+      "final_destination": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "preservation_note": "The collapse did not stop. It stabilized.",
+      "result": "PASS — source text and destination reviewed"
+    }
+  ],
+  "validation": {
+    "safe_relative_paths": true,
+    "zip_crc_entries": 31,
+    "package_members_verified": 29,
+    "manifest_checksum": true,
+    "installed_payload_paths_verified": 24,
+    "local_markdown_targets_checked": 113,
+    "broken_local_markdown_targets": 0,
+    "semantic_review": "All 50 meanings and all 19 source sections read and mapped; qualifications, optionality, historical source scope and unchanged baseline concepts retained.",
+    "source_scope": "Evidence supplied in package; no other repositories fetched or cloned. Historical prior-audit publication statuses remain immutable; this receipt records final integration.",
+    "constitutions_byte_identical": true,
+    "protected_content_unchanged": true
+  },
+  "exclusions": [
+    "_inbox/",
+    "*.zip",
+    "external staging",
+    "handoff wrapper/tools/integration files",
+    "renders/caches/logs"
+  ],
+  "publication_state": "Validated integration for ordinary publication; actual final local/remote SHA reported after push, not embedded self-referentially."
+}

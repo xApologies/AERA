@@ -24,3 +24,11 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Preserved the root Constitution, existing canon, original prophecy table, and separate Black Prophecy; added navigation only to the existing prophecy and framework index documents.
 - Kept INTERPRETIVE explanations and OPEN mechanics labeled; no upstream repositories or new mechanics were imported.
 - Preserved package instructions and integrity evidence in the publication receipt; inbound and historical ZIPs remain local and ignored.
+
+## v0.5.0 — Environmental semantic pass (2026-10-10)
+
+- Restored effective dungeon confinement, oscillating admissible configurations and full resource/no-monster outputs.
+- Expanded eldris substance, six behavioral families, A/B/C categories, observation-based identification and source-attributed no-White palette.
+- Restored domai lifespan/perception, non-conscious structural core, natural expiration/core destruction and progressive unraveling; defined the Wilds as Genesis-risk rather than biome.
+- Corrected only dungeon/dmai to dungeon/domai in the cultural chapter.
+- Preserved the original 12-page master PDF, extracted text, all 19 source sections, 50-item audit and selected evidence snapshots; both constitutions and unrelated canon are unchanged.

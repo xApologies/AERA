@@ -29,3 +29,7 @@ This is the navigation hub for author and AI. Open only the topical documents yo
 ## Seven Concepts semantic expansion
 
 Read [CONCEPTS/00_READ_FIRST.md](CONCEPTS/00_READ_FIRST.md) for the seven expanded concepts, [CONCEPTS/08_CROSSWALK.md](CONCEPTS/08_CROSSWALK.md) for their boundaries, and [provenance/SEMANTIC_AUDIT.md](provenance/SEMANTIC_AUDIT.md) for source lineage and open questions.
+
+## Environmental semantic preservation — v0.5.0
+
+Read [L2/ENVIRONMENT/00_READ_FIRST.md](L2/ENVIRONMENT/00_READ_FIRST.md), the [50-item audit](provenance/environment-v0.5.0/AUDIT_COVERAGE.md), and the [source register](provenance/environment-v0.5.0/SOURCE_REGISTER.md). The original eldris master and all 19 numbered sections are preserved with explicit source boundaries.

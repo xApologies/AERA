@@ -27,10 +27,23 @@ Temporary, bounded Genesis-event **environment**, not a conscious lifeform. It m
 
 ## Dungeons — related but distinct
 
-Persistent geographic environmental **prisms/strata** separating Genesis-field expression by the R→V structural basins. They are not just cleared 'levels' and need not vanish once explored. In MK147, compatible eldris tend to stay in their dungeon strata so settlements outside dungeon entrances are comparatively safe. **Dungeons can be imagined without an overarching disequilibrium and without ELDRIS** in an author's AERA setting. Their local architecture, strata and external cultures are author-defined.
+Persistent geographic environmental **prisms/strata** separating Genesis-field expression by the R→V structural basins. They are not just cleared 'levels' and need not vanish once explored. In the inherited MK147 model, eldris are **effectively confined to compatible strata**, so settlements outside dungeon entrances are comparatively safe. This is environmental confinement, not merely a tendency to remain in place. **Dungeons can be imagined without an overarching disequilibrium and without ELDRIS** in an author's AERA setting. Their local architecture, strata and external cultures are author-defined.
 
 ## World example — balance and monster pressure
 
 MK231 inherits an unusually displaced high Yellow neon singularity as a Starscape-local mechanism promoting collapse/eldris/storms/domai. A settled equilibrium world might avoid that entirely, while still supporting dungeons, Alchemy, Genesis flora and human culture. **Do not universalize the MK231 Yellow defect** as the reason all monsters in all AERA worlds exist.
 
 Additional source: [MK147 Storms and domai](https://github.com/xApologies/Mk-147/blob/main/live-model/02_WORLD/STORMS_DOMAI.md).
+
+
+## Environmental source-detail restoration — v0.5.0
+
+The [environmental reference domain](ENVIRONMENT/00_READ_FIRST.md) retains the full source-backed explanations without replacing the existing framework distinctions above.
+
+- [eldris](ENVIRONMENT/02_ELDRIS.md): energy-mass closure rather than ordinary flesh; all six behavioral families; qualitative A/B/C threat groupings; source-scoped no-White palette; observation and first-contact identification.
+- [Dungeons](ENVIRONMENT/03_DUNGEONS.md): effective containment; oscillating admissible states; flowers, crystals, cores and other resource outcomes, including configurations without monsters; admissibility rather than encounter fairness.
+- [Storms and domai](ENVIRONMENT/04_STORMS_AND_DOMAI.md): natural expiration as well as core destruction; progressive unraveling; nearby-versus-distant depth perception; the qualitative lifespan trend; a structural core that does not command eldris.
+- [Stabilization and the Wilds](ENVIRONMENT/05_STABILIZATION_AND_WILDS.md): the Wilds is a Genesis-risk condition outside reliable stabilization, **not a biome**; civic scales remain optional source examples.
+- [Environmental connections](ENVIRONMENT/06_ENVIRONMENTAL_CONNECTIONS.md): existing links to biology, resources, Alchemy, infrastructure and delver/storm-chaser communities.
+
+The [uploaded master](../provenance/environment-v0.5.0/sources/ELDRIS_MASTER_LRS.pdf) is preserved unchanged. See [Source Boundaries](../provenance/environment-v0.5.0/SOURCE_BOUNDARIES.md) for its historical dungeon-born framing, comparative spirit material and explicit separation from supplemental domai/containment sources. No source prose has silently become a new universal rule.

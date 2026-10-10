@@ -17,3 +17,7 @@ Authors determine their planets, stars, geography, weather, ecosystems, politics
 - [`CULTURE_AND_GAMES.md`](CULTURE_AND_GAMES.md) — aithren/vaelum, Raeon, Genesis Cards, Prism, social math culture.
 
 These are **inheritable options**, not universal demands. Each is tagged with its primary upstream reference to avoid rewriting its mathematical mechanism.
+
+## Environmental semantic reference — v0.5.0
+
+Read [ENVIRONMENT/00_READ_FIRST.md](ENVIRONMENT/00_READ_FIRST.md) for expanded eldris, dungeon, domai and Wilds definitions, with source boundaries and preserved evidence.

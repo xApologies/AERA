@@ -1,0 +1,71 @@
+{
+  "package": "AERA_ENVIRONMENT_SEMANTIC_PASS_v0.5.0",
+  "date": "2026-10-10",
+  "target_commit": "7a939c3d8614cbc98d5476c9888551101563f105",
+  "sources": [
+    {
+      "id": "eldris_master",
+      "title": "MK147 MASTER MODEL — ELDRIS / LRS",
+      "original_filename": "MASTER(1).pdf",
+      "source": "Current conversation upload; author-designated definitive reference",
+      "sha256": "b202cf5ebbaf0e79e0a2e22b922a3ce6adbfe9f5bc35d8d122daa49494707bcc",
+      "bytes": 129675,
+      "pages": 12,
+      "sections": "0–18",
+      "local_path": "provenance/environment-v0.5.0/sources/ELDRIS_MASTER_LRS.pdf",
+      "extraction_path": "provenance/environment-v0.5.0/sources/ELDRIS_MASTER_EXTRACTED.txt",
+      "identity_note": "Byte-identical to the master supplied during the preceding environmental audit; preservation does not silently reverse the earlier AERA generalization of origin."
+    },
+    {
+      "id": "mk147_storms",
+      "repository": "xApologies/Mk-147",
+      "commit": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/02_WORLD/STORMS_DOMAI.md",
+      "git_blob_sha": "16cacdb88e0e16cdfe3ecb756e5d8afaed7c785f",
+      "sha256": "e643d2fd635b561f5fc5d81543ff157e96364e727e08248a6648d9a6995d8ba2",
+      "local_path": "provenance/environment-v0.5.0/sources/mk147_storms.txt",
+      "scope": "Selected exact source file; not an upstream tree clone",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/02_WORLD/STORMS_DOMAI.md"
+    },
+    {
+      "id": "mk147_dungeons",
+      "repository": "xApologies/Mk-147",
+      "commit": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/02_DOMAINS/ELDRIS_DUNGEONS_DOMAI.md",
+      "git_blob_sha": "9c3328f9c0e158ffd5333b1c8ebe40ac1e8efedf",
+      "sha256": "1faeac297e4e27a9f4b0f0e3dab683b1b499d4aa7a290f573d58cc712e7f2d61",
+      "local_path": "provenance/environment-v0.5.0/sources/mk147_dungeons.txt",
+      "scope": "Selected exact source file; not an upstream tree clone",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/02_DOMAINS/ELDRIS_DUNGEONS_DOMAI.md"
+    },
+    {
+      "id": "mk147_settlements",
+      "repository": "xApologies/Mk-147",
+      "commit": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/02_WORLD/KINGDOM_SETTLEMENTS.md",
+      "git_blob_sha": "bbe9c86bd09098f2d5fbe10e0f6acf62d0188794",
+      "sha256": "ebbf49942d3286dcede85d5c37e1875b670d8f398f625f9e812845c0475cc7cb",
+      "local_path": "provenance/environment-v0.5.0/sources/mk147_settlements.txt",
+      "scope": "Selected exact source file; not an upstream tree clone",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/02_WORLD/KINGDOM_SETTLEMENTS.md"
+    },
+    {
+      "id": "mk147_authority",
+      "repository": "xApologies/Mk-147",
+      "commit": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/00_GOVERNANCE/V2_CANON_AUTHORITY.md",
+      "git_blob_sha": "2fd9dded65b9421e308258c33af8050879121f7e",
+      "sha256": "e7b6001f5162f8ab3d5a13f3151032ec5d6f9894db95a13dcbb60ce2fffb08cd",
+      "local_path": "provenance/environment-v0.5.0/sources/mk147_authority.txt",
+      "scope": "Selected exact source file; not an upstream tree clone",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/00_GOVERNANCE/V2_CANON_AUTHORITY.md"
+    }
+  ],
+  "supplemental_no_white_source": {
+    "repository": "xApologies/MK157",
+    "commit": "af81a7d15f2123434df6c4f56544b92d9df18a43",
+    "path": "live-model/ELDRIS_REFERENCE.md",
+    "scope": "Only general ontology/palette; no encounters, trials, character application, rewards or gameplay imported",
+    "url": "https://github.com/xApologies/MK157/blob/af81a7d15f2123434df6c4f56544b92d9df18a43/live-model/ELDRIS_REFERENCE.md"
+  }
+}

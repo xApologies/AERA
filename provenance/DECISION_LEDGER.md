@@ -31,3 +31,17 @@
 - Do not treat old screenshot 'Six Realms' as canon; correct name **Seven Realms**.
 - Do not promote provisional art or examples into universal AERA laws.
 - No automatic source clone, overwrite, forced push or GitHub publication claims without actual remote verification.
+
+## Scoped environmental restoration — v0.5.0 (2026-10-10)
+
+Source and status: author-supplied environmental semantic package; inherited source detail, with historical and optional scope retained. See [change record](environment-v0.5.0/CHANGE_RECORD.md) and [source boundaries](environment-v0.5.0/SOURCE_BOUNDARIES.md).
+
+- ENV-01: effectively confined to compatible strata supersedes the weaker tend-to-stay sentence in L2/GENESIS_ENVIRONMENTS.md; detailed destination L2/ENVIRONMENT/03_DUNGEONS.md.
+- ENV-02: restore oscillation, full outputs/no-monster examples and admissibility rather than fairness in L2/ENVIRONMENT/03_DUNGEONS.md.
+- ENV-03: restore domai lifecycle, perception and qualitative lifespan in L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md without fixed timers.
+- ENV-04: restore eldris substance, families, threat groups and identification in L2/ENVIRONMENT/02_ELDRIS.md; no-White is supplemental source evidence.
+- ENV-05: restore the Wilds risk definition and optional civic examples in L2/ENVIRONMENT/05_STABILIZATION_AND_WILDS.md.
+- ENV-06: correct dungeon/dmai excursions to dungeon/domai excursions only in L2/CULTURE_AND_GAMES.md.
+- SRC-01: preserve original PDF, complete text and all 19 sections, prior audit and selected snapshots in environment-v0.5.0/; origin and spirit-context boundaries remain explicit.
+
+These references preserve earlier decisions. Both constitutions, seven concepts, Black Prophecy, L0/L1 and ER Foam remain unchanged; later source migration stays deferred.
