@@ -26,3 +26,11 @@ Read [ENVIRONMENT/00_READ_FIRST.md](ENVIRONMENT/00_READ_FIRST.md) for expanded e
 
 - [Genesis Diamonds](TECHNOLOGY/GENESIS_DIAMONDS.md) — optional energy-storage infrastructure.
 - [Dimensional Rings](TECHNOLOGY/DIMENSIONAL_RINGS.md) — optional recursive-topology conservation devices.
+
+## Source-only inheritance v0.7.0
+
+- [Physical sigils, industry and Architect velis](INHERITANCE/01_SIGILS_AND_VELIS.md)
+- [Alchemy, identity-bearing vaen and Binding](INHERITANCE/02_ALCHEMY_VAEN_AND_BINDING.md)
+- [Culture, agriculture and source-specific technology examples](INHERITANCE/03_CULTURE_AGRICULTURE_AND_TECH.md)
+
+These are optional source-derived expansions. Diamond density conversions and ring-radius wording remain documented source discrepancies pending author decision; definitive v0.6.0 device documents remain unchanged.

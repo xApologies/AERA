@@ -39,3 +39,11 @@ Read [L2/ENVIRONMENT/00_READ_FIRST.md](L2/ENVIRONMENT/00_READ_FIRST.md), the [50
 - [Genesis Diamonds](L2/TECHNOLOGY/GENESIS_DIAMONDS.md) — energy containment, charge states, charging references and size classes.
 - [Dimensional Rings](L2/TECHNOLOGY/DIMENSIONAL_RINGS.md) — inheritance reassignment, conservation and conscious retrieval.
 - [Technology source register](provenance/technology-v0.6.0/SOURCE_REGISTER.md) — original PDFs and searchable text.
+
+## Source-only inheritance v0.7.0
+
+- [Physical sigils, industry and Architect velis](L2/INHERITANCE/01_SIGILS_AND_VELIS.md)
+- [Alchemy, identity-bearing vaen and Binding](L2/INHERITANCE/02_ALCHEMY_VAEN_AND_BINDING.md)
+- [Culture, agriculture and source-specific technology examples](L2/INHERITANCE/03_CULTURE_AGRICULTURE_AND_TECH.md)
+
+These are optional source-derived expansions. Diamond density conversions and ring-radius wording remain documented source discrepancies pending author decision; definitive v0.6.0 device documents remain unchanged.

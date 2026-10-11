@@ -38,3 +38,9 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Preserved definitive 7-page diamond and 20-page ring PDFs with searchable text and source register.
 - Added faithful technology references and replaced only the two brief catalogue summaries; updated navigation and device-source recovery records.
 - Preserved both constitutions, L0/L1, seven concepts, Black Prophecy, environmental v0.5.0 and earlier provenance. Reference values remain source-world examples; no capacity equations, clones or bulk imports.
+
+## v0.7.0 — Source-only inheritance (2026-10-11)
+
+- Added MK147-derived sigil/velis, Alchemy/vaen/Binding and culture/agriculture/technology detail with pinned source references and inheritance audit.
+- Preserved optionality, illustrative values, source-specific naming and OPEN boundaries; left the diamond density ladder and ring-radius wording as discrepancies pending author decision.
+- Preserved constitutions, L0/L1, Seven Concepts, Eight Prophecies, environmental work, definitive diamond/ring documents and earlier provenance. No cloning or bulk imports.
