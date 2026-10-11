@@ -24,7 +24,7 @@
 
 ## MK231 ongoing story unknowns (do not universalize)
 
-- Actual verses of the Eight Prophecies, unicorn prophetic speaker/name, Yellow repair mechanism and world-historical timeline.
+- Full editorial/continuity audit and canon acceptance of the eight literary drafts; unicorn prophetic speaker/name, Yellow repair mechanism and world-historical timeline.
 - Full state of Kira's Affliction following Black Phoenix Binding; precise permissions with eggs/guardians.
 - Exact realm-time conversion ratios; numerical age examples remain illustrative.
 - Amplification multipliers/range, Black Companion abilities, shared-existence manifestation equations.
@@ -38,3 +38,7 @@
 ## Source-recovered technology — v0.6.0
 
 Genesis Diamond and Dimensional Ring device details are **source-recovered v0.6.0** from the supplied definitive masters. Read [Genesis Diamonds](../L2/TECHNOLOGY/GENESIS_DIAMONDS.md), [Dimensional Rings](../L2/TECHNOLOGY/DIMENSIONAL_RINGS.md), and the [source register](technology-v0.6.0/SOURCE_REGISTER.md). This closes device-source recovery only; it does not close the separate mathematical/Time Shell recovery, ER Foam placeholder, Prism rules or author workshop. No capacity equations have been invented.
+
+## Prophecy semantic reconciliation — v0.9.0
+
+Eight literary drafts are [published for review](../prophecies/README.md), not final audited canon. Covenant Gardens / The Covenant Garden naming remains unresolved. Witness/experience and living-like versus biological/conscious systems remain philosophical or formal OPEN questions; no mandatory contracts or observer-created existence are established. See [decision record](PROPHECIES_SEMANTIC_PASS_v0.9.0.md).

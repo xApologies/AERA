@@ -46,3 +46,7 @@ The **author controls** whether an energy basin manifests as a realm, what organ
 - Historical reference images and their qualifications are stored in [`visuals/`](visuals/README.md). A user-provided old screenshot saying **Six Realms** must not override the established **Seven Realms** title.
 - The original v0.2 AERA ZIP is retained exactly in [`history/`](history/README.md); the current README and canon docs supersede conflicts.
 - **License intentionally undecided.** Public source accessibility alone does not decide external reuse terms. The author will choose a license later; do not install one by assumption.
+
+## Prophecy literary drafts — v0.9.0
+
+The eight [prophecy manuscripts](prophecies/README.md) are literary drafts pending Vera's full editorial/continuity audit. Read [current semantic reconciliation](provenance/PROPHECIES_SEMANTIC_PASS_v0.9.0.md) alongside the framework concepts; story-specific history and both constitutions remain preserved.

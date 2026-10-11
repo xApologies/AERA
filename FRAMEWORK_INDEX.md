@@ -47,3 +47,7 @@ Read [L2/ENVIRONMENT/00_READ_FIRST.md](L2/ENVIRONMENT/00_READ_FIRST.md), the [50
 - [Culture, agriculture and source-specific technology examples](L2/INHERITANCE/03_CULTURE_AGRICULTURE_AND_TECH.md)
 
 These are optional source-derived expansions. Diamond density conversions and ring-radius wording remain documented source discrepancies pending author decision; definitive v0.6.0 device documents remain unchanged.
+
+## Prophecy manuscripts and semantic reconciliation — v0.9.0
+
+Read [prophecies/README.md](prophecies/README.md) for the ordered I–VIII literary drafts pending Vera's full editorial/continuity audit, and [the reconciliation record](provenance/PROPHECIES_SEMANTIC_PASS_v0.9.0.md) for current scoped corrections, history and naming variation.

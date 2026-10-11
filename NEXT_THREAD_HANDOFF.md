@@ -19,3 +19,7 @@ Both the root CONSTITUTION.md and chat-thread/CHAT_THREAD_CONSTITUTION.md remain
 ## Technology source-recovery checkpoint — v0.6.0
 
 The diamond/ring details deferred in the v0.5.0 checkpoint above are now **source-recovered v0.6.0**. Read L2/TECHNOLOGY/GENESIS_DIAMONDS.md and L2/TECHNOLOGY/DIMENSIONAL_RINGS.md. The definitive 7-page and 20-page PDFs and page-labelled text are preserved under provenance/technology-v0.6.0/sources/. Both constitutions, mathematical references, environmental work and earlier provenance remain intact. Prism rules, author workshop and full source migration remain deferred; no repository cloning is authorized by this pass.
+
+## Prophecy checkpoint — v0.9.0 (2026-10-11)
+
+Load [prophecies/README.md](prophecies/README.md) and [current semantic authority](provenance/PROPHECIES_SEMANTIC_PASS_v0.9.0.md). Eight exact manuscripts are literary drafts pending Vera's full editorial/continuity audit; Unwritten v3.0 is the accepted current draft. Covenant Gardens now concerns magic and living existence; Living Art concerns living-system expression/evolution. The Black Prophecy is a mysterious singular foretelling; earlier Kira-specific realization facts remain story history. These scoped corrections supersede older interpretations, including historical wording retained in the unchanged root constitution; neither constitution is amended. Singular literary Covenant Garden versus plural framework Covenant Gardens remains unresolved. All unrelated canon and deferred work remain unchanged.

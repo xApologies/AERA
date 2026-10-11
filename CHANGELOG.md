@@ -44,3 +44,10 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Added MK147-derived sigil/velis, Alchemy/vaen/Binding and culture/agriculture/technology detail with pinned source references and inheritance audit.
 - Preserved optionality, illustrative values, source-specific naming and OPEN boundaries; left the diamond density ladder and ring-radius wording as discrepancies pending author decision.
 - Preserved constitutions, L0/L1, Seven Concepts, Eight Prophecies, environmental work, definitive diamond/ring documents and earlier provenance. No cloning or bulk imports.
+
+## v0.9.0 — Eight prophecy drafts and semantic reconciliation (2026-10-11)
+
+- Added eight exact manuscripts, including accepted Unwritten v3.0, with I–VIII index and draft/audit status.
+- Reconciled Covenant Garden(s) toward magic/living existence and Living Art toward living-system expression/evolution; retained biological examples and historical categories as provenance.
+- Distinguished the mysterious singular eighth foretelling from preserved Kira-specific story history; recorded singular/plural naming variation and unchanged technical boundaries.
+- Updated navigation, OPEN records and handoff; preserved both constitutions and unrelated canon.
