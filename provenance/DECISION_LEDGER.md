@@ -45,3 +45,11 @@ Source and status: author-supplied environmental semantic package; inherited sou
 - SRC-01: preserve original PDF, complete text and all 19 sections, prior audit and selected snapshots in environment-v0.5.0/; origin and spirit-context boundaries remain explicit.
 
 These references preserve earlier decisions. Both constitutions, seven concepts, Black Prophecy, L0/L1 and ER Foam remain unchanged; later source migration stays deferred.
+
+## Definitive device-source recovery — v0.6.0 (2026-10-10)
+
+Source: author-supplied Genesis Diamond and Dimensional Ring masters, preserved in [technology-v0.6.0](technology-v0.6.0/SOURCE_REGISTER.md). Status: source-recovered device specifications, available optional AERA implementations.
+
+- Diamond lattice is a container; stored energy remains distinct. Nine charge states, six reference charging times, infrastructure charging and four sizes retain their source qualifications.
+- Ring storage/retrieval preserves the exact sequences and inheritance reassignment model, illustrative reach values, conscious recognition and Jenkins principle; no pocket dimension or inventory UI is added.
+- Supersedes only the earlier diamond/ring detail deferral. Mathematical source recovery, environmental work, both constitutions, seven concepts, Black Prophecy, ER Foam, Prism and workshop boundaries remain unchanged.

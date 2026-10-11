@@ -34,3 +34,7 @@
 
 - Prophecy name plural **Covenant Gardens** previously locked; user subsequently used singular 'Covenant Garden' in summary; log as pending minor confirmation without reopening magical structure.
 - Historical 11-month MK147 calendar lengths differ across source copies; never silently invent correction in AERA foundation.
+
+## Source-recovered technology — v0.6.0
+
+Genesis Diamond and Dimensional Ring device details are **source-recovered v0.6.0** from the supplied definitive masters. Read [Genesis Diamonds](../L2/TECHNOLOGY/GENESIS_DIAMONDS.md), [Dimensional Rings](../L2/TECHNOLOGY/DIMENSIONAL_RINGS.md), and the [source register](technology-v0.6.0/SOURCE_REGISTER.md). This closes device-source recovery only; it does not close the separate mathematical/Time Shell recovery, ER Foam placeholder, Prism rules or author workshop. No capacity equations have been invented.

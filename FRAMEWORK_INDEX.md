@@ -33,3 +33,9 @@ Read [CONCEPTS/00_READ_FIRST.md](CONCEPTS/00_READ_FIRST.md) for the seven expand
 ## Environmental semantic preservation — v0.5.0
 
 Read [L2/ENVIRONMENT/00_READ_FIRST.md](L2/ENVIRONMENT/00_READ_FIRST.md), the [50-item audit](provenance/environment-v0.5.0/AUDIT_COVERAGE.md), and the [source register](provenance/environment-v0.5.0/SOURCE_REGISTER.md). The original eldris master and all 19 numbered sections are preserved with explicit source boundaries.
+
+## Definitive technology source recovery — v0.6.0
+
+- [Genesis Diamonds](L2/TECHNOLOGY/GENESIS_DIAMONDS.md) — energy containment, charge states, charging references and size classes.
+- [Dimensional Rings](L2/TECHNOLOGY/DIMENSIONAL_RINGS.md) — inheritance reassignment, conservation and conscious retrieval.
+- [Technology source register](provenance/technology-v0.6.0/SOURCE_REGISTER.md) — original PDFs and searchable text.

@@ -18,11 +18,11 @@ Collectible maege-glass items containing/displaying bounded Genesis manifold or 
 
 ## Genesis diamonds and energy storage
 
-MK147 defines carbon/diamond-like lattice energy-storage technology, sizes ranging from small chips to large infrastructure stores, with chromatic density appearances and other world-specific metrics. Those charging times/ratios are **example engineering**, not universal Genesis mathematics. Optional for AERA civilizations.
+Genesis Diamonds are stable carbon-lattice containers for stored Genesis energy; the diamond and energy remain distinct. Charge-state appearance describes average density, with nine states from empty through ultraviolet. The source supplies six reference charging times, infrastructure charging and four size classes as optional world-engine examples. See [Genesis Diamonds](TECHNOLOGY/GENESIS_DIAMONDS.md) and its preserved seven-page master; no universal capacity equation is introduced.
 
 ## Dimensional rings
 
-MK147's dimensional ring is a topology/inheritance reassignment-based storage technology rather than an arbitrary pocket universe. Source-defined staging concepts include storage Expand→Select→Collapse→Conserve and retrieval Recognize→Select→Collapse→Retrieve. Exact radii and user skill bounds belong to the original source implementation.
+Dimensional Rings conserve recursive topology through inheritance reassignment rather than a pocket dimension. Storage remains Expand→Select→Collapse→Conserve; retrieval remains Recognize→Select→Collapse→Retrieve. Conscious recognition and user familiarity govern retrieval without an inventory UI; reach values are illustrative source-device references. See [Dimensional Rings](TECHNOLOGY/DIMENSIONAL_RINGS.md) and its locked 20-page master, including the Jenkins principle. This is an available implementation, not a mandatory AERA device.
 
 ## ER Foam
 

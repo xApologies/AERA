@@ -21,3 +21,8 @@ These are **inheritable options**, not universal demands. Each is tagged with it
 ## Environmental semantic reference — v0.5.0
 
 Read [ENVIRONMENT/00_READ_FIRST.md](ENVIRONMENT/00_READ_FIRST.md) for expanded eldris, dungeon, domai and Wilds definitions, with source boundaries and preserved evidence.
+
+## Recovered technology details — v0.6.0
+
+- [Genesis Diamonds](TECHNOLOGY/GENESIS_DIAMONDS.md) — optional energy-storage infrastructure.
+- [Dimensional Rings](TECHNOLOGY/DIMENSIONAL_RINGS.md) — optional recursive-topology conservation devices.

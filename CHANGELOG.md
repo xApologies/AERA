@@ -32,3 +32,9 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Restored domai lifespan/perception, non-conscious structural core, natural expiration/core destruction and progressive unraveling; defined the Wilds as Genesis-risk rather than biome.
 - Corrected only dungeon/dmai to dungeon/domai in the cultural chapter.
 - Preserved the original 12-page master PDF, extracted text, all 19 source sections, 50-item audit and selected evidence snapshots; both constitutions and unrelated canon are unchanged.
+
+## v0.6.0 — Genesis Diamond and Dimensional Ring source recovery (2026-10-10)
+
+- Preserved definitive 7-page diamond and 20-page ring PDFs with searchable text and source register.
+- Added faithful technology references and replaced only the two brief catalogue summaries; updated navigation and device-source recovery records.
+- Preserved both constitutions, L0/L1, seven concepts, Black Prophecy, environmental v0.5.0 and earlier provenance. Reference values remain source-world examples; no capacity equations, clones or bulk imports.

@@ -1,0 +1,215 @@
+{
+  "package": "AERA Technology Semantic Pass v0.6.0",
+  "date": "2026-10-10",
+  "baseline_head": "f5240926ea9fd926150edd96d50a774aaba552d1",
+  "target": "https://github.com/xApologies/AERA",
+  "branch": "main",
+  "archive_sha256": "205fdd917040fe2bdf948dada070907982efdcef034d65966e1f7bdd00fab6c2",
+  "manifest_sha256": "b9d3d7821ecebf4b2cd4840476ba6826291388a0c0d69db636ae3f85992dfe36",
+  "manifest": {
+    "package": "AERA Technology Semantic Pass v0.6.0",
+    "files": [
+      {
+        "path": "Executable.md",
+        "bytes": 2748,
+        "sha256": "644d61b15927ec33927541463258140e4ab1634da792d721c68d8859ddcde995"
+      },
+      {
+        "path": "payload/L2/TECHNOLOGY/DIMENSIONAL_RINGS.md",
+        "bytes": 5089,
+        "sha256": "9467d68d00927596f53ce136ff333baf9ab921130631f340c981692518a6ba61"
+      },
+      {
+        "path": "payload/L2/TECHNOLOGY/GENESIS_DIAMONDS.md",
+        "bytes": 4466,
+        "sha256": "19247f13b09094b65300f1ded310b2216cde7899e024efa6a41df721636b6e20"
+      },
+      {
+        "path": "payload/provenance/technology-v0.6.0/SOURCE_REGISTER.md",
+        "bytes": 1186,
+        "sha256": "420648c9c8f1b5d35749cea30bc7b23546180082097aad33787987832c6e79f9"
+      },
+      {
+        "path": "payload/provenance/technology-v0.6.0/sources/DIMENSIONAL_RING_MASTER.pdf",
+        "bytes": 98946,
+        "sha256": "074080af01829b969defe2269c0b14f064bce9a1de9f8c4bb3bde5ee7ffd19b2"
+      },
+      {
+        "path": "payload/provenance/technology-v0.6.0/sources/DIMENSIONAL_RING_MASTER.txt",
+        "bytes": 14366,
+        "sha256": "db45317a2573594bd1ee68423bf48bcf0d22bc7edc5524489cd70eb8068e523f"
+      },
+      {
+        "path": "payload/provenance/technology-v0.6.0/sources/GENESIS_DIAMOND_MASTER.pdf",
+        "bytes": 92298,
+        "sha256": "1b2150b1889bdcedd7ba505e148f6697765c1ec05802c298c2e232f58b9fed18"
+      },
+      {
+        "path": "payload/provenance/technology-v0.6.0/sources/GENESIS_DIAMOND_MASTER.txt",
+        "bytes": 5344,
+        "sha256": "170d2a09129dd6967abda446578a133380b48a4b0a70d64584be664884aa20ba"
+      }
+    ]
+  },
+  "installed": [
+    {
+      "path": "L2/TECHNOLOGY/DIMENSIONAL_RINGS.md",
+      "bytes": 5089,
+      "sha256": "9467d68d00927596f53ce136ff333baf9ab921130631f340c981692518a6ba61"
+    },
+    {
+      "path": "L2/TECHNOLOGY/GENESIS_DIAMONDS.md",
+      "bytes": 4466,
+      "sha256": "19247f13b09094b65300f1ded310b2216cde7899e024efa6a41df721636b6e20"
+    },
+    {
+      "path": "provenance/technology-v0.6.0/SOURCE_REGISTER.md",
+      "bytes": 1186,
+      "sha256": "420648c9c8f1b5d35749cea30bc7b23546180082097aad33787987832c6e79f9"
+    },
+    {
+      "path": "provenance/technology-v0.6.0/sources/DIMENSIONAL_RING_MASTER.pdf",
+      "bytes": 98946,
+      "sha256": "074080af01829b969defe2269c0b14f064bce9a1de9f8c4bb3bde5ee7ffd19b2"
+    },
+    {
+      "path": "provenance/technology-v0.6.0/sources/DIMENSIONAL_RING_MASTER.txt",
+      "bytes": 14366,
+      "sha256": "db45317a2573594bd1ee68423bf48bcf0d22bc7edc5524489cd70eb8068e523f"
+    },
+    {
+      "path": "provenance/technology-v0.6.0/sources/GENESIS_DIAMOND_MASTER.pdf",
+      "bytes": 92298,
+      "sha256": "1b2150b1889bdcedd7ba505e148f6697765c1ec05802c298c2e232f58b9fed18"
+    },
+    {
+      "path": "provenance/technology-v0.6.0/sources/GENESIS_DIAMOND_MASTER.txt",
+      "bytes": 5344,
+      "sha256": "170d2a09129dd6967abda446578a133380b48a4b0a70d64584be664884aa20ba"
+    }
+  ],
+  "modified_paths": [
+    "L2/GENESIS_TECHNOLOGY.md",
+    "FRAMEWORK_INDEX.md",
+    "L2/README.md",
+    "provenance/OPEN_AND_SOURCE_RECOVERY.md",
+    "NEXT_THREAD_HANDOFF.md",
+    "provenance/DECISION_LEDGER.md",
+    "CHANGELOG.md"
+  ],
+  "preserved_file_hashes": {
+    ".gitattributes": "ed30296a603258e9887fa2eef2cfc65d7beaa15a4023d090d5b1afeb4f7c432d",
+    ".gitignore": "780d01641fd26d5a2dc82977187ea2fbe103a693c9ca70481250e5592d8cdfde",
+    "AGENTS.md": "7127a27151ea550b112dcaf5699a9e8b8780d840164cc6b076716bb1c3a15e6f",
+    "CHROMATIC_PRESENTATION.md": "7f20795488ebf4f6f1d080d3f09fcf921a792c52b4ac8d22050994f5ac855e54",
+    "CONCEPTS/00_READ_FIRST.md": "9ffd766d24ed3975a90a4d9fbcf0fb6a487022ad898eb822f9636757f268fc33",
+    "CONCEPTS/01_SEVEN_REALMS.md": "3fce72b3df3e4012f22ba2cfc8dffc6c205465f823b7d49ab8b1c4997f97a7d1",
+    "CONCEPTS/02_UNWRITTEN.md": "7a5bc8138448c7d6dc5b8a11aec1baae0ff907d1f488b8232b8da4216e065a9c",
+    "CONCEPTS/03_BORROWED_HOURS.md": "e72c4b6eb5f6d45f9b13be5884115ca92edb1051c7f714dfbb867af4d830badb",
+    "CONCEPTS/04_THOUSAND_THREADS.md": "b4d7277cb578d9439f1b0deaf8503f2859f8d8f2516f01ee80cd1efcffd1e846",
+    "CONCEPTS/05_COVENANT_GARDENS.md": "c4bd86f19c5a3f1f8d592c74e47b8680e7c648d5922502350b8299eaadf22587",
+    "CONCEPTS/06_LIVING_ART.md": "7ecea30e375dadec449eeb2fcbffa001aa64dab750a3090f1e27874131bb0baa",
+    "CONCEPTS/07_CARTOGRAPHERS.md": "cd4928bbf523b0655f00252f0199fb5aeca072c8f05242b805cf27645894f521",
+    "CONCEPTS/08_CROSSWALK.md": "ed323293a5d5bea365398cb93def76b317b732dd7fa619b9fda3c349a9aed933",
+    "CONSTITUTION.md": "5345121d04f3e5d6df738d93d198bdca3e3f9141f37c1d0903cabd321494a8de",
+    "Executable.md": "01ed865ab97310e9068a7f7abb598f541b31bbc0516a46ae38453465a7caee45",
+    "L0/CHROMATIC_EXISTENCE.md": "17dc8ff5acc7a218601dd1cf0a99a99a74a661405356a1779336e6dffbfd1639",
+    "L0/GENESIS_FIELD.md": "0319b4c84089a9b459e5811e733b488cb67e2a618656fbbaa48cb8a5582ace6b",
+    "L0/GRAVITY_TIME_ER_FOAM.md": "b42d84f2fc74a5bf31c753e21e61ea1b40b28996a8806fbbdcdcd4411c0d7893",
+    "L0/RAINBOW_ROAD.md": "dab71bcf0e25ea3ed4084bc45608e96669e5d694cfd13ed1089f65f68103ce8c",
+    "L0/README.md": "6e90283e7f4129f9b6ba971b03a2e44c7d31ab59b3734d8fe38cef6927aec98e",
+    "L1/FATIGUE_CONCEPT.md": "e92e7a3b5e3a3408d9604159bf417af5b9ee9ec0a033dde81384a7888e9304b7",
+    "L1/GENESIS_ACCESS.md": "1bb5daffa6ab8e96f9e3466bfe1e177f51af100e0c9e64d42ec75444d83b51ff",
+    "L1/OPERATIONS.md": "17fd812046f23b9e12eeda5e1d63ccbc9ca14b0819b2373dcc06ff4cc3f8893b",
+    "L1/README.md": "8f56e6a43afaaf197b5c91d1f885e8972fd8feb6ea8a9ec6af8505809957126e",
+    "L1/SHAPING_INTERFACES.md": "6b834d33aee69e7273fe37d1dbe32e00c3a27d5a5d87cd94ff1615ac9438b588",
+    "L1/TRANSDUCTION_LIFECYCLE.md": "698b843c630a107e19cd0fdd6671062420d6e9345174b9231606540807d85876",
+    "L2/ALCHEMY_VAEN.md": "fdde1858fb67d21564324094022f1039185b32c3fba9a332bcb0cd13d4cf2b19",
+    "L2/ASTRONOMY_GEOGRAPHY.md": "eb8c861f395a2cf88cc874efe93a370205f93c00ec0cf303b7ff92265ca41d2d",
+    "L2/CIVILIZATION.md": "81bb9e12acd1fcc9e341987c73cf27b73e4812a8968442f7aa51f8aa98bada40",
+    "L2/CULTURE_AND_GAMES.md": "2a0c9afcbbc229fa48a91879dba575e26d5471dfe89d6557f30bf9f66188cb57",
+    "L2/ENVIRONMENT/00_READ_FIRST.md": "e7993f3740fc2b291ad1455af15904d2afc6869799eaada5ca3f5eecfb722710",
+    "L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md": "b3912742f6c5c4bdb47f58ec7b794c2d16191e19070ab5fcd1125559c93681b6",
+    "L2/ENVIRONMENT/02_ELDRIS.md": "1724812bff74574a1b19caf72f7c5d88ae37a411ab31ae21bf1d461bce0cd8f2",
+    "L2/ENVIRONMENT/03_DUNGEONS.md": "f7cb7bd2a09ba38ec92c26ce0374ed0849eb6ba8eaecab7928cb79d2e105bf3f",
+    "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md": "a1059b6f7084ddf3bebea0ff40a36224b27ac648f0e92c5b64c83abee4ca40d6",
+    "L2/ENVIRONMENT/05_STABILIZATION_AND_WILDS.md": "384cececd0bb9a160172a7a0b22459e97436fa8f2b812f189a83104534430717",
+    "L2/ENVIRONMENT/06_ENVIRONMENTAL_CONNECTIONS.md": "6b61cc3c1c56bac20ecd59f0a33644c8cf400290fe910cd97e39c93f1206f340",
+    "L2/GENESIS_BIOLOGY.md": "e872f012e1fa08cf0a27f4d319c3fdc1a34a1ed11fd1f4c9c30a9b3cff50dc0c",
+    "L2/GENESIS_ENVIRONMENTS.md": "c7d4ff52978f10ba8f075beaf924db8b62b2b91d8732eecffbe84aca053de514",
+    "L2/SIGILS_ARCHITECTS_VELIS.md": "9c6b12be08af4bdcc1e22f1a68dc179b0b27a2fb9e756fb5c2d3a68edc1001c2",
+    "L3/CHARACTER_ENGINE.md": "8d0c12cc9c46b59968e1ad6ac18a52fcdd4208e4057eec38322aa50585ca07ea",
+    "L3/README.md": "61e15765120e324139b842e4737778cff1a544999b43622b975663e647d27bf9",
+    "L4/AUTHOR_WORKSHOP_PENDING.md": "7e38ec190f3f544feafb248f36e794eb011d24bf5a2839b4fc09dac819e3b2b5",
+    "L4/README.md": "042d355e573c47d84a87591f9bd9fb559bcf4aecaec94bfe2fbb3d0aece28200",
+    "L4/STORY_ENGINE.md": "ef9c24ac34de03463bff608e57f47068e9a7d9400c8c7d4c39d9160a21bf5634",
+    "LICENSE_PENDING.md": "94c896b6a63c00122677edb60aa117d3a538e69618bfaf0c86e30830b8298e24",
+    "MANIFEST.json": "8151d008ef84893449df733b53e11924124c5989a2904174fd18e365cf527476",
+    "PROPHECIES.md": "f0520c427bdbfb6331c4350cdad839c75b2087c9855829b6d6aa3fd8655ac807",
+    "README.md": "23b177840fee1caad85583772fb7e55b91101fca652044e1f1fd6a0d9c3acff9",
+    "SHA256SUMS.txt": "25fd9b891f6c66f3423b86ca3625324e736d52765d61de64235a1da9f28b0fac",
+    "START_HERE.md": "dfda1f21cf1baafa32333fb3bbce06157fc21516ac3ad2571f1fc8ac46a2ff7a",
+    "WORLD_CLOCK.md": "9c9d72f871ebc787234e30a837aa68fa2436208f9694e4a9764e0be91146acbb",
+    "chat-thread/CHAT_THREAD_CONSTITUTION.md": "2eae5d887935a19b4704f965b04cad65c62ce6d4d8f6815ffa03c24998db8162",
+    "examples/MK231/KIRA_BLACK_PHOENIX.md": "9cdc75a260c9cad0c327cffb78401a0167e24fb4527816d984d531c2fb35a1a3",
+    "examples/MK231/README.md": "a843387682bd502da3342bef3d8a971517ea6109c586335ff958a0f2eee30dfd",
+    "examples/MK231/REALM_TIME_AND_TRUST.md": "d6ee30af449684c4c461369a80868be911722e306f86b5d9adab3683f705514a",
+    "examples/MK231/SEVEN_BOOKS_AND_COMPANIONS.md": "7d233a1bee3b576e17ce1b758e00525d3abd3444e51e3394b4e4ba6ae0f450bc",
+    "examples/MK231/SEVEN_REALMS_AND_SPECIES.md": "f4b3e88c1c69f2a82ca0f579f0599b3b499263f4544bc2abeaf43ea68f756c85",
+    "history/README.md": "bbb87d0b76863bb077eebc00663ae419f12579f4e85afb90be98fd5538ad2d3d",
+    "provenance/PUBLICATION_RECEIPT_v0.4.0.json": "f894c881245b1b4ab88c370f0ab4f4af487f6dbc65af282293b91fab8e2d21d0",
+    "provenance/PUBLICATION_RECEIPT_v0.5.0.json": "8c4cc76dc4b6b41b5c6f2f538194c092271b0723354c56578d25ffb40d67cbbc",
+    "provenance/RELEASE_SCOPE_AND_AUDIT.md": "1639e7467eaefd299f74e8e210a575820fa8457b9660aabab2be22d8e7285d2f",
+    "provenance/SEMANTIC_AUDIT.md": "7093f3de05626e665c8ed5994734d378aa50b8f6b2847cc5eee172393c53ca6d",
+    "provenance/SOURCE_REGISTER.md": "42cf5de4eddfba08cae99bf0a0ebe0eb115f0476da8ea6e41d7c7760a3944d57",
+    "provenance/environment-v0.5.0/AUDIT_COVERAGE.json": "a771cc8958e1620e50e271bb5e8cafd94842312f7f0b46471c50ecdb964d2783",
+    "provenance/environment-v0.5.0/AUDIT_COVERAGE.md": "08a0c9bf843eef75ba0ce7fa950464a22f93e4fcbad606df3ef117a05375c04d",
+    "provenance/environment-v0.5.0/CHANGE_RECORD.md": "08e33caef89f83a51ca3e13031ebc43cab58f214637a994f17e2221dc8ebf6ed",
+    "provenance/environment-v0.5.0/MASTER_SECTION_MAP.md": "286544c2a7ae1192124e10ac225932ea1e5e4a7d7abe5d05ae93bb9a85288a2a",
+    "provenance/environment-v0.5.0/PREVIOUS_ENVIRONMENT_AUDIT.md": "09e3a863c6c10716022131b86517cf5e71c07ed2b1c12e534e1fe21bb63521df",
+    "provenance/environment-v0.5.0/SOURCE_BOUNDARIES.md": "5a0b0eb56d995c96656164197bae7b387470e26015bf551cfdc5547c20a056d7",
+    "provenance/environment-v0.5.0/SOURCE_CONTEXT_NOTES.md": "8723c621d6fa1aec4399fd1e9deb63ed0aa92c633682d6886b88b8fcad2fe0ca",
+    "provenance/environment-v0.5.0/SOURCE_REGISTER.json": "c39c2d607a147e1e58eced34770db57234d9d0d221fd2998eb031bfe3c3a9af3",
+    "provenance/environment-v0.5.0/SOURCE_REGISTER.md": "0c1d1019dbde9209b3d18b9e9c04637ad6b1a92cf5939ff04fd26120a2d54883",
+    "provenance/environment-v0.5.0/sources/ELDRIS_MASTER_EXTRACTED.txt": "5ad7ca24d875a552220fa9052652907e2ac07298b8e9c8d046ace4012f5fb42e",
+    "provenance/environment-v0.5.0/sources/ELDRIS_MASTER_LRS.pdf": "b202cf5ebbaf0e79e0a2e22b922a3ce6adbfe9f5bc35d8d122daa49494707bcc",
+    "provenance/environment-v0.5.0/sources/mk147_authority.txt": "e7b6001f5162f8ab3d5a13f3151032ec5d6f9894db95a13dcbb60ce2fffb08cd",
+    "provenance/environment-v0.5.0/sources/mk147_dungeons.txt": "1faeac297e4e27a9f4b0f0e3dab683b1b499d4aa7a290f573d58cc712e7f2d61",
+    "provenance/environment-v0.5.0/sources/mk147_settlements.txt": "ebbf49942d3286dcede85d5c37e1875b670d8f398f625f9e812845c0475cc7cb",
+    "provenance/environment-v0.5.0/sources/mk147_storms.txt": "e643d2fd635b561f5fc5d81543ff157e96364e727e08248a6648d9a6995d8ba2",
+    "visuals/README.md": "bfe514d55d9f6c87c7ad57842adf2c6744a47d74dafb73e42ba0acf39f253797",
+    "visuals/chromatic_configurations_screenshot.jpeg": "3fe046e4ddbbfac9c6e9dbd57d99d6c1e1123fd0810e0b088778b07fac87a885",
+    "visuals/five_layer_world_clock.png": "e07f929537d3c41e3caa997549ffeccde2265554eb8d1d27b60aca71df57bac7",
+    "visuals/genesis_flora_01.jpeg": "6b235beef5ada8b94a4fa9b0dd291dc67b0a73e11cbcbd09061a66b80750b3ab",
+    "visuals/genesis_flora_02.jpeg": "9662cfeac289df31e4015d1bf03573cf741dcee1b4df3b14fb767347a2b6899d",
+    "visuals/prophecies_historical_screenshot.jpeg": "5cac1f7aebba05480ab76bbf50c91e5151a75133e8f5523db86e980191e1bc66",
+    "visuals/raeon_board_reference.jpeg": "a13ddef78916725353e25f0df3158d92608c4bf0d39ed0bec943e9e82c752a65"
+  },
+  "verification": {
+    "crc_entries": 9,
+    "manifest_files": 8,
+    "pdf_page_counts": {
+      "Genesis_Diamond": 7,
+      "Dimensional_Ring": 20
+    },
+    "semantic_results": [
+      "Diamond container and stored energy distinct; stable occupancy and average density retained",
+      "All nine charge states retained; infrared/ultraviolet remain charge labels",
+      "Six personal charging references, infrastructure charging and four size classes retained as source examples",
+      "Ring inheritance reassignment and recursive conservation retained",
+      "Exact storage and retrieval sequences retained",
+      "Seven illustrative reach values retained; no universal capacity equation",
+      "Conscious recognition, user learning, no inventory UI, and Jenkins principle retained",
+      "Optional source-world implementation scope and unrelated OPEN boundaries preserved"
+    ],
+    "pdf_parser_note": "pypdf recovered malformed cross-reference pointers while reading both PDFs; required page counts were confirmed. Original bytes are preserved unchanged."
+  },
+  "exclusions": [
+    "_inbox/",
+    "*.zip",
+    "external staging",
+    "handoff Executable.md and MANIFEST.json as root replacements"
+  ],
+  "conflicts": [],
+  "publication_note": "Final commit SHA reported after remote verification; not embedded in this self-referential committed file."
+}
