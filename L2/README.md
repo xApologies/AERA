@@ -34,3 +34,7 @@ Read [ENVIRONMENT/00_READ_FIRST.md](ENVIRONMENT/00_READ_FIRST.md) for expanded e
 - [Culture, agriculture and source-specific technology examples](INHERITANCE/03_CULTURE_AGRICULTURE_AND_TECH.md)
 
 These are optional source-derived expansions. Diamond density conversions and ring-radius wording remain documented source discrepancies pending author decision; definitive v0.6.0 device documents remain unchanged.
+
+## Optional linguistic inheritance
+
+[AE / AI naming convention](LANGUAGE/AE_AI_NAMING_CONVENTION.md) documents optional personal-name and contextual relational tendencies, with canonical spellings and counterexamples.

@@ -51,3 +51,7 @@ These are optional source-derived expansions. Diamond density conversions and ri
 ## Prophecy manuscripts and semantic reconciliation — v0.9.0
 
 Read [prophecies/README.md](prophecies/README.md) for the ordered I–VIII literary drafts pending Vera's full editorial/continuity audit, and [the reconciliation record](provenance/PROPHECIES_SEMANTIC_PASS_v0.9.0.md) for current scoped corrections, history and naming variation.
+
+## Optional AE / AI naming practice
+
+Read [L2/LANGUAGE/AE_AI_NAMING_CONVENTION.md](L2/LANGUAGE/AE_AI_NAMING_CONVENTION.md) for optional personal-name patterns and contextual institutional vocabulary. This does not define Genesis Language or AEVEA grammar.

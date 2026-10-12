@@ -51,3 +51,9 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Reconciled Covenant Garden(s) toward magic/living existence and Living Art toward living-system expression/evolution; retained biological examples and historical categories as provenance.
 - Distinguished the mysterious singular eighth foretelling from preserved Kira-specific story history; recorded singular/plural naming variation and unchanged technical boundaries.
 - Updated navigation, OPEN records and handoff; preserved both constitutions and unrelated canon.
+
+## Optional AE / AI naming convention v1.0 (2026-10-11)
+
+- Added optional AE masculine / AI feminine naming tendencies and contextual AE possessive/organizational versus AI participating/belonging vocabulary.
+- Preserved Vaine/Faene counterexamples and exact vaelum, aithren, maege, maegi spellings; no character renaming, universal grammar or compulsory gender system.
+- Added framework navigation; all unrelated canon and both constitutions remain unchanged.
