@@ -12,6 +12,7 @@ This is the navigation hub for author and AI. Open only the topical documents yo
 | Which six magic operation categories? | [`L1/OPERATIONS.md`](L1/OPERATIONS.md) | operational classification, not energy colors |
 | Can I choose another method? | [`L1/SHAPING_INTERFACES.md`](L1/SHAPING_INTERFACES.md) | author-defined interfaces under same Transduction |
 | How do the three principal interfaces differ? | [Native Genesis, Binding Circles and Genesis Cards](L1/INTERFACES/00_READ_FIRST.md) | native control, persistent Binding bandwidth and global card basin exclusivity are distinct constraints |
+| How do neural access, potions and Awakening differ? | [Neurogenesis and White Awakening](L1/NEUROGENESIS/00_READ_FIRST.md) | innate six-strand filaments, chromatic grafting and cutaneous `aen` remain distinct |
 | What limits the operator? | [`L1/FATIGUE_CONCEPT.md`](L1/FATIGUE_CONCEPT.md) | endurance/concept, no mana meter |
 | Why eight prophecies? | [`PROPHECIES.md`](PROPHECIES.md) | seven concepts + singular Black event |
 | What flora/monsters exist? | [`L2/GENESIS_BIOLOGY.md`](L2/GENESIS_BIOLOGY.md), [`L2/GENESIS_ENVIRONMENTS.md`](L2/GENESIS_ENVIRONMENTS.md) | fauna and collapse entities distinct |
@@ -41,6 +42,7 @@ Read [L2/ENVIRONMENT/00_READ_FIRST.md](L2/ENVIRONMENT/00_READ_FIRST.md), the [50
 - [Genesis Diamonds](L2/TECHNOLOGY/GENESIS_DIAMONDS.md) — energy containment, charge states, charging references and size classes.
 - [Dimensional Rings](L2/TECHNOLOGY/DIMENSIONAL_RINGS.md) — inheritance reassignment, conservation and conscious retrieval.
 - [Technology source register](provenance/technology-v0.6.0/SOURCE_REGISTER.md) — original PDFs and searchable text.
+- [Ring reconciliation](L2/TECHNOLOGY/DIMENSIONAL_RING_RECONCILIATION.md) and [2026-10-13 source register](provenance/neurogenesis-awakening-rings-v1.0/SOURCE_REGISTER.md) — resupplied master is byte-identical; existing device mechanics and adjustable reach examples remain intact.
 
 ## Source-only inheritance v0.7.0
 

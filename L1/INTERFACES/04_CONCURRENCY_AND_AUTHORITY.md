@@ -15,4 +15,6 @@
 
 **Author workshop additions 2026-10-13:** innate six-strand Neurogenesis, selective radial potion grafting, native generalist concurrency, persistent Binding bandwidth footprint, global card-anchor exclusivity. Do not misattribute these new universal decisions to older book-specific source documents.
 
-**Unresolved:** card-versus-ongoing-Shaping precedence; exact Binding bandwidth equations; mixed ordinary/Black cards; potion Type One/Two reconciliation; chromatic potion sequence; precise energy and fatigue laws. No new mathematical proof, spell catalogue, or story chronology is imported.
+**Potion update, 2026-10-13:** [Neurogenesis and Awakening](../NEUROGENESIS/00_READ_FIRST.md) establishes one dose per basin in Red → Orange → Yellow → Green → Blue → Violet order as the current author-selectable default, superseding the earlier open sequence. White Awakening's cutaneous `aen` remain subject to global card basin exclusivity; no fourth principal interface or extra lifecycle stage is added.
+
+**Unresolved:** card-versus-ongoing-Shaping precedence; exact Binding bandwidth equations; mixed ordinary/Black cards; potion Type One/Two reconciliation and White Awakening prerequisites; precise energy and fatigue laws. No new mathematical proof, spell catalogue, or story chronology is imported.

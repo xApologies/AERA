@@ -4,14 +4,16 @@ The **Layer One fantasy premises** that make AERA into *fantasy* are (1) conscio
 
 The current author-selected [native Neurogenesis interface](INTERFACES/01_NATIVE_NEUROGENESIS.md) develops the earlier brain-channel proposal: humans are born with microscopic Genesis crystallization, with continuous branching filaments each woven from six distinguishable R–V strands. **Neurogenesis** here names fictional Genesis-channel development, not real-world neuronal neurogenesis. Innate architecture permits learning elementary internal energy movement; direct Transduction still requires conceptual knowledge and the ability to construct and sustain an admissible manifold. This selected human model does not impose a universal species-to-basin law or require every author to use conscious casters; primarily engineered-sigil settings remain valid.
 
-Chromatic potions stimulate the corresponding existing strand, forming porous radial crystalline shells connected by branches. Growth changes exposed chromatic surface and competition for neural space; excessive growth can injure the brain. The working upper limit of three doses per chromatic potion is not guaranteed safety. Regimen order, Type One homogenization versus selective grafting, Type Two White-dust effects and quantitative neural growth remain **OPEN** in the detailed interface document; no real-world biological mechanism, recipe or new equation is established.
+The [current chromatic potion default](NEUROGENESIS/01_CHROMATIC_CHANNELS_AND_POTIONS.md) is **one dose per basin, Red → Orange → Yellow → Green → Blue → Violet**, with recovery, neural adaptation and conscious acclimatization between administrations. Each potion selectively grows its corresponding strand in porous radial shells with interconnecting branches. Authors may choose different dosing; even one excessively concentrated dose can cause destructive growth. Material load, stabilization and biological accommodation matter, with no universal quantity, schedule or injury threshold. This supersedes the earlier three-dose default and unresolved order; dated source records retain their historical wording.
+
+The separate White [Awakening Potion](NEUROGENESIS/02_WHITE_AWAKENING_AND_AEN.md) reconstructs brain and body into integrated Genesis biology and permits six cutaneous **`aen`** channels. Native coupling, chromatic grafting and White Awakening are distinct; ordinary chromatic dosing does not automatically make someone Awakened. Natural pigmentation and individual identity remain; cutaneous anchors require training and are consciously variable rather than fixed tattoos. White remains six-basin superposition, not an ordinary seventh basin. White prerequisites, older Type One/Type Two reconciliation, histology and quantitative growth/throughput remain **OPEN**. See the [dated decision record](../provenance/neurogenesis-awakening-rings-v1.0/DECISION_RECORD.md).
 
 ### Author-selectable access cases
 
 These earlier alternatives remain available for other authored realizations; they do not replace the selected native human model above.
 
 - Evolved Genesis-channel capability in a species; conscious operator learns to use it.
-- A personal awakening that activates or opens previously dormant access.
+- A personal awakening that activates or opens previously dormant access; this general author-selectable event need not be the specific White Awakening Potion above.
 - Inherited biological/genetic coupling to one, several, all, or none of R/O/Y/G/B/V basins.
 - A Binding or another suitable geometry granting/establishing access.
 - No conscious Genesis access even though the civilization uses sigils, devices, infrastructure or Alchemy.

@@ -27,6 +27,7 @@ Read [ENVIRONMENT/00_READ_FIRST.md](ENVIRONMENT/00_READ_FIRST.md) for expanded e
 
 - [Genesis Diamonds](TECHNOLOGY/GENESIS_DIAMONDS.md) — optional energy-storage infrastructure.
 - [Dimensional Rings](TECHNOLOGY/DIMENSIONAL_RINGS.md) — optional recursive-topology conservation devices.
+- [Ring source reconciliation](TECHNOLOGY/DIMENSIONAL_RING_RECONCILIATION.md) — identical definitive master, preserved mechanism and OPEN `aen` activation relationship; [source register](../provenance/neurogenesis-awakening-rings-v1.0/SOURCE_REGISTER.md).
 
 ## Source-only inheritance v0.7.0
 

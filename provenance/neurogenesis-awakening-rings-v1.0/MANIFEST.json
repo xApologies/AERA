@@ -1,0 +1,36 @@
+{
+  "target": "xApologies/AERA",
+  "release": "neurogenesis-awakening-rings-v1.0",
+  "files": [
+    {
+      "path": "payload/L1/NEUROGENESIS/00_READ_FIRST.md",
+      "bytes": 1075,
+      "sha256": "780e6af5473e25d7571179ad010d6b0cdde45a3501edc887618eb6babd21cb3b"
+    },
+    {
+      "path": "payload/L1/NEUROGENESIS/01_CHROMATIC_CHANNELS_AND_POTIONS.md",
+      "bytes": 2467,
+      "sha256": "20ffb890b0e56178b5d8e3b368adcd2f065978fbc2d52a5ea5380e7032038d41"
+    },
+    {
+      "path": "payload/L1/NEUROGENESIS/02_WHITE_AWAKENING_AND_AEN.md",
+      "bytes": 3582,
+      "sha256": "c5cfd784306e074f43f821ae63597f0d7ee49dfb69b30e276f9a31b4c0fbb08b"
+    },
+    {
+      "path": "payload/L2/TECHNOLOGY/DIMENSIONAL_RING_RECONCILIATION.md",
+      "bytes": 2205,
+      "sha256": "fc7ba5d22335ef01e5cad491ff67315ebdb0c63c075203cc184ad0de847ffceb"
+    },
+    {
+      "path": "payload/provenance/DECISION_RECORD.md",
+      "bytes": 1023,
+      "sha256": "9291ced16c47ccf125f7c91d4dbd6297a79fe03dd2159cd72f4953c34de6122c"
+    },
+    {
+      "path": "payload/provenance/Dimensional Ring(1).pdf",
+      "bytes": 98946,
+      "sha256": "074080af01829b969defe2269c0b14f064bce9a1de9f8c4bb3bde5ee7ffd19b2"
+    }
+  ]
+}

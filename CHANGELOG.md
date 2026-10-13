@@ -71,3 +71,10 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Distinguished new AERA author decisions on persistent Binding bandwidth and global card basin exclusivity from recovered source-specific rules; updated Layer One summaries and framework navigation while retaining optional interfaces and historical examples.
 - Preserved OPEN concurrency precedence, bandwidth accounting, Black Card interactions, potion reconciliation/regimen and quantitative biology. All three interfaces retain the same six-stage lifecycle; both constitutions, L0, operational domains, prophecies, biological denizens, unrelated canon and external repositories are unchanged.
 - Archived package instructions and manifest with the [publication audit](provenance/THREE_INTERFACES_PUBLICATION_AUDIT_v1.0.md); `_inbox` and ZIP archives remain local and untracked.
+
+## Neurogenesis, White Awakening and Ring source v1.0 (2026-10-13)
+
+- Added the supplied neural filament, chromatic potion, White Awakening and lowercase `aen` definitions. Current summaries now use one dose per basin in R→O→Y→G→B→V order; older dosing/order records remain historical and other authored regimens remain available.
+- Kept innate coupling, selective grafting, integrated White reconstruction and trained cutaneous access distinct; preserved global card exclusivity, Binding bandwidth and the six-stage lifecycle.
+- Preserved the resupplied 20-page Ring PDF exactly. It is byte-identical to the existing master; added the crosswalk and source register without rewriting the device document.
+- Recorded source boundaries, remaining biological/Type One/Type Two questions and OPEN `aen`–ring interaction in the [semantic audit](provenance/neurogenesis-awakening-rings-v1.0/SEMANTIC_AUDIT.md). Both constitutions, L0, literary prophecies, denizens, MK231 history and external repositories are unchanged.
