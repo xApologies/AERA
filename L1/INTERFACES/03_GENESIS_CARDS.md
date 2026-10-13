@@ -1,5 +1,7 @@
 # Genesis Cards — MK727 mechanics inherited by AERA
 
+For collectible-only versus operational cards, see the [Layer Two variants crosswalk](../../L2/GENESIS_CARD_VARIANTS.md). Operational cards may also be collected and traded; the activation and basin-exclusivity rules below remain unchanged.
+
 ## Recovered MK727 source
 `live-model/01_MAGIC.md`: a physical **maege-glass** Genesis Card embeds a field manifold, consciously activated/coupled through personal Genesis energy. The card handles prepared topology, while the practitioner directs the Shaping and bears fatigue. Idle maintenance is a small trickle; burst effects draw discretely; sustained fields/summons draw continuously. Multibasin cards fail if a required basin exhausts. Cards may be carried, placed or suspended near the practitioner; stationary separation can weaken coupling; cards can be damaged. Exact range and failure mechanics are OPEN.
 

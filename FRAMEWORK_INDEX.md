@@ -13,6 +13,7 @@ This is the navigation hub for author and AI. Open only the topical documents yo
 | Can I choose another method? | [`L1/SHAPING_INTERFACES.md`](L1/SHAPING_INTERFACES.md) | author-defined interfaces under same Transduction |
 | How do the three principal interfaces differ? | [Native Genesis, Binding Circles and Genesis Cards](L1/INTERFACES/00_READ_FIRST.md) | native control, persistent Binding bandwidth and global card basin exclusivity are distinct constraints |
 | How do neural access, potions and Awakening differ? | [Neurogenesis and White Awakening](L1/NEUROGENESIS/00_READ_FIRST.md) | innate six-strand filaments, chromatic grafting and cutaneous `aen` remain distinct |
+| How do the three human expressions vary? | [Optional human Neurogenesis variation](L2/BIOLOGY/06_HUMAN_NEUROGENESIS_VARIATION.md) | population tendencies in innate development, not fixed individual proficiency or mandatory species |
 | What limits the operator? | [`L1/FATIGUE_CONCEPT.md`](L1/FATIGUE_CONCEPT.md) | endurance/concept, no mana meter |
 | Why eight prophecies? | [`PROPHECIES.md`](PROPHECIES.md) | seven concepts + singular Black event |
 | What flora/monsters exist? | [`L2/GENESIS_BIOLOGY.md`](L2/GENESIS_BIOLOGY.md), [`L2/GENESIS_ENVIRONMENTS.md`](L2/GENESIS_ENVIRONMENTS.md) | fauna and collapse entities distinct |
@@ -21,6 +22,7 @@ This is the navigation hub for author and AI. Open only the topical documents yo
 | What is `vaen`? | [`L2/ALCHEMY_VAEN.md`](L2/ALCHEMY_VAEN.md) | Genesis resource identity vs Type-1–5 materials |
 | What do Architects do? | [`L2/SIGILS_ARCHITECTS_VELIS.md`](L2/SIGILS_ARCHITECTS_VELIS.md) | physical marks vs direct field topology |
 | What advanced artifacts? | [`L2/GENESIS_TECHNOLOGY.md`](L2/GENESIS_TECHNOLOGY.md) | optional available technologies |
+| Which Genesis Cards are operational? | [Genesis Card variants](L2/GENESIS_CARD_VARIANTS.md) | collectible-only and operational; operational cards may also be collected, with Raeon separate |
 | How are objects enchanted? | [Enchanting architecture](L2/ENCHANTING/00_READ_FIRST.md) | persistent object identity; two fabrication routes and four combinable configurations, with reservoirs distinct from conduits |
 | What about schools and cultures? | [`L2/CIVILIZATION.md`](L2/CIVILIZATION.md), [`L2/CULTURE_AND_GAMES.md`](L2/CULTURE_AND_GAMES.md) | Institutions of Knowledge vs world-specific institutions |
 | Who are the characters? | [`L3/CHARACTER_ENGINE.md`](L3/CHARACTER_ENGINE.md) | author-defined biology, choices, identity |

@@ -12,7 +12,7 @@ Game developer source: [`data/cycles/cycle_01/card-system.json`](https://github.
 
 ## Genesis Cards
 
-Distinct culturally collectible cards representing bounded manifolds, concept art/geometry and Shaping identities, e.g., fireballs. People may collect/trade the cards without activating a Shaping. Different from the **Raeon playable field game** and different from future author-proposed **card-as-Shaping interface**.
+Distinct culturally collectible cards representing bounded manifolds, concept art/geometry and Shaping identities, e.g., fireballs. People may collect/trade the cards without activating a Shaping. The [two variations](GENESIS_CARD_VARIANTS.md) are **collectible-only** and **operational Transduction cards**; operational cards can also be collected and traded. Collection does not itself grant activation capability. Both remain distinct from the **Raeon playable field game**, with story-specific collections and economies retaining their own source authority.
 
 ## Prism — transduction-based sport
 

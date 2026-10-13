@@ -1,0 +1,27 @@
+{
+  "package": "AERA_GENESIS_CARD_AND_HUMAN_VARIATION_v2",
+  "target": "xApologies/AERA",
+  "scope": "Genesis-card variants and optional human Neurogenesis development",
+  "files": [
+    {
+      "path": "payload/L2/BIOLOGY/06_HUMAN_NEUROGENESIS_VARIATION.md",
+      "bytes": 2593,
+      "sha256": "f7261feaea5404932ce622e534c10efd29025b306c6c694f1a050705137e4caa"
+    },
+    {
+      "path": "payload/L2/GENESIS_CARD_VARIANTS.md",
+      "bytes": 2151,
+      "sha256": "51c4860d568a476e06dfb8911b2049cbd0a2f91b91307ba69ce67679f7ecb419"
+    },
+    {
+      "path": "payload/provenance/GENESIS_CARDS_CURRENT_AUTHORITY_2026-10-13.md",
+      "bytes": 1125,
+      "sha256": "bab9f2c075de07b52a398a104d5e266896e3a16a5b1bd58d9d55daeb99677135"
+    },
+    {
+      "path": "payload/provenance/HUMAN_NEUROGENESIS_VARIATION_DECISION_2026-10-13.md",
+      "bytes": 853,
+      "sha256": "547e349814405c0cbf268aefbdd8d35d467cd8029b8a3706f3ff5e9ae51f5b9c"
+    }
+  ]
+}

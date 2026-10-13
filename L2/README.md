@@ -6,6 +6,7 @@ Authors determine their planets, stars, geography, weather, ecosystems, politics
 
 - [`ASTRONOMY_GEOGRAPHY.md`](ASTRONOMY_GEOGRAPHY.md) — Starscapes, orbits, local habitats and calendars (author selectable).
 - [`GENESIS_BIOLOGY.md`](GENESIS_BIOLOGY.md) — non-Genesis, Genesis-adapted, Genesis-dependent organisms; biological `vaen` opportunities.
+- [Optional human Neurogenesis variation](BIOLOGY/06_HUMAN_NEUROGENESIS_VARIATION.md) — three expressions of one humanity; innate development tendencies remain distinct from learned proficiency.
 - [Current optional chromatic denizens](BIOLOGY/00_READ_FIRST.md) — Vaelith and Sprite biology, accepted visual references and pending MK231 migration; no new energy basins or mandatory inhabited realms.
 - [Optional inherited Afflicted biology](BIOLOGY/05_AFFLICTED.md) — recursive chromatic channels and White Awakening; proposed Neon-affinity context, with [source and story boundaries](../provenance/afflicted-v1/SEMANTIC_AUDIT.md).
 - [`GENESIS_ENVIRONMENTS.md`](GENESIS_ENVIRONMENTS.md) — equilibrium, ELDRIS, dungeons, storms and domai.
@@ -15,6 +16,7 @@ Authors determine their planets, stars, geography, weather, ecosystems, politics
 - [`ALCHEMY_VAEN.md`](ALCHEMY_VAEN.md) — Genesis material science and scarce identity-bearing resources.
 - [`SIGILS_ARCHITECTS_VELIS.md`](SIGILS_ARCHITECTS_VELIS.md) — `ru’ne`, industrial arrays, temporary Architect `velis` and agriculture.
 - [`GENESIS_TECHNOLOGY.md`](GENESIS_TECHNOLOGY.md) — maege glass, Genesis diamonds/rings/cards, ER Foam placeholder.
+- [Genesis Card variants](GENESIS_CARD_VARIANTS.md) — collectible-only and operational cards; operational cards can also be collected and traded, with existing L1 constraints intact.
 - [Enchanting](ENCHANTING/00_READ_FIRST.md) — persistent object-identity modification through prepared sigils or direct Architect work; four combinable configurations and explicit energy-source boundaries.
 - [`CIVILIZATION.md`](CIVILIZATION.md) — Institutions of Knowledge, human professional categories, economic and patent concepts.
 - [`CULTURE_AND_GAMES.md`](CULTURE_AND_GAMES.md) — aithren/vaelum, Raeon, Genesis Cards, Prism, social math culture.

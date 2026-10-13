@@ -17,6 +17,8 @@ The six chromatic energy basins Red, Orange, Yellow, Green, Blue, Violet are fou
 
 **White:** Humanity's dwarf/human/elf expressions are story-level options in MK231, not an automatic additional chromatic species. 
 
+The [optional human Neurogenesis model](06_HUMAN_NEUROGENESIS_VARIATION.md) defines dwarf-like, human-like and elf-like expressions of one humanity with typically low, intermediate and high innate channel development respectively. Names remain provisional; these are population tendencies, not guaranteed skill or incapacity, and authors may alter or omit them.
+
 ## Reproductive framework
 Chromatic-native populations may reproduce through compatible **energetic contribution from multiple individuals**, not necessarily sexual mating or binary parents. Dragons and Leviathans can produce eggs through pooled energies; a contribution may be communal (e.g. three or four dragons). The form of offspring (egg, cradle, crystal or other structure) is population-dependent. Do not impose ordinary human sex reproduction as a universal chromatic rule. The Vaelith's visual male/female-like morphs do **not** by themselves establish distinct species or mating mechanics; author's remark was exploratory. Exact taxonomy remains open.
 

@@ -10,11 +10,11 @@ Genesis-interactive, Genesis-reinforced glass material whose physical form facto
 
 ## Raeon cards ≠ spellcasting cards
 
-Raeon cards are designed for an **in-world tabletop field game**. Their field generators organize local geometric/topological relations, color/charge moves around the game field, Prime Fields take charge, and Utilities affect the accepted rules. Physical maege glass is the technology substrate. The *video game implementation* remains an independent project; AERA can use the cultural/technological game without importing game runtime mechanics. **Card-based Shaping interfaces** remain a different, prospective author project.
+Raeon cards are designed for an **in-world tabletop field game**. Their field generators organize local geometric/topological relations, color/charge moves around the game field, Prime Fields take charge, and Utilities affect the accepted rules. Physical maege glass is the technology substrate. The *video game implementation* remains an independent project; AERA can use the cultural/technological game without importing game runtime mechanics. **Operational Genesis Cards** are a separate Transduction interface; Raeon cards do not automatically acquire that function.
 
 ## Genesis Cards
 
-Collectible maege-glass items containing/displaying bounded Genesis manifold or Shaping representations (fireballs, structures, etc.), traded for cultural/collectible value. They are **not automatically castable spells**. MK147/MK157 example characters collect them separately from Raeon playable cards.
+Two [Genesis Card variations](GENESIS_CARD_VARIANTS.md) are available: **collectible-only cards**, containing/displaying bounded Genesis manifold or Shaping representations (fireballs, structures, etc.), and **operational cards**, whose encoded topology supports Transduction under the [existing interface rules](../L1/INTERFACES/03_GENESIS_CARDS.md). **Operational cards can also be collected, traded and displayed**; collectible use does not remove their encoded architecture, and trading a collectible-only card does not make it operational. Possession alone does not imply a castable spell. MK147/MK157 example characters' collections remain separate from Raeon playable cards and retain their own source authority. Authors may adopt either variation, both or neither; no trading mechanics are prescribed.
 
 ## Genesis diamonds and energy storage
 

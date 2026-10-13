@@ -22,6 +22,8 @@ Dragons, Unicorns and other fantasy creatures can be biological expressions of t
 
 A selected author-level model groups dwarf-like, ordinary-human-like and elf-like forms as differentiated **human physiological expressions** (one underlying humanity, not independent magical races). Evolution, gravity, skull/brain physiology, neuroplastic development and cognition can affect how these groups differ. **Do not hard-code worth, profession, intelligence level or magical ability from species label**. An elf is not inherently able to cast fireballs and a dwarf is not inherently a smith. Humans of other planets may lack conscious Genesis coupling entirely.
 
+The [optional human Neurogenesis variation model](BIOLOGY/06_HUMAN_NEUROGENESIS_VARIATION.md) specifies typically low, intermediate and high **innate channel development** for dwarf-like, human-like and elf-like expressions respectively. These provisional labels describe population tendencies within one humanity, not individual proficiency: all share six-strand Neurogenesis, and training, knowledge and individual variation still govern capability. Authors may adopt, rename, alter or omit this model.
+
 ## Interactions with Alchemy
 
 Plant and animal materials can enter the material supply chain; physical chemistry and Genesis-relevant resource identities are separately relevant. Distinguish Type 1–5 alchemical material classification from simple plant taxonomy. These depend on the author-selected setting and are not pre-populated catalogues for all Starscapes.

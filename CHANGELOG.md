@@ -98,3 +98,9 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Added the exact author-locked lexicon and decision record: Aenith is an object possessing an Ain; Aineth is the enchanting process; Ain is an individual persistent enchantment.
 - Resolved only Enchanting's former in-world-name deferral and added language/framework navigation. English enchanting remains the author-level category; AE/AI scope, personal-name exceptions, `aen`, `vaen` and `maege`/`maegi` remain intact.
 - Verified the published Enchanting prerequisite and preserved both fabrication routes, four combinable configurations, crystal-or-Diamond reservoirs and persistence after depletion. All other framework mechanics and OPEN questions remain unchanged; see the [semantic audit](provenance/aenith-lexicon-v1/SEMANTIC_AUDIT.md).
+
+## Genesis Card variants and human Neurogenesis variation v2 (2026-10-13)
+
+- Added the exact four supplied definitions/authority records: collectible-only and operational Genesis Cards, with operational cards also collectible/tradable; and optional dwarf-like, human-like and elf-like expressions of one humanity with typical low/intermediate/high innate channel development.
+- Reconciled stale prospective-interface wording in current technology/culture summaries and added concise navigation. Individual training and author-selected inheritance remain distinct from population tendencies; activation mechanics and basin exclusivity are unchanged.
+- Preserved historical provenance and unrelated canon; see the [scoped semantic audit](provenance/genesis-cards-human-variation-v2/SEMANTIC_AUDIT.md) for integrity and remaining OPEN questions.
