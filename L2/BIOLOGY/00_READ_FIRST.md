@@ -23,3 +23,7 @@ Chromatic-native populations may reproduce through compatible **energetic contri
 ## Source authority and boundaries
 This document captures the author's recent redesign; older Phoenix/Kitsune defaults in MK231 remain **historical MK231 story canon** until that separate repository receives an authorized story migration. Phoenixes and Kitsune remain permitted optional fantasy species. Do not erase them from AERA's optional bestiary or silently rewrite MK231.
 See `01_VAELITH.md`, `02_SPRITES.md`, `03_BLACK_SPRITE_CRYSTAL.md`, and `04_MIGRATION_BOUNDARIES.md`.
+
+## Other optional inherited biology
+
+[Afflicted biology](05_AFFLICTED.md) describes an optional inherited human Genesis-channel condition, not an additional chromatic denizen or a requirement for every Starscape. Its elevated Neon-affinity causal context remains proposed. White Awakening preserves the preexisting recursive identity while applying the general Awakened biology; Afflicted humans remain distinct from Sprites and ELDRIS. Read the [source reconciliation](../../provenance/afflicted-v1/SEMANTIC_AUDIT.md) before transferring current workshop examples into MK231 or MK727 story history.

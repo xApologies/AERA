@@ -1,0 +1,15 @@
+{
+  "package": "AERA_AFFLICTED_UPDATE_v1",
+  "files": [
+    {
+      "path": "payload/L2/BIOLOGY/05_AFFLICTED.md",
+      "sha256": "b0f651801e4321ee89f08ccf31dabaa38f7e6266702426c57b561e6860bf502f",
+      "bytes": 4024
+    },
+    {
+      "path": "payload/provenance/AFFLICTED_DECISION_RECORD_v1.md",
+      "sha256": "7cd53154bb28e4a3f428b39c3ad43b0c40f221252064dcc4976d2d91ae9be0a2",
+      "bytes": 673
+    }
+  ]
+}

@@ -17,6 +17,7 @@ This is the navigation hub for author and AI. Open only the topical documents yo
 | Why eight prophecies? | [`PROPHECIES.md`](PROPHECIES.md) | seven concepts + singular Black event |
 | What flora/monsters exist? | [`L2/GENESIS_BIOLOGY.md`](L2/GENESIS_BIOLOGY.md), [`L2/GENESIS_ENVIRONMENTS.md`](L2/GENESIS_ENVIRONMENTS.md) | fauna and collapse entities distinct |
 | Which current optional chromatic denizens? | [Chromatic biology](L2/BIOLOGY/00_READ_FIRST.md) | Orange Vaelith / Green Sprite defaults; optional populations, with historical MK231 story canon preserved |
+| What is inherited Affliction? | [Optional Afflicted biology](L2/BIOLOGY/05_AFFLICTED.md), [source reconciliation](provenance/afflicted-v1/SEMANTIC_AUDIT.md) | preexisting recursive chromatic channels; Neon-affinity cause is proposed, and White Awakening does not originate the condition |
 | What is `vaen`? | [`L2/ALCHEMY_VAEN.md`](L2/ALCHEMY_VAEN.md) | Genesis resource identity vs Type-1–5 materials |
 | What do Architects do? | [`L2/SIGILS_ARCHITECTS_VELIS.md`](L2/SIGILS_ARCHITECTS_VELIS.md) | physical marks vs direct field topology |
 | What advanced artifacts? | [`L2/GENESIS_TECHNOLOGY.md`](L2/GENESIS_TECHNOLOGY.md) | optional available technologies |

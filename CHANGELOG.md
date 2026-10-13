@@ -78,3 +78,10 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Kept innate coupling, selective grafting, integrated White reconstruction and trained cutaneous access distinct; preserved global card exclusivity, Binding bandwidth and the six-stage lifecycle.
 - Preserved the resupplied 20-page Ring PDF exactly. It is byte-identical to the existing master; added the crosswalk and source register without rewriting the device document.
 - Recorded source boundaries, remaining biological/Type One/Type Two questions and OPEN `aen`–ring interaction in the [semantic audit](provenance/neurogenesis-awakening-rings-v1.0/SEMANTIC_AUDIT.md). Both constitutions, L0, literary prophecies, denizens, MK231 history and external repositories are unchanged.
+
+## Optional inherited Afflicted biology v1 (2026-10-13)
+
+- Added the optional inherited recursive-channel condition and supplied decision record; Neon-affinity causation remains proposed, and White Awakening does not originate Affliction.
+- Linked the condition to the current Neurogenesis/White Awakening model while preserving pigmentation, trained `aen`, ordinary Transduction limits and Sprite/ELDRIS/Black distinctions.
+- Preserved the original payload in provenance and normalized only two sentence-initial `Aen` tokens to canonical lowercase `aen` in the installed biology document. New narrative references use Kaira; historical source spellings remain intact.
+- Recorded the current workshop phenotype versus preserved MK231/MK727 source portrayals, unresolved healing/survival and separate story-migration requirements in the [semantic audit](provenance/afflicted-v1/SEMANTIC_AUDIT.md). Constitutions, L0, prophecies, existing story examples and external repositories remain unchanged.

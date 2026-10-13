@@ -7,6 +7,7 @@ Authors determine their planets, stars, geography, weather, ecosystems, politics
 - [`ASTRONOMY_GEOGRAPHY.md`](ASTRONOMY_GEOGRAPHY.md) — Starscapes, orbits, local habitats and calendars (author selectable).
 - [`GENESIS_BIOLOGY.md`](GENESIS_BIOLOGY.md) — non-Genesis, Genesis-adapted, Genesis-dependent organisms; biological `vaen` opportunities.
 - [Current optional chromatic denizens](BIOLOGY/00_READ_FIRST.md) — Vaelith and Sprite biology, accepted visual references and pending MK231 migration; no new energy basins or mandatory inhabited realms.
+- [Optional inherited Afflicted biology](BIOLOGY/05_AFFLICTED.md) — recursive chromatic channels and White Awakening; proposed Neon-affinity context, with [source and story boundaries](../provenance/afflicted-v1/SEMANTIC_AUDIT.md).
 - [`GENESIS_ENVIRONMENTS.md`](GENESIS_ENVIRONMENTS.md) — equilibrium, ELDRIS, dungeons, storms and domai.
 
 ## Civilization engine / available technologies

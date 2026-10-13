@@ -22,6 +22,10 @@ An organism has its own local Genesis organization/identity in the **fictional f
 
 Within the [three principal interfaces](INTERFACES/00_READ_FIRST.md), Bindings and Genesis Cards still require conscious Genesis coupling. Binding installation is separate from active Shaping and persistently occupies personal bandwidth; an active card exclusively anchors its required basins across every interface. Neither is interchangeable with native control limits, and card activation precedence against an ongoing native Shaping remains OPEN.
 
+## Optional inherited biological realization
+
+The [Afflicted condition](../L2/BIOLOGY/05_AFFLICTED.md) is an optional L2 realization of this framework. Its recursive six-basin channel organization predates White Awakening; the potion applies the general integrated physiology while retaining that recursive identity. Dark cutaneous `aen` require training and retain the same Transduction limits and global card exclusivity. Proposed Neon-affinity causation, survival and symptom resolution remain OPEN. [Source reconciliation](../provenance/afflicted-v1/SEMANTIC_AUDIT.md) keeps the current workshop phenotype distinct from older exceptional MK231/MK727 restoration and story accounts.
+
 ## Respect source scope
 
 If an AI needs to formalize coupling geometry, use the original source definitions and ask the author what has actually been chosen; otherwise preserve OPEN. Intentional freedom of implementation is not an unfinished AERA foundation.
