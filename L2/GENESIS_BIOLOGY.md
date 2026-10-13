@@ -25,3 +25,11 @@ A selected author-level model groups dwarf-like, ordinary-human-like and elf-lik
 ## Interactions with Alchemy
 
 Plant and animal materials can enter the material supply chain; physical chemistry and Genesis-relevant resource identities are separately relevant. Distinguish Type 1–5 alchemical material classification from simple plant taxonomy. These depend on the author-selected setting and are not pre-populated catalogues for all Starscapes.
+
+## Current optional chromatic denizens — 2026-10-13
+
+The [current optional inhabited-realm realization](BIOLOGY/00_READ_FIRST.md) uses **Red Dragon, Orange Vaelith, Yellow Primordial (Inorganic / Organic / Process), Green Sprite, Blue Leviathan, Violet Unicorn**. Vaelith and Sprites replace Phoenix and Kitsune as these AERA defaults; authors may still choose Phoenixes, Kitsune, other populations or energy basins without inhabited realms. White remains superposition; MK231's dwarf/human/elf expressions are story-level options. This L2 addition leaves Genesis mathematics, six operational domains, prophecies and the Transduction lifecycle intact.
+
+[Vaelith](BIOLOGY/01_VAELITH.md) are living distributed Genesis networks with a persistent body shell, not armor or an indispensable single core. [Sprites](BIOLOGY/02_SPRITES.md) are intelligent bounded living recursions: their dark-gray Green-leaking natural form is distinct from their collective's genuine functioning biological forms, which need no shadow glow and do not automatically acquire another species' native specialization. The [Black Sprite crystal](BIOLOGY/03_BLACK_SPRITE_CRYSTAL.md) is a separate exceptional artifact with an accepted visual design; replacing Kira's first Black Phoenix Egg Binding is **proposed, not enacted**.
+
+**Historical MK231 boundary:** the MK231 populations described above remain authoritative for that existing story. Its examples, Phoenix Egg, first Binding, Affliction/healing questions, chronology, six companions and prophecy trigger are unchanged. Read [migration boundaries](BIOLOGY/04_MIGRATION_BOUNDARIES.md) before using the new optional defaults in a story. [Visual notes](../visuals/chromatic_denizens/README.md) identify accepted details and rejected or illustrative image elements; written biology governs them.

@@ -14,6 +14,7 @@ This is the navigation hub for author and AI. Open only the topical documents yo
 | What limits the operator? | [`L1/FATIGUE_CONCEPT.md`](L1/FATIGUE_CONCEPT.md) | endurance/concept, no mana meter |
 | Why eight prophecies? | [`PROPHECIES.md`](PROPHECIES.md) | seven concepts + singular Black event |
 | What flora/monsters exist? | [`L2/GENESIS_BIOLOGY.md`](L2/GENESIS_BIOLOGY.md), [`L2/GENESIS_ENVIRONMENTS.md`](L2/GENESIS_ENVIRONMENTS.md) | fauna and collapse entities distinct |
+| Which current optional chromatic denizens? | [Chromatic biology](L2/BIOLOGY/00_READ_FIRST.md) | Orange Vaelith / Green Sprite defaults; optional populations, with historical MK231 story canon preserved |
 | What is `vaen`? | [`L2/ALCHEMY_VAEN.md`](L2/ALCHEMY_VAEN.md) | Genesis resource identity vs Type-1–5 materials |
 | What do Architects do? | [`L2/SIGILS_ARCHITECTS_VELIS.md`](L2/SIGILS_ARCHITECTS_VELIS.md) | physical marks vs direct field topology |
 | What advanced artifacts? | [`L2/GENESIS_TECHNOLOGY.md`](L2/GENESIS_TECHNOLOGY.md) | optional available technologies |

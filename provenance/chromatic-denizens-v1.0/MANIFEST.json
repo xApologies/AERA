@@ -1,0 +1,52 @@
+{
+  "package": "AERA_CHROMATIC_DENIZENS_UPDATE_v1.0",
+  "target": "https://github.com/xApologies/AERA",
+  "scope": "additive AERA framework update; MK231 story changes pending",
+  "files": [
+    {
+      "path": "payload/L2/BIOLOGY/00_READ_FIRST.md",
+      "size": 3161,
+      "sha256": "69e7552f0828871a5de8ebfc29e501a78d4beaf7a2bbca893e294b82c470a83d"
+    },
+    {
+      "path": "payload/L2/BIOLOGY/01_VAELITH.md",
+      "size": 3004,
+      "sha256": "71d7cc2023052a7b58e5173458e58281e915992ea0d4a68d2a74e20328108fe8"
+    },
+    {
+      "path": "payload/L2/BIOLOGY/02_SPRITES.md",
+      "size": 3577,
+      "sha256": "03d769b15f7327709cb46e1c779d7218989c93a1bd7bc5c13645b1d2c66798ca"
+    },
+    {
+      "path": "payload/L2/BIOLOGY/03_BLACK_SPRITE_CRYSTAL.md",
+      "size": 2036,
+      "sha256": "2967aa60b383759a32e8b6e7c173924f592e594ea0cf0ec663d16fb6d7b977ad"
+    },
+    {
+      "path": "payload/L2/BIOLOGY/04_MIGRATION_BOUNDARIES.md",
+      "size": 2027,
+      "sha256": "b5827750e3ba945b06111991455d65301a6b41bf02c5448d47e2fa7ee7fe4fa3"
+    },
+    {
+      "path": "payload/provenance/CHROMATIC_DENIZENS_DECISION_RECORD_v1.0.md",
+      "size": 1050,
+      "sha256": "e1d495ee171fa4843c23e1daaec689a19b5dfaea9d30b143d971be7c86ea7c5a"
+    },
+    {
+      "path": "payload/visuals/chromatic_denizens/BLACK_SPRITE_CRYSTAL_LOCKED.jpg",
+      "size": 262354,
+      "sha256": "5c3b81dbe4556d85febe223aeb4dd8150c568f0a9f8d52f4a64fa9ee777e0159"
+    },
+    {
+      "path": "payload/visuals/chromatic_denizens/SPRITE_NATIVE_AND_BLACK_REFERENCE.jpg",
+      "size": 207474,
+      "sha256": "b3c76dc9f67d2c13ef9674841392214143166c273d51cf46d663f5226a3f57b5"
+    },
+    {
+      "path": "payload/visuals/chromatic_denizens/VAELITH_ACCEPTED_CONCEPT.png",
+      "size": 2284803,
+      "sha256": "a3249e0a27ee208cb2efbe04e5785cc887a74a1945d4b1d1ec7eee683138974b"
+    }
+  ]
+}

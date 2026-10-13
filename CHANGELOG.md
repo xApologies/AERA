@@ -57,3 +57,10 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Added optional AE masculine / AI feminine naming tendencies and contextual AE possessive/organizational versus AI participating/belonging vocabulary.
 - Preserved Vaine/Faene counterexamples and exact vaelum, aithren, maege, maegi spellings; no character renaming, universal grammar or compulsory gender system.
 - Added framework navigation; all unrelated canon and both constitutions remain unchanged.
+
+## Chromatic Denizens v1.0 — optional biological realization (2026-10-13)
+
+- Added the exact five supplied biology documents and decision record: Orange Vaelith and Green Sprite defaults, energetic reproduction, collective biological realization, Black Sprite crystal design and explicit migration limits.
+- Archived three original visual references with accepted, rejected and illustrative details distinguished in a visual index.
+- Added current biology/index/handoff navigation while preserving historical MK231 Phoenix/Kitsune examples, first Binding and prophecy chronology verbatim.
+- Preserved L0/L1, both constitutions, all eight prophecy manuscripts, existing source PDFs and earlier provenance. The Black Sprite first-Binding replacement remains a proposal; no external repository is changed. See the [publication audit](provenance/CHROMATIC_DENIZENS_PUBLICATION_AUDIT_v1.0.md) for exact payload hashes, preservation and validation.

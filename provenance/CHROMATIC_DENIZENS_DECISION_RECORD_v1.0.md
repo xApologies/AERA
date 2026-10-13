@@ -1,0 +1,5 @@
+# Decision record — Chromatic denizen workshop, 2026-10-13
+
+This additive package captures user decisions in the current AERA/MK231 workshop. New AERA default optional denizens: Orange Vaelith (replaces Phoenix), Green Sprites (replaces Kitsune). Dragon, Primordial, Leviathan, Unicorn retained. The six energy basins and White superposition are not changed. Sprite natural flame recursion and collective biology are established; Black Sprite crystal image is accepted, while Kira's first-Binding replacement remains a **proposed MK231 story change**. Avoid silently rewriting historical examples or the prophecy manuscripts. Consult `L2/BIOLOGY/` for precise authority and unresolved questions.
+
+Source art included with author-approved visual usage: VAELITH_ACCEPTED_CONCEPT.png (reference with rejected color swatches); SPRITE_NATIVE_AND_BLACK_REFERENCE.jpg (top natural sprite and Black variation accepted, bottom green-shadow collective art rejected); BLACK_SPRITE_CRYSTAL_LOCKED.jpg (accepted exterior and interior; size label illustrative).

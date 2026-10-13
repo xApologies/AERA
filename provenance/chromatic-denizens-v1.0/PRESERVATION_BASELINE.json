@@ -1,0 +1,838 @@
+{
+  "baseline": "40e3482b9ea8339ad2c6a9166f3324fa30f42a12",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "ed30296a603258e9887fa2eef2cfc65d7beaa15a4023d090d5b1afeb4f7c432d",
+      "bytes": 156,
+      "git_sha256": "ed30296a603258e9887fa2eef2cfc65d7beaa15a4023d090d5b1afeb4f7c432d",
+      "git_bytes": 156
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "780d01641fd26d5a2dc82977187ea2fbe103a693c9ca70481250e5592d8cdfde",
+      "bytes": 177,
+      "git_sha256": "780d01641fd26d5a2dc82977187ea2fbe103a693c9ca70481250e5592d8cdfde",
+      "git_bytes": 177
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "7127a27151ea550b112dcaf5699a9e8b8780d840164cc6b076716bb1c3a15e6f",
+      "bytes": 1678,
+      "git_sha256": "7127a27151ea550b112dcaf5699a9e8b8780d840164cc6b076716bb1c3a15e6f",
+      "git_bytes": 1678
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "4e2a3030cf5bc4062a71bd6473f63669afe29f1ff79d553bf3c2ea2c2062c418",
+      "bytes": 5306,
+      "git_sha256": "4e2a3030cf5bc4062a71bd6473f63669afe29f1ff79d553bf3c2ea2c2062c418",
+      "git_bytes": 5306
+    },
+    {
+      "path": "CHROMATIC_PRESENTATION.md",
+      "sha256": "7f20795488ebf4f6f1d080d3f09fcf921a792c52b4ac8d22050994f5ac855e54",
+      "bytes": 1485,
+      "git_sha256": "7f20795488ebf4f6f1d080d3f09fcf921a792c52b4ac8d22050994f5ac855e54",
+      "git_bytes": 1485
+    },
+    {
+      "path": "CONCEPTS/00_READ_FIRST.md",
+      "sha256": "37c69ba9dc7c6bb57e3c3e92ac39b01b07fbe78a27f5b965af9d207f2b6c9a75",
+      "bytes": 2302,
+      "git_sha256": "37c69ba9dc7c6bb57e3c3e92ac39b01b07fbe78a27f5b965af9d207f2b6c9a75",
+      "git_bytes": 2302
+    },
+    {
+      "path": "CONCEPTS/01_SEVEN_REALMS.md",
+      "sha256": "3fce72b3df3e4012f22ba2cfc8dffc6c205465f823b7d49ab8b1c4997f97a7d1",
+      "bytes": 1704,
+      "git_sha256": "3fce72b3df3e4012f22ba2cfc8dffc6c205465f823b7d49ab8b1c4997f97a7d1",
+      "git_bytes": 1704
+    },
+    {
+      "path": "CONCEPTS/02_UNWRITTEN.md",
+      "sha256": "7a5bc8138448c7d6dc5b8a11aec1baae0ff907d1f488b8232b8da4216e065a9c",
+      "bytes": 2115,
+      "git_sha256": "7a5bc8138448c7d6dc5b8a11aec1baae0ff907d1f488b8232b8da4216e065a9c",
+      "git_bytes": 2115
+    },
+    {
+      "path": "CONCEPTS/03_BORROWED_HOURS.md",
+      "sha256": "e72c4b6eb5f6d45f9b13be5884115ca92edb1051c7f714dfbb867af4d830badb",
+      "bytes": 1970,
+      "git_sha256": "e72c4b6eb5f6d45f9b13be5884115ca92edb1051c7f714dfbb867af4d830badb",
+      "git_bytes": 1970
+    },
+    {
+      "path": "CONCEPTS/04_THOUSAND_THREADS.md",
+      "sha256": "b4d7277cb578d9439f1b0deaf8503f2859f8d8f2516f01ee80cd1efcffd1e846",
+      "bytes": 2159,
+      "git_sha256": "b4d7277cb578d9439f1b0deaf8503f2859f8d8f2516f01ee80cd1efcffd1e846",
+      "git_bytes": 2159
+    },
+    {
+      "path": "CONCEPTS/05_COVENANT_GARDENS.md",
+      "sha256": "77df298e79f831de870b595b19eeacc004c4fd68a7dc6f23bdd6199dfdcaa5ee",
+      "bytes": 2303,
+      "git_sha256": "77df298e79f831de870b595b19eeacc004c4fd68a7dc6f23bdd6199dfdcaa5ee",
+      "git_bytes": 2303
+    },
+    {
+      "path": "CONCEPTS/06_LIVING_ART.md",
+      "sha256": "b1843fcda1acb0ac3d9f63686e6b6edc70f210d97c1455f02915d74bf2fecab5",
+      "bytes": 3223,
+      "git_sha256": "b1843fcda1acb0ac3d9f63686e6b6edc70f210d97c1455f02915d74bf2fecab5",
+      "git_bytes": 3223
+    },
+    {
+      "path": "CONCEPTS/07_CARTOGRAPHERS.md",
+      "sha256": "cd4928bbf523b0655f00252f0199fb5aeca072c8f05242b805cf27645894f521",
+      "bytes": 2281,
+      "git_sha256": "cd4928bbf523b0655f00252f0199fb5aeca072c8f05242b805cf27645894f521",
+      "git_bytes": 2281
+    },
+    {
+      "path": "CONCEPTS/08_CROSSWALK.md",
+      "sha256": "9efaf4185675a3220ffcbb2f27f73d259363c214ed7b2d11498685e0ee78754b",
+      "bytes": 3579,
+      "git_sha256": "9efaf4185675a3220ffcbb2f27f73d259363c214ed7b2d11498685e0ee78754b",
+      "git_bytes": 3579
+    },
+    {
+      "path": "CONSTITUTION.md",
+      "sha256": "5345121d04f3e5d6df738d93d198bdca3e3f9141f37c1d0903cabd321494a8de",
+      "bytes": 10873,
+      "git_sha256": "5345121d04f3e5d6df738d93d198bdca3e3f9141f37c1d0903cabd321494a8de",
+      "git_bytes": 10873
+    },
+    {
+      "path": "Executable.md",
+      "sha256": "01ed865ab97310e9068a7f7abb598f541b31bbc0516a46ae38453465a7caee45",
+      "bytes": 5164,
+      "git_sha256": "01ed865ab97310e9068a7f7abb598f541b31bbc0516a46ae38453465a7caee45",
+      "git_bytes": 5164
+    },
+    {
+      "path": "FRAMEWORK_INDEX.md",
+      "sha256": "4396888513d8a6654d46e8733747c38e2dfd0a67835c7597d55ce530eea862a3",
+      "bytes": 5292,
+      "git_sha256": "4396888513d8a6654d46e8733747c38e2dfd0a67835c7597d55ce530eea862a3",
+      "git_bytes": 5292
+    },
+    {
+      "path": "L0/CHROMATIC_EXISTENCE.md",
+      "sha256": "17dc8ff5acc7a218601dd1cf0a99a99a74a661405356a1779336e6dffbfd1639",
+      "bytes": 3624,
+      "git_sha256": "17dc8ff5acc7a218601dd1cf0a99a99a74a661405356a1779336e6dffbfd1639",
+      "git_bytes": 3624
+    },
+    {
+      "path": "L0/GENESIS_FIELD.md",
+      "sha256": "0319b4c84089a9b459e5811e733b488cb67e2a618656fbbaa48cb8a5582ace6b",
+      "bytes": 3751,
+      "git_sha256": "0319b4c84089a9b459e5811e733b488cb67e2a618656fbbaa48cb8a5582ace6b",
+      "git_bytes": 3751
+    },
+    {
+      "path": "L0/GRAVITY_TIME_ER_FOAM.md",
+      "sha256": "b42d84f2fc74a5bf31c753e21e61ea1b40b28996a8806fbbdcdcd4411c0d7893",
+      "bytes": 1926,
+      "git_sha256": "b42d84f2fc74a5bf31c753e21e61ea1b40b28996a8806fbbdcdcd4411c0d7893",
+      "git_bytes": 1926
+    },
+    {
+      "path": "L0/RAINBOW_ROAD.md",
+      "sha256": "dab71bcf0e25ea3ed4084bc45608e96669e5d694cfd13ed1089f65f68103ce8c",
+      "bytes": 2546,
+      "git_sha256": "dab71bcf0e25ea3ed4084bc45608e96669e5d694cfd13ed1089f65f68103ce8c",
+      "git_bytes": 2546
+    },
+    {
+      "path": "L0/README.md",
+      "sha256": "6e90283e7f4129f9b6ba971b03a2e44c7d31ab59b3734d8fe38cef6927aec98e",
+      "bytes": 1242,
+      "git_sha256": "6e90283e7f4129f9b6ba971b03a2e44c7d31ab59b3734d8fe38cef6927aec98e",
+      "git_bytes": 1242
+    },
+    {
+      "path": "L1/FATIGUE_CONCEPT.md",
+      "sha256": "e92e7a3b5e3a3408d9604159bf417af5b9ee9ec0a033dde81384a7888e9304b7",
+      "bytes": 2181,
+      "git_sha256": "e92e7a3b5e3a3408d9604159bf417af5b9ee9ec0a033dde81384a7888e9304b7",
+      "git_bytes": 2181
+    },
+    {
+      "path": "L1/GENESIS_ACCESS.md",
+      "sha256": "1bb5daffa6ab8e96f9e3466bfe1e177f51af100e0c9e64d42ec75444d83b51ff",
+      "bytes": 1847,
+      "git_sha256": "1bb5daffa6ab8e96f9e3466bfe1e177f51af100e0c9e64d42ec75444d83b51ff",
+      "git_bytes": 1847
+    },
+    {
+      "path": "L1/OPERATIONS.md",
+      "sha256": "17fd812046f23b9e12eeda5e1d63ccbc9ca14b0819b2373dcc06ff4cc3f8893b",
+      "bytes": 2147,
+      "git_sha256": "17fd812046f23b9e12eeda5e1d63ccbc9ca14b0819b2373dcc06ff4cc3f8893b",
+      "git_bytes": 2147
+    },
+    {
+      "path": "L1/README.md",
+      "sha256": "8f56e6a43afaaf197b5c91d1f885e8972fd8feb6ea8a9ec6af8505809957126e",
+      "bytes": 1077,
+      "git_sha256": "8f56e6a43afaaf197b5c91d1f885e8972fd8feb6ea8a9ec6af8505809957126e",
+      "git_bytes": 1077
+    },
+    {
+      "path": "L1/SHAPING_INTERFACES.md",
+      "sha256": "6b834d33aee69e7273fe37d1dbe32e00c3a27d5a5d87cd94ff1615ac9438b588",
+      "bytes": 2978,
+      "git_sha256": "6b834d33aee69e7273fe37d1dbe32e00c3a27d5a5d87cd94ff1615ac9438b588",
+      "git_bytes": 2978
+    },
+    {
+      "path": "L1/TRANSDUCTION_LIFECYCLE.md",
+      "sha256": "698b843c630a107e19cd0fdd6671062420d6e9345174b9231606540807d85876",
+      "bytes": 3325,
+      "git_sha256": "698b843c630a107e19cd0fdd6671062420d6e9345174b9231606540807d85876",
+      "git_bytes": 3325
+    },
+    {
+      "path": "L2/ALCHEMY_VAEN.md",
+      "sha256": "fdde1858fb67d21564324094022f1039185b32c3fba9a332bcb0cd13d4cf2b19",
+      "bytes": 3726,
+      "git_sha256": "fdde1858fb67d21564324094022f1039185b32c3fba9a332bcb0cd13d4cf2b19",
+      "git_bytes": 3726
+    },
+    {
+      "path": "L2/ASTRONOMY_GEOGRAPHY.md",
+      "sha256": "eb8c861f395a2cf88cc874efe93a370205f93c00ec0cf303b7ff92265ca41d2d",
+      "bytes": 2897,
+      "git_sha256": "eb8c861f395a2cf88cc874efe93a370205f93c00ec0cf303b7ff92265ca41d2d",
+      "git_bytes": 2897
+    },
+    {
+      "path": "L2/CIVILIZATION.md",
+      "sha256": "81bb9e12acd1fcc9e341987c73cf27b73e4812a8968442f7aa51f8aa98bada40",
+      "bytes": 3633,
+      "git_sha256": "81bb9e12acd1fcc9e341987c73cf27b73e4812a8968442f7aa51f8aa98bada40",
+      "git_bytes": 3633
+    },
+    {
+      "path": "L2/CULTURE_AND_GAMES.md",
+      "sha256": "2a0c9afcbbc229fa48a91879dba575e26d5471dfe89d6557f30bf9f66188cb57",
+      "bytes": 4117,
+      "git_sha256": "2a0c9afcbbc229fa48a91879dba575e26d5471dfe89d6557f30bf9f66188cb57",
+      "git_bytes": 4117
+    },
+    {
+      "path": "L2/ENVIRONMENT/00_READ_FIRST.md",
+      "sha256": "e7993f3740fc2b291ad1455af15904d2afc6869799eaada5ca3f5eecfb722710",
+      "bytes": 3241,
+      "git_sha256": "e7993f3740fc2b291ad1455af15904d2afc6869799eaada5ca3f5eecfb722710",
+      "git_bytes": 3241
+    },
+    {
+      "path": "L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md",
+      "sha256": "b3912742f6c5c4bdb47f58ec7b794c2d16191e19070ab5fcd1125559c93681b6",
+      "bytes": 3720,
+      "git_sha256": "b3912742f6c5c4bdb47f58ec7b794c2d16191e19070ab5fcd1125559c93681b6",
+      "git_bytes": 3720
+    },
+    {
+      "path": "L2/ENVIRONMENT/02_ELDRIS.md",
+      "sha256": "1724812bff74574a1b19caf72f7c5d88ae37a411ab31ae21bf1d461bce0cd8f2",
+      "bytes": 11523,
+      "git_sha256": "1724812bff74574a1b19caf72f7c5d88ae37a411ab31ae21bf1d461bce0cd8f2",
+      "git_bytes": 11523
+    },
+    {
+      "path": "L2/ENVIRONMENT/03_DUNGEONS.md",
+      "sha256": "f7cb7bd2a09ba38ec92c26ce0374ed0849eb6ba8eaecab7928cb79d2e105bf3f",
+      "bytes": 5792,
+      "git_sha256": "f7cb7bd2a09ba38ec92c26ce0374ed0849eb6ba8eaecab7928cb79d2e105bf3f",
+      "git_bytes": 5792
+    },
+    {
+      "path": "L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+      "sha256": "a1059b6f7084ddf3bebea0ff40a36224b27ac648f0e92c5b64c83abee4ca40d6",
+      "bytes": 4886,
+      "git_sha256": "a1059b6f7084ddf3bebea0ff40a36224b27ac648f0e92c5b64c83abee4ca40d6",
+      "git_bytes": 4886
+    },
+    {
+      "path": "L2/ENVIRONMENT/05_STABILIZATION_AND_WILDS.md",
+      "sha256": "384cececd0bb9a160172a7a0b22459e97436fa8f2b812f189a83104534430717",
+      "bytes": 3627,
+      "git_sha256": "384cececd0bb9a160172a7a0b22459e97436fa8f2b812f189a83104534430717",
+      "git_bytes": 3627
+    },
+    {
+      "path": "L2/ENVIRONMENT/06_ENVIRONMENTAL_CONNECTIONS.md",
+      "sha256": "6b61cc3c1c56bac20ecd59f0a33644c8cf400290fe910cd97e39c93f1206f340",
+      "bytes": 3665,
+      "git_sha256": "6b61cc3c1c56bac20ecd59f0a33644c8cf400290fe910cd97e39c93f1206f340",
+      "git_bytes": 3665
+    },
+    {
+      "path": "L2/GENESIS_BIOLOGY.md",
+      "sha256": "e872f012e1fa08cf0a27f4d319c3fdc1a34a1ed11fd1f4c9c30a9b3cff50dc0c",
+      "bytes": 3207,
+      "git_sha256": "e872f012e1fa08cf0a27f4d319c3fdc1a34a1ed11fd1f4c9c30a9b3cff50dc0c",
+      "git_bytes": 3207
+    },
+    {
+      "path": "L2/GENESIS_ENVIRONMENTS.md",
+      "sha256": "c7d4ff52978f10ba8f075beaf924db8b62b2b91d8732eecffbe84aca053de514",
+      "bytes": 5840,
+      "git_sha256": "c7d4ff52978f10ba8f075beaf924db8b62b2b91d8732eecffbe84aca053de514",
+      "git_bytes": 5840
+    },
+    {
+      "path": "L2/GENESIS_TECHNOLOGY.md",
+      "sha256": "99971a0f8c4a6a1db87d06f2f9bdb7d24107b86ec7c45f24911795e4bd2c4a70",
+      "bytes": 4689,
+      "git_sha256": "99971a0f8c4a6a1db87d06f2f9bdb7d24107b86ec7c45f24911795e4bd2c4a70",
+      "git_bytes": 4689
+    },
+    {
+      "path": "L2/INHERITANCE/01_SIGILS_AND_VELIS.md",
+      "sha256": "4924d1cec07fa928e84fd0cdbd927ffb2838ea4c3720956069b530b248d2b2ac",
+      "bytes": 2107,
+      "git_sha256": "4924d1cec07fa928e84fd0cdbd927ffb2838ea4c3720956069b530b248d2b2ac",
+      "git_bytes": 2107
+    },
+    {
+      "path": "L2/INHERITANCE/02_ALCHEMY_VAEN_AND_BINDING.md",
+      "sha256": "13ea2fbd7cf8b41d391b29991bcc56d9dc0c4934b8210b6697a034b0bf230151",
+      "bytes": 2384,
+      "git_sha256": "13ea2fbd7cf8b41d391b29991bcc56d9dc0c4934b8210b6697a034b0bf230151",
+      "git_bytes": 2384
+    },
+    {
+      "path": "L2/INHERITANCE/03_CULTURE_AGRICULTURE_AND_TECH.md",
+      "sha256": "ed57b58f20f4a00cb91eb28377759814e44ade037421e47f7a04ac5807480fb5",
+      "bytes": 3518,
+      "git_sha256": "ed57b58f20f4a00cb91eb28377759814e44ade037421e47f7a04ac5807480fb5",
+      "git_bytes": 3518
+    },
+    {
+      "path": "L2/LANGUAGE/AE_AI_NAMING_CONVENTION.md",
+      "sha256": "4f2dc32af41a3a1916ecf30025ea33d12d4405eae947221bdb8389c3e93888d6",
+      "bytes": 3766,
+      "git_sha256": "4f2dc32af41a3a1916ecf30025ea33d12d4405eae947221bdb8389c3e93888d6",
+      "git_bytes": 3766
+    },
+    {
+      "path": "L2/README.md",
+      "sha256": "732d8884c0935f7d63d8d8764dc7ef721d29c379811c1cbe47f964ff59e5e6e2",
+      "bytes": 2909,
+      "git_sha256": "732d8884c0935f7d63d8d8764dc7ef721d29c379811c1cbe47f964ff59e5e6e2",
+      "git_bytes": 2909
+    },
+    {
+      "path": "L2/SIGILS_ARCHITECTS_VELIS.md",
+      "sha256": "9c6b12be08af4bdcc1e22f1a68dc179b0b27a2fb9e756fb5c2d3a68edc1001c2",
+      "bytes": 3385,
+      "git_sha256": "9c6b12be08af4bdcc1e22f1a68dc179b0b27a2fb9e756fb5c2d3a68edc1001c2",
+      "git_bytes": 3385
+    },
+    {
+      "path": "L2/TECHNOLOGY/DIMENSIONAL_RINGS.md",
+      "sha256": "9467d68d00927596f53ce136ff333baf9ab921130631f340c981692518a6ba61",
+      "bytes": 5089,
+      "git_sha256": "9467d68d00927596f53ce136ff333baf9ab921130631f340c981692518a6ba61",
+      "git_bytes": 5089
+    },
+    {
+      "path": "L2/TECHNOLOGY/GENESIS_DIAMONDS.md",
+      "sha256": "19247f13b09094b65300f1ded310b2216cde7899e024efa6a41df721636b6e20",
+      "bytes": 4466,
+      "git_sha256": "19247f13b09094b65300f1ded310b2216cde7899e024efa6a41df721636b6e20",
+      "git_bytes": 4466
+    },
+    {
+      "path": "L3/CHARACTER_ENGINE.md",
+      "sha256": "8d0c12cc9c46b59968e1ad6ac18a52fcdd4208e4057eec38322aa50585ca07ea",
+      "bytes": 2827,
+      "git_sha256": "8d0c12cc9c46b59968e1ad6ac18a52fcdd4208e4057eec38322aa50585ca07ea",
+      "git_bytes": 2827
+    },
+    {
+      "path": "L3/README.md",
+      "sha256": "61e15765120e324139b842e4737778cff1a544999b43622b975663e647d27bf9",
+      "bytes": 582,
+      "git_sha256": "61e15765120e324139b842e4737778cff1a544999b43622b975663e647d27bf9",
+      "git_bytes": 582
+    },
+    {
+      "path": "L4/AUTHOR_WORKSHOP_PENDING.md",
+      "sha256": "7e38ec190f3f544feafb248f36e794eb011d24bf5a2839b4fc09dac819e3b2b5",
+      "bytes": 1297,
+      "git_sha256": "7e38ec190f3f544feafb248f36e794eb011d24bf5a2839b4fc09dac819e3b2b5",
+      "git_bytes": 1297
+    },
+    {
+      "path": "L4/README.md",
+      "sha256": "042d355e573c47d84a87591f9bd9fb559bcf4aecaec94bfe2fbb3d0aece28200",
+      "bytes": 640,
+      "git_sha256": "042d355e573c47d84a87591f9bd9fb559bcf4aecaec94bfe2fbb3d0aece28200",
+      "git_bytes": 640
+    },
+    {
+      "path": "L4/STORY_ENGINE.md",
+      "sha256": "ef9c24ac34de03463bff608e57f47068e9a7d9400c8c7d4c39d9160a21bf5634",
+      "bytes": 1705,
+      "git_sha256": "ef9c24ac34de03463bff608e57f47068e9a7d9400c8c7d4c39d9160a21bf5634",
+      "git_bytes": 1705
+    },
+    {
+      "path": "LICENSE_PENDING.md",
+      "sha256": "94c896b6a63c00122677edb60aa117d3a538e69618bfaf0c86e30830b8298e24",
+      "bytes": 607,
+      "git_sha256": "94c896b6a63c00122677edb60aa117d3a538e69618bfaf0c86e30830b8298e24",
+      "git_bytes": 607
+    },
+    {
+      "path": "MANIFEST.json",
+      "sha256": "8151d008ef84893449df733b53e11924124c5989a2904174fd18e365cf527476",
+      "bytes": 9238,
+      "git_sha256": "8151d008ef84893449df733b53e11924124c5989a2904174fd18e365cf527476",
+      "git_bytes": 9238
+    },
+    {
+      "path": "NEXT_THREAD_HANDOFF.md",
+      "sha256": "069a1bae04b05fb37c389aac250f8d799e8902b3e63b661941e6f4168941eef3",
+      "bytes": 4687,
+      "git_sha256": "069a1bae04b05fb37c389aac250f8d799e8902b3e63b661941e6f4168941eef3",
+      "git_bytes": 4687
+    },
+    {
+      "path": "PROPHECIES.md",
+      "sha256": "4599290346f08fd5a3beaabba78b05bc3cf88a24dccab63c39d60ed8f713308f",
+      "bytes": 5979,
+      "git_sha256": "4599290346f08fd5a3beaabba78b05bc3cf88a24dccab63c39d60ed8f713308f",
+      "git_bytes": 5979
+    },
+    {
+      "path": "README.md",
+      "sha256": "aacf2067705558ad846bbc0060dd849733dd6479fcf309770c3e962b0309b6e9",
+      "bytes": 5067,
+      "git_sha256": "aacf2067705558ad846bbc0060dd849733dd6479fcf309770c3e962b0309b6e9",
+      "git_bytes": 5067
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "sha256": "25fd9b891f6c66f3423b86ca3625324e736d52765d61de64235a1da9f28b0fac",
+      "bytes": 5143,
+      "git_sha256": "25fd9b891f6c66f3423b86ca3625324e736d52765d61de64235a1da9f28b0fac",
+      "git_bytes": 5143
+    },
+    {
+      "path": "START_HERE.md",
+      "sha256": "dfda1f21cf1baafa32333fb3bbce06157fc21516ac3ad2571f1fc8ac46a2ff7a",
+      "bytes": 3402,
+      "git_sha256": "dfda1f21cf1baafa32333fb3bbce06157fc21516ac3ad2571f1fc8ac46a2ff7a",
+      "git_bytes": 3402
+    },
+    {
+      "path": "WORLD_CLOCK.md",
+      "sha256": "9c9d72f871ebc787234e30a837aa68fa2436208f9694e4a9764e0be91146acbb",
+      "bytes": 2554,
+      "git_sha256": "9c9d72f871ebc787234e30a837aa68fa2436208f9694e4a9764e0be91146acbb",
+      "git_bytes": 2554
+    },
+    {
+      "path": "chat-thread/CHAT_THREAD_CONSTITUTION.md",
+      "sha256": "2eae5d887935a19b4704f965b04cad65c62ce6d4d8f6815ffa03c24998db8162",
+      "bytes": 74393,
+      "git_sha256": "2eae5d887935a19b4704f965b04cad65c62ce6d4d8f6815ffa03c24998db8162",
+      "git_bytes": 74393
+    },
+    {
+      "path": "examples/MK231/KIRA_BLACK_PHOENIX.md",
+      "sha256": "9cdc75a260c9cad0c327cffb78401a0167e24fb4527816d984d531c2fb35a1a3",
+      "bytes": 3022,
+      "git_sha256": "9cdc75a260c9cad0c327cffb78401a0167e24fb4527816d984d531c2fb35a1a3",
+      "git_bytes": 3022
+    },
+    {
+      "path": "examples/MK231/README.md",
+      "sha256": "a843387682bd502da3342bef3d8a971517ea6109c586335ff958a0f2eee30dfd",
+      "bytes": 1164,
+      "git_sha256": "a843387682bd502da3342bef3d8a971517ea6109c586335ff958a0f2eee30dfd",
+      "git_bytes": 1164
+    },
+    {
+      "path": "examples/MK231/REALM_TIME_AND_TRUST.md",
+      "sha256": "d6ee30af449684c4c461369a80868be911722e306f86b5d9adab3683f705514a",
+      "bytes": 2637,
+      "git_sha256": "d6ee30af449684c4c461369a80868be911722e306f86b5d9adab3683f705514a",
+      "git_bytes": 2637
+    },
+    {
+      "path": "examples/MK231/SEVEN_BOOKS_AND_COMPANIONS.md",
+      "sha256": "7d233a1bee3b576e17ce1b758e00525d3abd3444e51e3394b4e4ba6ae0f450bc",
+      "bytes": 2356,
+      "git_sha256": "7d233a1bee3b576e17ce1b758e00525d3abd3444e51e3394b4e4ba6ae0f450bc",
+      "git_bytes": 2356
+    },
+    {
+      "path": "examples/MK231/SEVEN_REALMS_AND_SPECIES.md",
+      "sha256": "f4b3e88c1c69f2a82ca0f579f0599b3b499263f4544bc2abeaf43ea68f756c85",
+      "bytes": 2602,
+      "git_sha256": "f4b3e88c1c69f2a82ca0f579f0599b3b499263f4544bc2abeaf43ea68f756c85",
+      "git_bytes": 2602
+    },
+    {
+      "path": "history/README.md",
+      "sha256": "bbb87d0b76863bb077eebc00663ae419f12579f4e85afb90be98fd5538ad2d3d",
+      "bytes": 324,
+      "git_sha256": "bbb87d0b76863bb077eebc00663ae419f12579f4e85afb90be98fd5538ad2d3d",
+      "git_bytes": 324
+    },
+    {
+      "path": "prophecies/01_THE_SEVEN_REALMS.md",
+      "sha256": "dcf7598d967b636a4b267cf11a999ea6088fbf335ee24311a44fb31ca751026c",
+      "bytes": 17224,
+      "git_sha256": "dcf7598d967b636a4b267cf11a999ea6088fbf335ee24311a44fb31ca751026c",
+      "git_bytes": 17224
+    },
+    {
+      "path": "prophecies/02_THE_UNWRITTEN.md",
+      "sha256": "4d4d415d95ee08dc0c37194abbf059c47e6e98525fc40e1fbfeeed044e5deed0",
+      "bytes": 10044,
+      "git_sha256": "4d4d415d95ee08dc0c37194abbf059c47e6e98525fc40e1fbfeeed044e5deed0",
+      "git_bytes": 10044
+    },
+    {
+      "path": "prophecies/03_BORROWED_HOURS.md",
+      "sha256": "9e5fc207d9b1a2ed82ca429aab22c18af0cf3b8577b49a3ed3f9787367a123e5",
+      "bytes": 15930,
+      "git_sha256": "9e5fc207d9b1a2ed82ca429aab22c18af0cf3b8577b49a3ed3f9787367a123e5",
+      "git_bytes": 15930
+    },
+    {
+      "path": "prophecies/04_THE_THOUSAND_THREADS.md",
+      "sha256": "8ed23e8896a6f8ac94a7c97652eab0bfd9d86bda62aeedc930c6c504db957b04",
+      "bytes": 14948,
+      "git_sha256": "8ed23e8896a6f8ac94a7c97652eab0bfd9d86bda62aeedc930c6c504db957b04",
+      "git_bytes": 14948
+    },
+    {
+      "path": "prophecies/05_THE_COVENANT_GARDEN.md",
+      "sha256": "eb1163c4662a21d1fbc65f22d8d8c2ee943baaa21ec274423a305210f92a299a",
+      "bytes": 12442,
+      "git_sha256": "eb1163c4662a21d1fbc65f22d8d8c2ee943baaa21ec274423a305210f92a299a",
+      "git_bytes": 12442
+    },
+    {
+      "path": "prophecies/06_THE_LIVING_ART.md",
+      "sha256": "9c836829430f3f5483031978d60ceb2240ae4e865c9822ee0e8f4c87bcd88a86",
+      "bytes": 13377,
+      "git_sha256": "9c836829430f3f5483031978d60ceb2240ae4e865c9822ee0e8f4c87bcd88a86",
+      "git_bytes": 13377
+    },
+    {
+      "path": "prophecies/07_THE_CARTOGRAPHERS.md",
+      "sha256": "9e4f8b2ddacea44228036ea2b668bf4c33c1c8bceca30f498e7885783d5e8be7",
+      "bytes": 10514,
+      "git_sha256": "9e4f8b2ddacea44228036ea2b668bf4c33c1c8bceca30f498e7885783d5e8be7",
+      "git_bytes": 10514
+    },
+    {
+      "path": "prophecies/08_THE_BLACK_PROPHECY.md",
+      "sha256": "313a862d51a29f94893cb485d7916ce729f256c26634166ce115e81b445ba115",
+      "bytes": 17514,
+      "git_sha256": "313a862d51a29f94893cb485d7916ce729f256c26634166ce115e81b445ba115",
+      "git_bytes": 17514
+    },
+    {
+      "path": "prophecies/README.md",
+      "sha256": "176730cf2e592c63f9e77a6f924bf382dd469af0881ec2852f4a6497e444d0b1",
+      "bytes": 1353,
+      "git_sha256": "176730cf2e592c63f9e77a6f924bf382dd469af0881ec2852f4a6497e444d0b1",
+      "git_bytes": 1353
+    },
+    {
+      "path": "provenance/AE_AI_NAMING_CONVENTION_v1.0.md",
+      "sha256": "890e5caa63d9a94ccd27dd3e70b4a15d2b771ff5c9c12eb7245f0f17a4f504e6",
+      "bytes": 1159,
+      "git_sha256": "890e5caa63d9a94ccd27dd3e70b4a15d2b771ff5c9c12eb7245f0f17a4f504e6",
+      "git_bytes": 1159
+    },
+    {
+      "path": "provenance/DECISION_LEDGER.md",
+      "sha256": "81b0edad352d4c550c92ed496897e0cae882c1dab1b3a51c59ac744f002f6be3",
+      "bytes": 5257,
+      "git_sha256": "81b0edad352d4c550c92ed496897e0cae882c1dab1b3a51c59ac744f002f6be3",
+      "git_bytes": 5257
+    },
+    {
+      "path": "provenance/OPEN_AND_SOURCE_RECOVERY.md",
+      "sha256": "1743cba2524d275ec587ad9368112ec299aad31ebfb97d87aa77419b58e6f455",
+      "bytes": 3898,
+      "git_sha256": "1743cba2524d275ec587ad9368112ec299aad31ebfb97d87aa77419b58e6f455",
+      "git_bytes": 3898
+    },
+    {
+      "path": "provenance/PROPHECIES_SEMANTIC_PASS_v0.9.0.md",
+      "sha256": "8f8e5df9bc17c5724fa0776faf9807217c335e05eb3d65d0f5041a1408e14d61",
+      "bytes": 8428,
+      "git_sha256": "8f8e5df9bc17c5724fa0776faf9807217c335e05eb3d65d0f5041a1408e14d61",
+      "git_bytes": 8428
+    },
+    {
+      "path": "provenance/PUBLICATION_RECEIPT_v0.4.0.json",
+      "sha256": "f894c881245b1b4ab88c370f0ab4f4af487f6dbc65af282293b91fab8e2d21d0",
+      "bytes": 7789,
+      "git_sha256": "f894c881245b1b4ab88c370f0ab4f4af487f6dbc65af282293b91fab8e2d21d0",
+      "git_bytes": 7789
+    },
+    {
+      "path": "provenance/PUBLICATION_RECEIPT_v0.5.0.json",
+      "sha256": "8c4cc76dc4b6b41b5c6f2f538194c092271b0723354c56578d25ffb40d67cbbc",
+      "bytes": 39459,
+      "git_sha256": "8c4cc76dc4b6b41b5c6f2f538194c092271b0723354c56578d25ffb40d67cbbc",
+      "git_bytes": 39459
+    },
+    {
+      "path": "provenance/PUBLICATION_RECEIPT_v0.6.0.json",
+      "sha256": "5e4b302230de09f42c735039de9c6ccca5f1db76b5bfcd6bd0567e0cee4f4424",
+      "bytes": 14199,
+      "git_sha256": "5e4b302230de09f42c735039de9c6ccca5f1db76b5bfcd6bd0567e0cee4f4424",
+      "git_bytes": 14199
+    },
+    {
+      "path": "provenance/PUBLICATION_RECEIPT_v0.7.0.json",
+      "sha256": "a8a1c61aee7482e69cd34ca6f84db5111a4bc4f4717aa7806358771c03ebae7e",
+      "bytes": 14283,
+      "git_sha256": "a8a1c61aee7482e69cd34ca6f84db5111a4bc4f4717aa7806358771c03ebae7e",
+      "git_bytes": 14283
+    },
+    {
+      "path": "provenance/PUBLICATION_RECEIPT_v0.9.0.json",
+      "sha256": "70ca75264e96d7d6cc5b45d1a04cea16e60d724ed39c839622c2b5dafc3dbacc",
+      "bytes": 50825,
+      "git_sha256": "70ca75264e96d7d6cc5b45d1a04cea16e60d724ed39c839622c2b5dafc3dbacc",
+      "git_bytes": 50825
+    },
+    {
+      "path": "provenance/RELEASE_SCOPE_AND_AUDIT.md",
+      "sha256": "1639e7467eaefd299f74e8e210a575820fa8457b9660aabab2be22d8e7285d2f",
+      "bytes": 2396,
+      "git_sha256": "1639e7467eaefd299f74e8e210a575820fa8457b9660aabab2be22d8e7285d2f",
+      "git_bytes": 2396
+    },
+    {
+      "path": "provenance/SEMANTIC_AUDIT.md",
+      "sha256": "7093f3de05626e665c8ed5994734d378aa50b8f6b2847cc5eee172393c53ca6d",
+      "bytes": 3150,
+      "git_sha256": "7093f3de05626e665c8ed5994734d378aa50b8f6b2847cc5eee172393c53ca6d",
+      "git_bytes": 3150
+    },
+    {
+      "path": "provenance/SOURCE_REGISTER.md",
+      "sha256": "42cf5de4eddfba08cae99bf0a0ebe0eb115f0476da8ea6e41d7c7760a3944d57",
+      "bytes": 1184,
+      "git_sha256": "42cf5de4eddfba08cae99bf0a0ebe0eb115f0476da8ea6e41d7c7760a3944d57",
+      "git_bytes": 1184
+    },
+    {
+      "path": "provenance/environment-v0.5.0/AUDIT_COVERAGE.json",
+      "sha256": "a771cc8958e1620e50e271bb5e8cafd94842312f7f0b46471c50ecdb964d2783",
+      "bytes": 18011,
+      "git_sha256": "a771cc8958e1620e50e271bb5e8cafd94842312f7f0b46471c50ecdb964d2783",
+      "git_bytes": 18011
+    },
+    {
+      "path": "provenance/environment-v0.5.0/AUDIT_COVERAGE.md",
+      "sha256": "08a0c9bf843eef75ba0ce7fa950464a22f93e4fcbad606df3ef117a05375c04d",
+      "bytes": 10694,
+      "git_sha256": "08a0c9bf843eef75ba0ce7fa950464a22f93e4fcbad606df3ef117a05375c04d",
+      "git_bytes": 10694
+    },
+    {
+      "path": "provenance/environment-v0.5.0/CHANGE_RECORD.md",
+      "sha256": "08e33caef89f83a51ca3e13031ebc43cab58f214637a994f17e2221dc8ebf6ed",
+      "bytes": 2163,
+      "git_sha256": "08e33caef89f83a51ca3e13031ebc43cab58f214637a994f17e2221dc8ebf6ed",
+      "git_bytes": 2163
+    },
+    {
+      "path": "provenance/environment-v0.5.0/MASTER_SECTION_MAP.md",
+      "sha256": "286544c2a7ae1192124e10ac225932ea1e5e4a7d7abe5d05ae93bb9a85288a2a",
+      "bytes": 3935,
+      "git_sha256": "286544c2a7ae1192124e10ac225932ea1e5e4a7d7abe5d05ae93bb9a85288a2a",
+      "git_bytes": 3935
+    },
+    {
+      "path": "provenance/environment-v0.5.0/PREVIOUS_ENVIRONMENT_AUDIT.md",
+      "sha256": "09e3a863c6c10716022131b86517cf5e71c07ed2b1c12e534e1fe21bb63521df",
+      "bytes": 21286,
+      "git_sha256": "09e3a863c6c10716022131b86517cf5e71c07ed2b1c12e534e1fe21bb63521df",
+      "git_bytes": 21286
+    },
+    {
+      "path": "provenance/environment-v0.5.0/SOURCE_BOUNDARIES.md",
+      "sha256": "5a0b0eb56d995c96656164197bae7b387470e26015bf551cfdc5547c20a056d7",
+      "bytes": 4227,
+      "git_sha256": "5a0b0eb56d995c96656164197bae7b387470e26015bf551cfdc5547c20a056d7",
+      "git_bytes": 4227
+    },
+    {
+      "path": "provenance/environment-v0.5.0/SOURCE_CONTEXT_NOTES.md",
+      "sha256": "8723c621d6fa1aec4399fd1e9deb63ed0aa92c633682d6886b88b8fcad2fe0ca",
+      "bytes": 3315,
+      "git_sha256": "8723c621d6fa1aec4399fd1e9deb63ed0aa92c633682d6886b88b8fcad2fe0ca",
+      "git_bytes": 3315
+    },
+    {
+      "path": "provenance/environment-v0.5.0/SOURCE_REGISTER.json",
+      "sha256": "c39c2d607a147e1e58eced34770db57234d9d0d221fd2998eb031bfe3c3a9af3",
+      "bytes": 3937,
+      "git_sha256": "c39c2d607a147e1e58eced34770db57234d9d0d221fd2998eb031bfe3c3a9af3",
+      "git_bytes": 3937
+    },
+    {
+      "path": "provenance/environment-v0.5.0/SOURCE_REGISTER.md",
+      "sha256": "0c1d1019dbde9209b3d18b9e9c04637ad6b1a92cf5939ff04fd26120a2d54883",
+      "bytes": 4717,
+      "git_sha256": "0c1d1019dbde9209b3d18b9e9c04637ad6b1a92cf5939ff04fd26120a2d54883",
+      "git_bytes": 4717
+    },
+    {
+      "path": "provenance/environment-v0.5.0/sources/ELDRIS_MASTER_EXTRACTED.txt",
+      "sha256": "5ad7ca24d875a552220fa9052652907e2ac07298b8e9c8d046ace4012f5fb42e",
+      "bytes": 17638,
+      "git_sha256": "5ad7ca24d875a552220fa9052652907e2ac07298b8e9c8d046ace4012f5fb42e",
+      "git_bytes": 17638
+    },
+    {
+      "path": "provenance/environment-v0.5.0/sources/ELDRIS_MASTER_LRS.pdf",
+      "sha256": "b202cf5ebbaf0e79e0a2e22b922a3ce6adbfe9f5bc35d8d122daa49494707bcc",
+      "bytes": 129675,
+      "git_sha256": "b202cf5ebbaf0e79e0a2e22b922a3ce6adbfe9f5bc35d8d122daa49494707bcc",
+      "git_bytes": 129675
+    },
+    {
+      "path": "provenance/environment-v0.5.0/sources/mk147_authority.txt",
+      "sha256": "e7b6001f5162f8ab3d5a13f3151032ec5d6f9894db95a13dcbb60ce2fffb08cd",
+      "bytes": 688,
+      "git_sha256": "e7b6001f5162f8ab3d5a13f3151032ec5d6f9894db95a13dcbb60ce2fffb08cd",
+      "git_bytes": 688
+    },
+    {
+      "path": "provenance/environment-v0.5.0/sources/mk147_dungeons.txt",
+      "sha256": "1faeac297e4e27a9f4b0f0e3dab683b1b499d4aa7a290f573d58cc712e7f2d61",
+      "bytes": 1427,
+      "git_sha256": "1faeac297e4e27a9f4b0f0e3dab683b1b499d4aa7a290f573d58cc712e7f2d61",
+      "git_bytes": 1427
+    },
+    {
+      "path": "provenance/environment-v0.5.0/sources/mk147_settlements.txt",
+      "sha256": "ebbf49942d3286dcede85d5c37e1875b670d8f398f625f9e812845c0475cc7cb",
+      "bytes": 2147,
+      "git_sha256": "ebbf49942d3286dcede85d5c37e1875b670d8f398f625f9e812845c0475cc7cb",
+      "git_bytes": 2147
+    },
+    {
+      "path": "provenance/environment-v0.5.0/sources/mk147_storms.txt",
+      "sha256": "e643d2fd635b561f5fc5d81543ff157e96364e727e08248a6648d9a6995d8ba2",
+      "bytes": 2456,
+      "git_sha256": "e643d2fd635b561f5fc5d81543ff157e96364e727e08248a6648d9a6995d8ba2",
+      "git_bytes": 2456
+    },
+    {
+      "path": "provenance/source-pass-v0.7.0/SOURCE_DIFF.md",
+      "sha256": "cc4712d27ce9363bf7332808fbad6ee1820340d1058ccc19efbfdf4746fccd2e",
+      "bytes": 1904,
+      "git_sha256": "cc4712d27ce9363bf7332808fbad6ee1820340d1058ccc19efbfdf4746fccd2e",
+      "git_bytes": 1904
+    },
+    {
+      "path": "provenance/technology-v0.6.0/SOURCE_REGISTER.md",
+      "sha256": "420648c9c8f1b5d35749cea30bc7b23546180082097aad33787987832c6e79f9",
+      "bytes": 1186,
+      "git_sha256": "420648c9c8f1b5d35749cea30bc7b23546180082097aad33787987832c6e79f9",
+      "git_bytes": 1186
+    },
+    {
+      "path": "provenance/technology-v0.6.0/sources/DIMENSIONAL_RING_MASTER.pdf",
+      "sha256": "074080af01829b969defe2269c0b14f064bce9a1de9f8c4bb3bde5ee7ffd19b2",
+      "bytes": 98946,
+      "git_sha256": "074080af01829b969defe2269c0b14f064bce9a1de9f8c4bb3bde5ee7ffd19b2",
+      "git_bytes": 98946
+    },
+    {
+      "path": "provenance/technology-v0.6.0/sources/DIMENSIONAL_RING_MASTER.txt",
+      "sha256": "db45317a2573594bd1ee68423bf48bcf0d22bc7edc5524489cd70eb8068e523f",
+      "bytes": 14366,
+      "git_sha256": "db45317a2573594bd1ee68423bf48bcf0d22bc7edc5524489cd70eb8068e523f",
+      "git_bytes": 14366
+    },
+    {
+      "path": "provenance/technology-v0.6.0/sources/GENESIS_DIAMOND_MASTER.pdf",
+      "sha256": "1b2150b1889bdcedd7ba505e148f6697765c1ec05802c298c2e232f58b9fed18",
+      "bytes": 92298,
+      "git_sha256": "1b2150b1889bdcedd7ba505e148f6697765c1ec05802c298c2e232f58b9fed18",
+      "git_bytes": 92298
+    },
+    {
+      "path": "provenance/technology-v0.6.0/sources/GENESIS_DIAMOND_MASTER.txt",
+      "sha256": "170d2a09129dd6967abda446578a133380b48a4b0a70d64584be664884aa20ba",
+      "bytes": 5344,
+      "git_sha256": "170d2a09129dd6967abda446578a133380b48a4b0a70d64584be664884aa20ba",
+      "git_bytes": 5344
+    },
+    {
+      "path": "visuals/README.md",
+      "sha256": "bfe514d55d9f6c87c7ad57842adf2c6744a47d74dafb73e42ba0acf39f253797",
+      "bytes": 440,
+      "git_sha256": "bfe514d55d9f6c87c7ad57842adf2c6744a47d74dafb73e42ba0acf39f253797",
+      "git_bytes": 440
+    },
+    {
+      "path": "visuals/chromatic_configurations_screenshot.jpeg",
+      "sha256": "3fe046e4ddbbfac9c6e9dbd57d99d6c1e1123fd0810e0b088778b07fac87a885",
+      "bytes": 262595,
+      "git_sha256": "3fe046e4ddbbfac9c6e9dbd57d99d6c1e1123fd0810e0b088778b07fac87a885",
+      "git_bytes": 262595
+    },
+    {
+      "path": "visuals/five_layer_world_clock.png",
+      "sha256": "e07f929537d3c41e3caa997549ffeccde2265554eb8d1d27b60aca71df57bac7",
+      "bytes": 331795,
+      "git_sha256": "e07f929537d3c41e3caa997549ffeccde2265554eb8d1d27b60aca71df57bac7",
+      "git_bytes": 331795
+    },
+    {
+      "path": "visuals/genesis_flora_01.jpeg",
+      "sha256": "6b235beef5ada8b94a4fa9b0dd291dc67b0a73e11cbcbd09061a66b80750b3ab",
+      "bytes": 283793,
+      "git_sha256": "6b235beef5ada8b94a4fa9b0dd291dc67b0a73e11cbcbd09061a66b80750b3ab",
+      "git_bytes": 283793
+    },
+    {
+      "path": "visuals/genesis_flora_02.jpeg",
+      "sha256": "9662cfeac289df31e4015d1bf03573cf741dcee1b4df3b14fb767347a2b6899d",
+      "bytes": 465467,
+      "git_sha256": "9662cfeac289df31e4015d1bf03573cf741dcee1b4df3b14fb767347a2b6899d",
+      "git_bytes": 465467
+    },
+    {
+      "path": "visuals/prophecies_historical_screenshot.jpeg",
+      "sha256": "5cac1f7aebba05480ab76bbf50c91e5151a75133e8f5523db86e980191e1bc66",
+      "bytes": 398487,
+      "git_sha256": "5cac1f7aebba05480ab76bbf50c91e5151a75133e8f5523db86e980191e1bc66",
+      "git_bytes": 398487
+    },
+    {
+      "path": "visuals/raeon_board_reference.jpeg",
+      "sha256": "a13ddef78916725353e25f0df3158d92608c4bf0d39ed0bec943e9e82c752a65",
+      "bytes": 469472,
+      "git_sha256": "a13ddef78916725353e25f0df3158d92608c4bf0d39ed0bec943e9e82c752a65",
+      "git_bytes": 469472
+    }
+  ]
+}
