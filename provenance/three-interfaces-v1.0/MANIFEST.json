@@ -1,0 +1,36 @@
+{
+  "package": "AERA_THREE_TRANSDUCTION_INTERFACES_v1.0",
+  "repository": "https://github.com/xApologies/AERA",
+  "files": [
+    {
+      "path": "payload/L1/INTERFACES/00_READ_FIRST.md",
+      "size": 1467,
+      "sha256": "85ceadec827d56c865b9faa7970a20abe2d2ea8d1fb3d6c84bf8a24aefa2b0a0"
+    },
+    {
+      "path": "payload/L1/INTERFACES/01_NATIVE_NEUROGENESIS.md",
+      "size": 2362,
+      "sha256": "9d04be1660d30a781089d604e08a8224803fcb6cb45964ab0d7cc4a0b09fabae"
+    },
+    {
+      "path": "payload/L1/INTERFACES/02_BINDING_CIRCLES.md",
+      "size": 2121,
+      "sha256": "8c1bc03aa271635c0e6720e10b168bd90136182934bc7ed74330b51d879d9ec7"
+    },
+    {
+      "path": "payload/L1/INTERFACES/03_GENESIS_CARDS.md",
+      "size": 2680,
+      "sha256": "00515b7e38f016e56ba8936c66ac95178a8b674d206fba48ce315ce6c50e8f3b"
+    },
+    {
+      "path": "payload/L1/INTERFACES/04_CONCURRENCY_AND_AUTHORITY.md",
+      "size": 1886,
+      "sha256": "3fa2c388cbc8808fab47b8b0d38594d18a7327d384d3cd37dabe195c88b521b3"
+    },
+    {
+      "path": "payload/provenance/THREE_INTERFACES_SOURCE_PASS_v1.0.md",
+      "size": 765,
+      "sha256": "2c8a173da8f78a44e24815cc9052132a9fa2e9bba7dd5c92605a3999fa1e5f96"
+    }
+  ]
+}

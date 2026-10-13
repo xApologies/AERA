@@ -11,6 +11,7 @@ This is the navigation hub for author and AI. Open only the topical documents yo
 | What is a Shaping? | [`L1/TRANSDUCTION_LIFECYCLE.md`](L1/TRANSDUCTION_LIFECYCLE.md) | six universally ordered actions |
 | Which six magic operation categories? | [`L1/OPERATIONS.md`](L1/OPERATIONS.md) | operational classification, not energy colors |
 | Can I choose another method? | [`L1/SHAPING_INTERFACES.md`](L1/SHAPING_INTERFACES.md) | author-defined interfaces under same Transduction |
+| How do the three principal interfaces differ? | [Native Genesis, Binding Circles and Genesis Cards](L1/INTERFACES/00_READ_FIRST.md) | native control, persistent Binding bandwidth and global card basin exclusivity are distinct constraints |
 | What limits the operator? | [`L1/FATIGUE_CONCEPT.md`](L1/FATIGUE_CONCEPT.md) | endurance/concept, no mana meter |
 | Why eight prophecies? | [`PROPHECIES.md`](PROPHECIES.md) | seven concepts + singular Black event |
 | What flora/monsters exist? | [`L2/GENESIS_BIOLOGY.md`](L2/GENESIS_BIOLOGY.md), [`L2/GENESIS_ENVIRONMENTS.md`](L2/GENESIS_ENVIRONMENTS.md) | fauna and collapse entities distinct |

@@ -64,3 +64,10 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Archived three original visual references with accepted, rejected and illustrative details distinguished in a visual index.
 - Added current biology/index/handoff navigation while preserving historical MK231 Phoenix/Kitsune examples, first Binding and prophecy chronology verbatim.
 - Preserved L0/L1, both constitutions, all eight prophecy manuscripts, existing source PDFs and earlier provenance. The Black Sprite first-Binding replacement remains a proposal; no external repository is changed. See the [publication audit](provenance/CHROMATIC_DENIZENS_PUBLICATION_AUDIT_v1.0.md) for exact payload hashes, preservation and validation.
+
+## Three Transduction Interfaces v1.0 (2026-10-13)
+
+- Added five exact Layer One interface documents and the supplied source-recovery record: native six-strand Neurogenesis, MK147 Binding Circle/PSSP mechanics and MK727 Genesis Card/cardsmithing mechanics.
+- Distinguished new AERA author decisions on persistent Binding bandwidth and global card basin exclusivity from recovered source-specific rules; updated Layer One summaries and framework navigation while retaining optional interfaces and historical examples.
+- Preserved OPEN concurrency precedence, bandwidth accounting, Black Card interactions, potion reconciliation/regimen and quantitative biology. All three interfaces retain the same six-stage lifecycle; both constitutions, L0, operational domains, prophecies, biological denizens, unrelated canon and external repositories are unchanged.
+- Archived package instructions and manifest with the [publication audit](provenance/THREE_INTERFACES_PUBLICATION_AUDIT_v1.0.md); `_inbox` and ZIP archives remain local and untracked.
