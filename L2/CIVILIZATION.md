@@ -29,6 +29,10 @@ These are **professions** not an exhaustive spell taxonomy; card wielders/tattoo
 
 Some worlds may emphasize mathematical games (Raeon), collectible Genesis cards, Genesis-based sport (Prism), coffee-equivalent `abecca`, ER Foam conversation circles, heroic monster expeditions, scientific institutions, charities, intellectual property, cuisine, guildlike independent organizations and richly textured personal routines. No individual choice is required in every AERA novel.
 
+## Optional longevity and inheritance
+
+[Long-lived aristocracy](CIVILIZATION/LONGEVITY_AND_NOBILITY.md) explores unequal access to the [fictional longevity ranges](../L1/NEUROGENESIS/04_LONGEVITY.md): many adult generations alive together, delayed succession and centuries of wealth or institutional control. These are possible consequences, not required governments or economic laws. Awakening, Shaping proficiency, wealth and political rank remain independent; appearance and marriage preferences are in-world attitudes. Routine Bindings and rare high-output operational Card use are one optional equipment practice, with unchanged fatigue and Card exclusivity and no `aen` boost to Cards.
+
 ## MK147 selected setting example
 
 Romanticized late seventeenth / eighteenth-century preindustrial human material culture: grown orthogonal stone blocks, sigil municipal infrastructure, water/greenery, abundant plant agriculture, dungeon support towns, provincial capital structure, Institutions of Knowledge, cultural card games. **This is an example**; not all future worlds are obligated to be preindustrial or to share its legal institutions.

@@ -16,6 +16,8 @@ Raeon cards are designed for an **in-world tabletop field game**. Their field ge
 
 Two [Genesis Card variations](GENESIS_CARD_VARIANTS.md) are available: **collectible-only cards**, containing/displaying bounded Genesis manifold or Shaping representations (fireballs, structures, etc.), and **operational cards**, whose encoded topology supports Transduction under the [existing interface rules](../L1/INTERFACES/03_GENESIS_CARDS.md). **Operational cards can also be collected, traded and displayed**; collectible use does not remove their encoded architecture, and trading a collectible-only card does not make it operational. Possession alone does not imply a castable spell. MK147/MK157 example characters' collections remain separate from Raeon playable cards and retain their own source authority. Authors may adopt either variation, both or neither; no trading mechanics are prescribed.
 
+Under the [current `aen` clarification](../L1/NEUROGENESIS/03_AEN_TRAINING_AND_FATIGUE.md), operational Cards draw through their exclusive basin conduits and receive **no `aen` throughput boost**. Card-occupied basins remain unavailable to that practitioner's `aen`; all use still contributes to cumulative basin-specific fatigue.
+
 ## Genesis diamonds and energy storage
 
 Genesis Diamonds are stable carbon-lattice containers for stored Genesis energy; the diamond and energy remain distinct. Charge-state appearance describes average density, with nine states from empty through ultraviolet. The source supplies six reference charging times, infrastructure charging and four size classes as optional world-engine examples. See [Genesis Diamonds](TECHNOLOGY/GENESIS_DIAMONDS.md) and its preserved seven-page master; no universal capacity equation is introduced.

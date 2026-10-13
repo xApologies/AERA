@@ -1,0 +1,31 @@
+{
+  "package": "AERA_AEN_LONGEVITY_CHECKPOINT_v1",
+  "target": "xApologies/AERA",
+  "files": [
+    {
+      "path": "payload/L1/NEUROGENESIS/03_AEN_TRAINING_AND_FATIGUE.md",
+      "bytes": 2382,
+      "sha256": "0cd47ca2572bd47514e897c6d1483e0b062318f648df41dd3f1ca7af2809ee60"
+    },
+    {
+      "path": "payload/L1/NEUROGENESIS/04_LONGEVITY.md",
+      "bytes": 1296,
+      "sha256": "03e0b8761e1a487399734ab842a48d5da2554d40c244413d933e5700966dbcd7"
+    },
+    {
+      "path": "payload/L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md",
+      "bytes": 2336,
+      "sha256": "b389ae2f34d8b8ce937c1a568c135ca936476f1c5f152a07b1fc08d01a248df2"
+    },
+    {
+      "path": "payload/L2/CIVILIZATION/LONGEVITY_AND_NOBILITY.md",
+      "bytes": 1451,
+      "sha256": "4e748a94075c336e0aff2645bcfead08f9b8fc23aa3fcf0182a2afa2aa1a3583"
+    },
+    {
+      "path": "payload/provenance/AEN_LONGEVITY_DECISION_2026-10-13.md",
+      "bytes": 676,
+      "sha256": "f8b7ffd14f7c0e644490e4ed75410190ef55a14f9c5ea94472533b82ae01928d"
+    }
+  ]
+}

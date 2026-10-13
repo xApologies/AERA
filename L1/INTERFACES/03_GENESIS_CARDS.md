@@ -10,6 +10,8 @@ For collectible-only versus operational cards, see the [Layer Two variants cross
 ## Newly promoted AERA-wide rule
 The MK727 ordinary-card rule was originally *book-specific*. The author now establishes that an activated card's basin anchor is **exclusive across ALL interfaces** for the practitioner. Example: a Red+Orange card prevents a Red+Green card and prevents native Red-dependent manifold construction while the anchor remains. Native Genesis otherwise allows simultaneous same-basin Shapings. Whether an already-running native Shaping prevents activation of a conflicting card or must be released first is OPEN. Do not invent forced cancellation.
 
+The [current `aen` clarification](../NEUROGENESIS/03_AEN_TRAINING_AND_FATIGUE.md) confirms that operational Cards draw energy **through the card** and receive **no `aen` throughput boost**. An Awakened cannot simultaneously access card-occupied basins through `aen`. Card use still contributes to the same cumulative basin-specific fatigue; activation precedence and the existing collecting/trading variations are unchanged.
+
 ## Manufacturing and profession
 Industrial sigil arrays can flash blank maege-glass cards with encoded manifolds. **Cardsmiths engineer cards; Architects/Runesmiths design and inscribe the sigils and workbenches.** An orthogonal workbench exposes an isolated, *coupled* PSSP view of the card's manifold, not an independent copy or automatic editor. Cardsmiths use mathematical expertise, professional tools, Genesis crystals/dust and identity-bearing `vaen` to inspect, modify or engineer manifolds; failures can fracture cards. Basin-set compression is possible at trade-offs, exact formulas/recipes OPEN.
 

@@ -8,6 +8,8 @@ Authors determine their planets, stars, geography, weather, ecosystems, politics
 - [`GENESIS_BIOLOGY.md`](GENESIS_BIOLOGY.md) — non-Genesis, Genesis-adapted, Genesis-dependent organisms; biological `vaen` opportunities.
 - [Optional human Neurogenesis variation](BIOLOGY/06_HUMAN_NEUROGENESIS_VARIATION.md) — three expressions of one humanity; innate development tendencies remain distinct from learned proficiency.
 - [Current optional chromatic denizens](BIOLOGY/00_READ_FIRST.md) — Vaelith and Sprite biology, accepted visual references and pending MK231 migration; no new energy basins or mandatory inhabited realms.
+- [Vaelith anatomy and prophetic correspondence](BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md) — unisex living-shell anatomy and optional associations; source images and story history remain intact.
+- [Fictional human longevity](../L1/NEUROGENESIS/04_LONGEVITY.md) — approximate ranges by biological development, distinct from magical proficiency.
 - [Optional inherited Afflicted biology](BIOLOGY/05_AFFLICTED.md) — recursive chromatic channels and White Awakening; proposed Neon-affinity context, with [source and story boundaries](../provenance/afflicted-v1/SEMANTIC_AUDIT.md).
 - [`GENESIS_ENVIRONMENTS.md`](GENESIS_ENVIRONMENTS.md) — equilibrium, ELDRIS, dungeons, storms and domai.
 
@@ -19,6 +21,7 @@ Authors determine their planets, stars, geography, weather, ecosystems, politics
 - [Genesis Card variants](GENESIS_CARD_VARIANTS.md) — collectible-only and operational cards; operational cards can also be collected and traded, with existing L1 constraints intact.
 - [Enchanting](ENCHANTING/00_READ_FIRST.md) — persistent object-identity modification through prepared sigils or direct Architect work; four combinable configurations and explicit energy-source boundaries.
 - [`CIVILIZATION.md`](CIVILIZATION.md) — Institutions of Knowledge, human professional categories, economic and patent concepts.
+- [Longevity and noble inheritance](CIVILIZATION/LONGEVITY_AND_NOBILITY.md) — optional multigenerational households and delayed succession; wealth, Awakening and skill remain independent.
 - [`CULTURE_AND_GAMES.md`](CULTURE_AND_GAMES.md) — aithren/vaelum, Raeon, Genesis Cards, Prism, social math culture.
 
 These are **inheritable options**, not universal demands. Each is tagged with its primary upstream reference to avoid rewriting its mathematical mechanism.

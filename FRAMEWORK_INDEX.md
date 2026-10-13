@@ -15,9 +15,12 @@ This is the navigation hub for author and AI. Open only the topical documents yo
 | How do neural access, potions and Awakening differ? | [Neurogenesis and White Awakening](L1/NEUROGENESIS/00_READ_FIRST.md) | innate six-strand filaments, chromatic grafting and cutaneous `aen` remain distinct |
 | How do the three human expressions vary? | [Optional human Neurogenesis variation](L2/BIOLOGY/06_HUMAN_NEUROGENESIS_VARIATION.md) | population tendencies in innate development, not fixed individual proficiency or mandatory species |
 | What limits the operator? | [`L1/FATIGUE_CONCEPT.md`](L1/FATIGUE_CONCEPT.md) | endurance/concept, no mana meter |
+| How are `aen` trained? | [`aen` formation and fatigue](L1/NEUROGENESIS/03_AEN_TRAINING_AND_FATIGUE.md) | dot, arc, closure and width; native/Binding throughput benefit, no Card boost |
+| How does Genesis affect human lifespan? | [Fictional longevity](L1/NEUROGENESIS/04_LONGEVITY.md) | approximate biological ranges, not fixed ages or magical proficiency |
 | Why eight prophecies? | [`PROPHECIES.md`](PROPHECIES.md) | seven concepts + singular Black event |
 | What flora/monsters exist? | [`L2/GENESIS_BIOLOGY.md`](L2/GENESIS_BIOLOGY.md), [`L2/GENESIS_ENVIRONMENTS.md`](L2/GENESIS_ENVIRONMENTS.md) | fauna and collapse entities distinct |
 | Which current optional chromatic denizens? | [Chromatic biology](L2/BIOLOGY/00_READ_FIRST.md) | Orange Vaelith / Green Sprite defaults; optional populations, with historical MK231 story canon preserved |
+| How do Vaelith anatomy and prophetic associations relate? | [Vaelith correspondence](L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md) | living-shell anatomy and optional denizen associations, not fundamental classification equivalences |
 | What is inherited Affliction? | [Optional Afflicted biology](L2/BIOLOGY/05_AFFLICTED.md), [source reconciliation](provenance/afflicted-v1/SEMANTIC_AUDIT.md) | preexisting recursive chromatic channels; Neon-affinity cause is proposed, and White Awakening does not originate the condition |
 | What is `vaen`? | [`L2/ALCHEMY_VAEN.md`](L2/ALCHEMY_VAEN.md) | Genesis resource identity vs Type-1–5 materials |
 | What do Architects do? | [`L2/SIGILS_ARCHITECTS_VELIS.md`](L2/SIGILS_ARCHITECTS_VELIS.md) | physical marks vs direct field topology |
@@ -25,6 +28,7 @@ This is the navigation hub for author and AI. Open only the topical documents yo
 | Which Genesis Cards are operational? | [Genesis Card variants](L2/GENESIS_CARD_VARIANTS.md) | collectible-only and operational; operational cards may also be collected, with Raeon separate |
 | How are objects enchanted? | [Enchanting architecture](L2/ENCHANTING/00_READ_FIRST.md) | persistent object identity; two fabrication routes and four combinable configurations, with reservoirs distinct from conduits |
 | What about schools and cultures? | [`L2/CIVILIZATION.md`](L2/CIVILIZATION.md), [`L2/CULTURE_AND_GAMES.md`](L2/CULTURE_AND_GAMES.md) | Institutions of Knowledge vs world-specific institutions |
+| How might longevity affect inheritance? | [Longevity and nobility](L2/CIVILIZATION/LONGEVITY_AND_NOBILITY.md) | optional social consequences; biological status, skill and political rank remain distinct |
 | Who are the characters? | [`L3/CHARACTER_ENGINE.md`](L3/CHARACTER_ENGINE.md) | author-defined biology, choices, identity |
 | How do we write the novel? | [`L4/STORY_ENGINE.md`](L4/STORY_ENGINE.md) | author narrative, not preassigned plot |
 | How did MK231 use AERA? | [`examples/MK231/README.md`](examples/MK231/README.md) | worked example, not universal rule |

@@ -104,3 +104,9 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Added the exact four supplied definitions/authority records: collectible-only and operational Genesis Cards, with operational cards also collectible/tradable; and optional dwarf-like, human-like and elf-like expressions of one humanity with typical low/intermediate/high innate channel development.
 - Reconciled stale prospective-interface wording in current technology/culture summaries and added concise navigation. Individual training and author-selected inheritance remain distinct from population tendencies; activation mechanics and basin exclusivity are unchanged.
 - Preserved historical provenance and unrelated canon; see the [scoped semantic audit](provenance/genesis-cards-human-variation-v2/SEMANTIC_AUDIT.md) for integrity and remaining OPEN questions.
+
+## `aen`, longevity and civilization checkpoint v1 (2026-10-13)
+
+- Added five exact workshop documents: dot/arc/ring/band training, cumulative chromatic fatigue, fictional longevity ranges, optional aristocratic inheritance, Vaelith refinement and denizen/prophecy correspondence, plus their decision provenance.
+- Reconciled current summaries: `aen` benefits native Shapings and prepared Bindings but cannot boost operational Cards; typical White Awakened lifespan stays 400–500 years, with approximately 700 exceptional. Card variants, exclusivity, Binding bandwidth and author-selected human expressions remain intact.
+- Updated Vaelith to unisex slender anatomy over the accepted living energy shell; retained original images, all mathematical/prophetic source files, constitutions and historical records. Optional correspondences do not enact MK231 migration or prove White/Black topology; see the [semantic audit](provenance/aen-longevity-v1/SEMANTIC_AUDIT.md).
