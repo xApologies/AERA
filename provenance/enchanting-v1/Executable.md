@@ -1,0 +1,15 @@
+# Codex execution — AERA Enchanting checkpoint v1
+
+**Target repository:** `https://github.com/xApologies/AERA`, existing default branch. **Scope:** additive enchanting architecture checkpoint only; no changes to other repos.
+
+1. Locate existing AERA checkout, verify remote and clean worktree. If there are local uncommitted changes or another Codex publication in progress, STOP or safely reconcile without reset/force push.
+2. Extract this ZIP outside the tracked repository; reject path traversal. Read this `Executable.md`, `MANIFEST.json`, and `payload/L2/ENCHANTING/00_READ_FIRST.md`; verify every payload file against SHA-256 and byte size.
+3. Inspect repository `AGENTS.md`, `CONSTITUTION.md`, `FRAMEWORK_INDEX.md`, `L1/TRANSDUCTION_LIFECYCLE.md`, `L1/INTERFACES/00_READ_FIRST.md` (if present), `L2/README.md`, `L2/GENESIS_TECHNOLOGY.md`, `L2/TECHNOLOGY/GENESIS_DIAMONDS.md`, `L2/INHERITANCE/02_ALCHEMY_VAEN_AND_BINDING.md`, `provenance/DECISION_LEDGER.md`, and any current enchanting files. Current repository authority takes precedence over incidental package assumptions; report conflicts.
+4. Install all five `payload/L2/ENCHANTING/*.md` as `L2/ENCHANTING/*.md` and `payload/provenance/ENCHANTING_DECISION_RECORD_v1.md` as `provenance/ENCHANTING_DECISION_RECORD_v1.md`. If same paths exist, compare and merge carefully rather than overwrite unrelated additions.
+5. Add concise links to the enchanting index in `FRAMEWORK_INDEX.md`, `L2/README.md`, and optionally `L2/GENESIS_TECHNOLOGY.md`. Add a dated changelog/decision-ledger pointer if current repository conventions require it. Do not change the established Genesis Diamond battery definition, charge-state color rules or dimensional-ring mechanism.
+6. Preserve the precise four variants and the **corrected finite reservoir wording: either a Red-through-Violet Genesis crystal OR a charged Genesis Diamond**. Intrinsic identity remains permanently modified even if activated effects stop or reservoirs deplete. Conduit is not automatically battery. Two manufacture routes are distinct. Four variants are combinable.
+7. No edits to L0 mathematical source, prophecies, MK231 examples, existing source PDFs, historical provenance or external repositories. Do not invent mass/inertia equations, item enchantment limits, prices, or material-fatigue laws.
+8. Run markdown/link checks available in the repo, `git diff --check`, semantic audit, and verify installed payload hashes unless deliberately reconciled. Stage only intended changes. Commit `docs(aera): add persistent Genesis enchanting architecture`; push normally to default branch, or open a PR if protected.
+9. Report actual remote commit SHA, changed paths, verification results and OPEN questions. Never claim a successful push without confirming it.
+
+**Important:** This is a new checkpoint following earlier Neurogenesis, Awakening, Afflicted and three-interface releases. Preserve those published updates. Do not duplicate or roll back them; reconcile only where necessary.

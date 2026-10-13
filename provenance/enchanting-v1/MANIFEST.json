@@ -1,0 +1,37 @@
+{
+  "package": "AERA_ENCHANTING_CHECKPOINT_v1",
+  "target": "xApologies/AERA",
+  "scope": "Enchanting only; preserve previous checkpoint updates",
+  "files": [
+    {
+      "path": "payload/L2/ENCHANTING/00_READ_FIRST.md",
+      "bytes": 2729,
+      "sha256": "2a3973ca900683974bd486d8dfc2a30f14ded7d443cf51b2657bf7e83bc529bc"
+    },
+    {
+      "path": "payload/L2/ENCHANTING/01_IDENTITY_AND_FABRICATION.md",
+      "bytes": 2416,
+      "sha256": "f9aaaa386038d9cef44c3d82f2beddde62fedb06e5c46280c7011acb842d89a9"
+    },
+    {
+      "path": "payload/L2/ENCHANTING/02_FOUR_CONFIGURATIONS.md",
+      "bytes": 2309,
+      "sha256": "4f015ae309fb7a2ce24e519244df5b68b89a85490b6d36fc1e40112e237ce24c"
+    },
+    {
+      "path": "payload/L2/ENCHANTING/03_ENERGY_SOURCES_AND_SCOPE.md",
+      "bytes": 2045,
+      "sha256": "5517b9c4a94dd02c80f2630b23e6048a8c1d23670dbd771ed72b2d5227606c6d"
+    },
+    {
+      "path": "payload/L2/ENCHANTING/04_AUTHORITY_AND_OPEN.md",
+      "bytes": 1981,
+      "sha256": "3af8f6c5af3e98b377dcc524ccc428908168d08035c13934e920d2fd39a8745b"
+    },
+    {
+      "path": "payload/provenance/ENCHANTING_DECISION_RECORD_v1.md",
+      "bytes": 639,
+      "sha256": "6829354f11de6af8f5d1f21faa659b845ea91533ac0781f5c4e85b718c341e3a"
+    }
+  ]
+}

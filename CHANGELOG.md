@@ -85,3 +85,10 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Linked the condition to the current Neurogenesis/White Awakening model while preserving pigmentation, trained `aen`, ordinary Transduction limits and Sprite/ELDRIS/Black distinctions.
 - Preserved the original payload in provenance and normalized only two sentence-initial `Aen` tokens to canonical lowercase `aen` in the installed biology document. New narrative references use Kaira; historical source spellings remain intact.
 - Recorded the current workshop phenotype versus preserved MK231/MK727 source portrayals, unresolved healing/survival and separate story-migration requirements in the [semantic audit](provenance/afflicted-v1/SEMANTIC_AUDIT.md). Constitutions, L0, prophecies, existing story examples and external repositories remain unchanged.
+
+## Enchanting architecture checkpoint v1 (2026-10-13)
+
+- Added five exact Enchanting documents and the supplied decision record: persistent object identity, distinct prepared-sigil/direct-Architect fabrication, and four combinable configurations.
+- Preserved the corrected finite-reservoir choice of R–V Genesis crystal or charged Genesis Diamond, the difference between reservoir and conduit, and persistence after depletion/deactivation.
+- Added framework/technology navigation while preserving all published biological, Binding, Card, Diamond and Ring mechanics. No L0, constitution, prophecy, historical source or external repository was changed.
+- Archived the original instructions/manifest and [semantic audit](provenance/enchanting-v1/SEMANTIC_AUDIT.md), including unresolved mass/inertia, stacking/removal, conduit/Card interaction and optional material-fatigue questions.

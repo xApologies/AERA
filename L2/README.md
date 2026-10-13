@@ -15,6 +15,7 @@ Authors determine their planets, stars, geography, weather, ecosystems, politics
 - [`ALCHEMY_VAEN.md`](ALCHEMY_VAEN.md) — Genesis material science and scarce identity-bearing resources.
 - [`SIGILS_ARCHITECTS_VELIS.md`](SIGILS_ARCHITECTS_VELIS.md) — `ru’ne`, industrial arrays, temporary Architect `velis` and agriculture.
 - [`GENESIS_TECHNOLOGY.md`](GENESIS_TECHNOLOGY.md) — maege glass, Genesis diamonds/rings/cards, ER Foam placeholder.
+- [Enchanting](ENCHANTING/00_READ_FIRST.md) — persistent object-identity modification through prepared sigils or direct Architect work; four combinable configurations and explicit energy-source boundaries.
 - [`CIVILIZATION.md`](CIVILIZATION.md) — Institutions of Knowledge, human professional categories, economic and patent concepts.
 - [`CULTURE_AND_GAMES.md`](CULTURE_AND_GAMES.md) — aithren/vaelum, Raeon, Genesis Cards, Prism, social math culture.
 

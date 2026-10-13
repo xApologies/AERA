@@ -24,6 +24,12 @@ Genesis Diamonds are stable carbon-lattice containers for stored Genesis energy;
 
 Dimensional Rings conserve recursive topology through inheritance reassignment rather than a pocket dimension. Storage remains Expand→Select→Collapse→Conserve; retrieval remains Recognize→Select→Collapse→Retrieve. Conscious recognition and user familiarity govern retrieval without an inventory UI; reach values are illustrative source-device references. See [Dimensional Rings](TECHNOLOGY/DIMENSIONAL_RINGS.md) and its locked 20-page master, including the Jenkins principle. This is an available implementation, not a mandatory AERA device.
 
+## Enchanting — persistent object-identity engineering
+
+[Enchanting architecture](ENCHANTING/00_READ_FIRST.md) describes an optional author-level system for persistent object-identity modification. Prepared sigil/miniature Binding Circle fabrication consumes a resource group per coherent enchantment system; direct Architect fabrication uses conscious manifold construction without inherently requiring the same specialized consumables. Both require admissible engineering and energy; the existing six-stage Transduction lifecycle remains.
+
+Intrinsic, activated, finite-reservoir and chromatic-conduit configurations may be combined. A finite reserve can be **either a Red-through-Violet Genesis crystal or a charged Genesis Diamond**; a conduit is not automatically a stored reserve. An effect stopping or a reserve emptying does not erase the modified identity. Diamond charge-state colors and Ring inheritance-reassignment mechanics retain their own definitions. Material stress/cooldown is optional; mass/inertia laws and interaction with personal Genesis Card anchors remain OPEN. See [source distinctions](ENCHANTING/03_ENERGY_SOURCES_AND_SCOPE.md) and [authority/open questions](ENCHANTING/04_AUTHORITY_AND_OPEN.md).
+
 ## ER Foam
 
 **PLACEHOLDER ONLY:** Einstein–Rosen Foam, a Genesis-field projection used as a **tactile surface**. Originates in MK Ultra gravity research. Do not reconstruct or imagine its math. Narrative reported uses: projected roads, responsive touches/buttons, maps with depth. See L0 placeholder.

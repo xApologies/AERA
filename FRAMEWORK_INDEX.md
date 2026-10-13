@@ -21,6 +21,7 @@ This is the navigation hub for author and AI. Open only the topical documents yo
 | What is `vaen`? | [`L2/ALCHEMY_VAEN.md`](L2/ALCHEMY_VAEN.md) | Genesis resource identity vs Type-1–5 materials |
 | What do Architects do? | [`L2/SIGILS_ARCHITECTS_VELIS.md`](L2/SIGILS_ARCHITECTS_VELIS.md) | physical marks vs direct field topology |
 | What advanced artifacts? | [`L2/GENESIS_TECHNOLOGY.md`](L2/GENESIS_TECHNOLOGY.md) | optional available technologies |
+| How are objects enchanted? | [Enchanting architecture](L2/ENCHANTING/00_READ_FIRST.md) | persistent object identity; two fabrication routes and four combinable configurations, with reservoirs distinct from conduits |
 | What about schools and cultures? | [`L2/CIVILIZATION.md`](L2/CIVILIZATION.md), [`L2/CULTURE_AND_GAMES.md`](L2/CULTURE_AND_GAMES.md) | Institutions of Knowledge vs world-specific institutions |
 | Who are the characters? | [`L3/CHARACTER_ENGINE.md`](L3/CHARACTER_ENGINE.md) | author-defined biology, choices, identity |
 | How do we write the novel? | [`L4/STORY_ENGINE.md`](L4/STORY_ENGINE.md) | author narrative, not preassigned plot |
