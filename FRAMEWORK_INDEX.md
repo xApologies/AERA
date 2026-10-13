@@ -61,3 +61,5 @@ Read [prophecies/README.md](prophecies/README.md) for the ordered I–VIII liter
 ## Optional AE / AI naming practice
 
 Read [L2/LANGUAGE/AE_AI_NAMING_CONVENTION.md](L2/LANGUAGE/AE_AI_NAMING_CONVENTION.md) for optional personal-name patterns and contextual institutional vocabulary. This does not define Genesis Language or AEVEA grammar.
+
+The [Aenith / Aineth / Ain lexicon](L2/LANGUAGE/AENITH_AINETH_AIN.md) locks the enchanted object, enchanting process and individual enchantment terms. Its AE/AI relationship is specific to this family; existing Enchanting mechanics and the optional naming convention remain intact.

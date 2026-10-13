@@ -1,0 +1,17 @@
+{
+  "package": "AERA_AENITH_LEXICON_v1",
+  "target": "xApologies/AERA",
+  "scope": "lexical update; prior enchanting publication prerequisite",
+  "files": [
+    {
+      "path": "payload/L2/LANGUAGE/AENITH_AINETH_AIN.md",
+      "size": 3339,
+      "sha256": "efde897d363a41878ac4c6332b86a824af7f49c44f649ee010994f9f44bfcfd8"
+    },
+    {
+      "path": "payload/provenance/AENITH_LEXICON_DECISION_v1.md",
+      "size": 730,
+      "sha256": "0d8ac762b39677ff9c5f3071a9c9e9191c6b95dc9b7237ee69ac7483bf9dfaad"
+    }
+  ]
+}

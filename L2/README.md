@@ -42,3 +42,5 @@ These are optional source-derived expansions. Diamond density conversions and ri
 ## Optional linguistic inheritance
 
 [AE / AI naming convention](LANGUAGE/AE_AI_NAMING_CONVENTION.md) documents optional personal-name and contextual relational tendencies, with canonical spellings and counterexamples.
+
+[Aenith / Aineth / Ain](LANGUAGE/AENITH_AINETH_AIN.md) names the enchanted object, enchanting process and persistent enchantment respectively; terminology leaves the existing engineering and broader language choices unchanged.

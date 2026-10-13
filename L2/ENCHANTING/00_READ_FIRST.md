@@ -3,7 +3,7 @@
 **Status:** author-approved working framework checkpoint, 2026-10-13.
 **Scope:** reusable AERA L1/L2 mechanics; not an MK231 plot or spell catalogue.
 
-**Enchanting** is the **author-level term** for modifying an object's local Genesis-field geometry and persistent identity/inheritance so the object has an altered admissible property or functional system. The in-world name is **OPEN**. The item remains the same identifiable object unless a particular transformation explicitly changes that identity.
+**Enchanting** is the **author-level term** for modifying an object's local Genesis-field geometry and persistent identity/inheritance so the object has an altered admissible property or functional system. The [locked lexicon](../LANGUAGE/AENITH_AINETH_AIN.md) names **Aineth** as the process, **Ain** as an individual persistent enchantment, and **Aenith** as an object possessing one or more Ain. The item remains the same identifiable object unless a particular transformation explicitly changes that identity.
 
 **Persistence hard rule:** Once the object's Genesis identity is successfully altered, **the modification persists**. An activated effect, energy reserve or conduit can be unavailable, exhausted or disengaged without deleting the enchantment itself. Distinguish an intrinsic property from the energy required to perform a continuing effect.
 

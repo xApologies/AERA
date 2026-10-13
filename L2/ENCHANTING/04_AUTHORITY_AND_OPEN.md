@@ -21,7 +21,10 @@
 - Whether energy conduits can sustain an effect without separate reservoir, and how basin access interacts with an individual's exclusive Genesis Card anchors.
 - Material fatigue and repair mathematics, activation cost, output limits, range, loss mechanisms.
 - Exact sigil geometries, resources, mass production rates and prices.
-- In-world term replacing author-level 'enchanting'.
+
+## Resolved terminology — 2026-10-13
+
+The [locked lexicon](../LANGUAGE/AENITH_AINETH_AIN.md) establishes **Aenith** (object possessing an Ain), **Aineth** (enchanting process/discipline) and **Ain** (individual persistent enchantment). English *enchanting* remains the author-level term. This resolves only the in-world naming question; all mechanical questions above remain OPEN.
 
 ## Preservation
 Do not change L0 mathematics, prophecies, denizen biology, MK231 storyline, MK727 catalogues, source PDFs, historical release manifests or independent repositories.

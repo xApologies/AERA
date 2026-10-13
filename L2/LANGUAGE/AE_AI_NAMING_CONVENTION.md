@@ -36,3 +36,7 @@ For a request such as “generate fifty masculine names,” an author or assista
 ## Source and provenance
 
 Author's AERA workshop, 2026-10-11: general male AE / female AI pattern; `vaelum` as possessing institution and `aithren` as participating adventurer culture; `maege`/`maegi` retained; explicit optionality for individual names and adopting authors. This file formalizes those statements without inventing an entire language grammar.
+
+## Established object-engineering vocabulary — 2026-10-13
+
+The [Aenith / Aineth / Ain lexicon](AENITH_AINETH_AIN.md) applies the relational contrast within this specific family: **Aenith** is the object possessing an **Ain** (an individual persistent enchantment), while **Aineth** is the process that establishes it. AE marks possession and AI the non-possessive process/result here; this does not prescribe gender, rename existing terms or establish a universal grammar. The separate lowercase `aen` channels and identity-bearing `vaen` resources retain their meanings.

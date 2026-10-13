@@ -92,3 +92,9 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Preserved the corrected finite-reservoir choice of R–V Genesis crystal or charged Genesis Diamond, the difference between reservoir and conduit, and persistence after depletion/deactivation.
 - Added framework/technology navigation while preserving all published biological, Binding, Card, Diamond and Ring mechanics. No L0, constitution, prophecy, historical source or external repository was changed.
 - Archived the original instructions/manifest and [semantic audit](provenance/enchanting-v1/SEMANTIC_AUDIT.md), including unresolved mass/inertia, stacking/removal, conduit/Card interaction and optional material-fatigue questions.
+
+## Aenith / Aineth / Ain lexicon v1 (2026-10-13)
+
+- Added the exact author-locked lexicon and decision record: Aenith is an object possessing an Ain; Aineth is the enchanting process; Ain is an individual persistent enchantment.
+- Resolved only Enchanting's former in-world-name deferral and added language/framework navigation. English enchanting remains the author-level category; AE/AI scope, personal-name exceptions, `aen`, `vaen` and `maege`/`maegi` remain intact.
+- Verified the published Enchanting prerequisite and preserved both fabrication routes, four combinable configurations, crystal-or-Diamond reservoirs and persistence after depletion. All other framework mechanics and OPEN questions remain unchanged; see the [semantic audit](provenance/aenith-lexicon-v1/SEMANTIC_AUDIT.md).

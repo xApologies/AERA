@@ -47,3 +47,7 @@ Read [optional Afflicted biology](L2/BIOLOGY/05_AFFLICTED.md) and its [semantic/
 ## Enchanting checkpoint — v1 (2026-10-13)
 
 Read [Enchanting architecture](L2/ENCHANTING/00_READ_FIRST.md), the [supplied decision record](provenance/ENCHANTING_DECISION_RECORD_v1.md) and [semantic audit](provenance/enchanting-v1/SEMANTIC_AUDIT.md). Object identity persists after an effect stops or energy depletes. Prepared sigil/Binding and direct Architect fabrication remain distinct; intrinsic, activated, finite-reservoir and conduit configurations are combinable. Reservoirs may use R–V crystals or charged Diamonds, while conduit function is separate. Mass/inertia/conservation, stacking/removal, conduit/Card interactions, material fatigue, recipes and the in-world name remain OPEN. Prior biology, personal interface rules, Diamond charge states, Ring mechanisms and source-specific story decisions are preserved.
+
+## Aenith / Aineth / Ain lexicon checkpoint — v1 (2026-10-13)
+
+The [locked lexicon](L2/LANGUAGE/AENITH_AINETH_AIN.md) closes only the prior in-world naming deferral: through **Aineth**, an **Ain** is established, and the object possessing it is an **Aenith**. AE/AI applies relationally within this lexical family; broader naming remains optional, and `aen`/`vaen` remain separate terms. English enchanting and all existing mechanics remain valid. Other Enchanting and source-reconciliation questions stay OPEN; see the [semantic audit](provenance/aenith-lexicon-v1/SEMANTIC_AUDIT.md).
