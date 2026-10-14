@@ -29,6 +29,12 @@ Temporary, bounded Genesis-event **environment**, not a conscious lifeform. It m
 
 Persistent geographic environmental **prisms/strata** separating Genesis-field expression by the R→V structural basins. They are not just cleared 'levels' and need not vanish once explored. In the inherited MK147 model, eldris are **effectively confined to compatible strata**, so settlements outside dungeon entrances are comparatively safe. This is environmental confinement, not merely a tendency to remain in place. **Dungeons can be imagined without an overarching disequilibrium and without ELDRIS** in an author's AERA setting. Their local architecture, strata and external cultures are author-defined.
 
+## Genesis Mines — monochromatic crystallization
+
+[Genesis Mines](ENVIRONMENT/07_GENESIS_MINES.md) are optional persistent local Genesis-field pockets that separate **exactly one R–V basin** through a prism-like configuration, distinct from multi-stratum dungeons, temporary domai and inhabited realms. Their ordinary output is monochromatic **Genesis crystals**. Oscillations can grow crystals only below finite stable crystalline equilibrium; at equilibrium, oscillation continues without additional net growth. Extraction permits later replenishment, with restoration per event and harvest rates author-defined. This local crystalline capacity is not a redefinition of Starscape equilibrium.
+
+Oscillation frequency and fictional exposure severity increase qualitatively R→V, while frequency, hazardous-event recurrence, event duration and permissible exposure time remain distinct. Equilibrium does not make the oscillations safe. The [historical source and migration notes](../provenance/genesis-mines-v1/SOURCE_AND_MIGRATION.md) distinguish current authority from the preserved Genesis Point PDF: no Genesis Stones or absorption protection, compulsory will-based extraction, 17-day schedule, penal system, currency backing or replacement dust chemistry is imported.
+
 ## World example — balance and monster pressure
 
 MK231 inherits an unusually displaced high Yellow neon singularity as a Starscape-local mechanism promoting collapse/eldris/storms/domai. A settled equilibrium world might avoid that entirely, while still supporting dungeons, Alchemy, Genesis flora and human culture. **Do not universalize the MK231 Yellow defect** as the reason all monsters in all AERA worlds exist.

@@ -19,6 +19,7 @@ This is the navigation hub for author and AI. Open only the topical documents yo
 | How does Genesis affect human lifespan? | [Fictional longevity](L1/NEUROGENESIS/04_LONGEVITY.md) | approximate biological ranges, not fixed ages or magical proficiency |
 | Why eight prophecies? | [`PROPHECIES.md`](PROPHECIES.md) | seven concepts + singular Black event |
 | What flora/monsters exist? | [`L2/GENESIS_BIOLOGY.md`](L2/GENESIS_BIOLOGY.md), [`L2/GENESIS_ENVIRONMENTS.md`](L2/GENESIS_ENVIRONMENTS.md) | fauna and collapse entities distinct |
+| How do Genesis Mines replenish crystals? | [Genesis Mines](L2/ENVIRONMENT/07_GENESIS_MINES.md) | one basin per mine; oscillation continues at finite crystalline equilibrium without net growth; harvest permits later regrowth |
 | Which current optional chromatic denizens? | [Chromatic biology](L2/BIOLOGY/00_READ_FIRST.md) | Orange Vaelith / Green Sprite defaults; optional populations, with historical MK231 story canon preserved |
 | How do Vaelith anatomy and prophetic associations relate? | [Vaelith correspondence](L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md) | living-shell anatomy and optional denizen associations, not fundamental classification equivalences |
 | What is inherited Affliction? | [Optional Afflicted biology](L2/BIOLOGY/05_AFFLICTED.md), [source reconciliation](provenance/afflicted-v1/SEMANTIC_AUDIT.md) | preexisting recursive chromatic channels; Neon-affinity cause is proposed, and White Awakening does not originate the condition |

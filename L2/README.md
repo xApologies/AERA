@@ -12,6 +12,7 @@ Authors determine their planets, stars, geography, weather, ecosystems, politics
 - [Fictional human longevity](../L1/NEUROGENESIS/04_LONGEVITY.md) — approximate ranges by biological development, distinct from magical proficiency.
 - [Optional inherited Afflicted biology](BIOLOGY/05_AFFLICTED.md) — recursive chromatic channels and White Awakening; proposed Neon-affinity context, with [source and story boundaries](../provenance/afflicted-v1/SEMANTIC_AUDIT.md).
 - [`GENESIS_ENVIRONMENTS.md`](GENESIS_ENVIRONMENTS.md) — equilibrium, ELDRIS, dungeons, storms and domai.
+- [Genesis Mines](ENVIRONMENT/07_GENESIS_MINES.md) — optional single-basin crystal pockets; bounded growth, continuing oscillation at equilibrium and author-defined harvest/exposure protocols.
 
 ## Civilization engine / available technologies
 

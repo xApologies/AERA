@@ -1,0 +1,21 @@
+{
+  "package": "AERA_GENESIS_MINES_CHECKPOINT_v1",
+  "target": "xApologies/AERA",
+  "files": [
+    {
+      "path": "payload/L2/ENVIRONMENT/07_GENESIS_MINES.md",
+      "bytes": 4318,
+      "sha256": "87d8e84c936b2f6991064e9876505c928dcb21e746b8b0d9ea5d76d53ff3c3df"
+    },
+    {
+      "path": "payload/provenance/genesis-mines-v1/SOURCE_AND_MIGRATION.md",
+      "bytes": 1563,
+      "sha256": "769cc0af3907aefabd64f6e3f5d1aafa1af7af4a4aa2335cdcfb17af6d82d314"
+    },
+    {
+      "path": "payload/provenance/genesis-mines-v1/sources/GENESIS_POINT_MINING_HISTORICAL.pdf",
+      "bytes": 87945,
+      "sha256": "65c70abab8ab6ad8c58148269ba1eebb355d83b9893ae52551a79272b6609728"
+    }
+  ]
+}

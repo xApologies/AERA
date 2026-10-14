@@ -110,3 +110,9 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Added five exact workshop documents: dot/arc/ring/band training, cumulative chromatic fatigue, fictional longevity ranges, optional aristocratic inheritance, Vaelith refinement and denizen/prophecy correspondence, plus their decision provenance.
 - Reconciled current summaries: `aen` benefits native Shapings and prepared Bindings but cannot boost operational Cards; typical White Awakened lifespan stays 400–500 years, with approximately 700 exceptional. Card variants, exclusivity, Binding bandwidth and author-selected human expressions remain intact.
 - Updated Vaelith to unisex slender anatomy over the accepted living energy shell; retained original images, all mathematical/prophetic source files, constitutions and historical records. Optional correspondences do not enact MK231 migration or prove White/Black topology; see the [semantic audit](provenance/aen-longevity-v1/SEMANTIC_AUDIT.md).
+
+## Genesis Mines checkpoint v1 (2026-10-13)
+
+- Added the exact single-basin Mines definition and source/migration record. Crystal growth occurs below finite local equilibrium; oscillations continue without net growth at equilibrium, and extraction permits later replenishment.
+- Preserved the original five-page Genesis Point PDF exactly as historical evidence. Current qualitative R–V exposure, crystal and oscillation rules supersede its incompatible stone absorption, fixed schedule, extraction and labor/economy defaults.
+- Added environmental navigation, source registration and handoff; all existing mathematics, interfaces, dungeons, domai, Alchemy, prophecies and prior checkpoints remain intact. See the [semantic audit](provenance/genesis-mines-v1/SEMANTIC_AUDIT.md).

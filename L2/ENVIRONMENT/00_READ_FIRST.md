@@ -14,12 +14,15 @@
 | [Genesis storms and domai](04_STORMS_AND_DOMAI.md) | Disturbance, bounded environments, perception, lifespan and unraveling. |
 | [Stabilized territory and the Wilds](05_STABILIZATION_AND_WILDS.md) | Environmental protection and source-scoped settlement examples. |
 | [Environmental and cultural connections](06_ENVIRONMENTAL_CONNECTIONS.md) | Biology, resources, Alchemy, delvers and storm chasers without new mandatory societies. |
+| [Genesis Mines](07_GENESIS_MINES.md) | One R–V basin per ordinary mine; oscillation, bounded crystal growth, harvest/regrowth and qualitative exposure hazards. |
 
 ## Source discipline
 
 The complete [12-page eldris master](../../provenance/environment-v0.5.0/sources/ELDRIS_MASTER_LRS.pdf) is preserved byte-for-byte. Its [page-labelled extracted text](../../provenance/environment-v0.5.0/sources/ELDRIS_MASTER_EXTRACTED.txt) is a retrieval aid; the PDF remains the original. Sections 0–18 are mapped in the [section register](../../provenance/environment-v0.5.0/MASTER_SECTION_MAP.md). Selected MK147 source files are preserved as text snapshots, with original paths and commit IDs in the [source register](../../provenance/environment-v0.5.0/SOURCE_REGISTER.md).
 
 The master supplies eldris ontology and behavior. The domai lifecycle, effective dungeon containment and Wilds definition also use their named MK147 source records. Do not attribute those supplemental passages to the PDF when it does not contain them.
+
+**Genesis Mines checkpoint — 2026-10-13:** [current AERA mechanics](07_GENESIS_MINES.md) are the author's revised optional environmental model. The [source and migration record](../../provenance/genesis-mines-v1/SOURCE_AND_MIGRATION.md) preserves the original five-page Genesis Point mining PDF as historical evidence. Its stone absorption, will-based extraction, fixed schedule, dust chemistry and labor/economic rules do not override the updated crystal, oscillation, exposure and equilibrium definitions.
 
 ## Source-specific meanings retained explicitly
 
