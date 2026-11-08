@@ -17,3 +17,7 @@
 - Fatigue is physiological/endurance-like reduced access, **not mana**; training improves endurance without eliminating fatigue or automatically upgrading a Binding.
 
 Sources: [Alchemy](https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/04_SYSTEMS/ALCHEMY.md), [Binding/vaen](https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/04_SYSTEMS/BINDING_VAEN.md).
+
+## Natural formation and later Binding use
+
+The two events in [the current vaen owner](../ALCHEMY_VAEN.md) precede any optional Binding use. A Binding Circle can select compatible identities later; it need not produce the naturally occurring resource. The MK147 source scope and processing examples above are unchanged.

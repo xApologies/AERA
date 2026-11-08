@@ -116,3 +116,7 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 - Added the exact single-basin Mines definition and source/migration record. Crystal growth occurs below finite local equilibrium; oscillations continue without net growth at equilibrium, and extraction permits later replenishment.
 - Preserved the original five-page Genesis Point PDF exactly as historical evidence. Current qualitative R–V exposure, crystal and oscillation rules supersede its incompatible stone absorption, fixed schedule, extraction and labor/economy defaults.
 - Added environmental navigation, source registration and handoff; all existing mathematics, interfaces, dungeons, domai, Alchemy, prophecies and prior checkpoints remain intact. See the [semantic audit](provenance/genesis-mines-v1/SEMANTIC_AUDIT.md).
+
+## 2026-11-08 · vaen formation and Red realm expression
+
+Clarified how natural vaen acquire an identity after Genesis expression, including conditional biological and geological examples. Added the Red elemental-expression rule to the optional denizen owner. [Scope, validation and deferred questions](provenance/vaen-dual-2026-11-08/SEMANTIC_AUDIT.md).

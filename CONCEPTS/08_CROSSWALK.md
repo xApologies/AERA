@@ -41,3 +41,7 @@ The seven concepts are **not** a compulsory sequence for a Shaping. They are des
 - **Black Prophecy**: independent foretelling of a mysterious singular manifestation of magic; its later story realization belongs to shared AERA fictional continuity.
 
 No general one-to-one mapping between any of these sets is established. Do not invent one to make a tidy diagram.
+
+## Reading a vaen example
+
+First-stage expression in a living patch can be read through **V Covenant Gardens** and **VI Living Art**; a mineral is not thereby alive. For a second identity, **II The Unwritten**, **IV Thousand Threads** and **I Seven Realms** illuminate admissibility, existing relationships and compatibility within White. **III Borrowed Hours** concerns duration and **VII Cartographers** spatial adjacency; neither is a required manufacturing step. The seven concepts are not a seven-ingredient recipe or the six energy basins, six operational domains or six lifecycle stages. The singular Black Prophecy remains separate. [Interpretive realm contributions](../L2/ALCHEMY_VAEN.md); [Unchanged optional denizen correspondences](../L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md).

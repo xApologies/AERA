@@ -53,3 +53,7 @@ Source: author-supplied Genesis Diamond and Dimensional Ring masters, preserved 
 - Diamond lattice is a container; stored energy remains distinct. Nine charge states, six reference charging times, infrastructure charging and four sizes retain their source qualifications.
 - Ring storage/retrieval preserves the exact sequences and inheritance reassignment model, illustrative reach values, conscious recognition and Jenkins principle; no pocket dimension or inventory UI is added.
 - Supersedes only the earlier diamond/ring detail deferral. Mathematical source recovery, environmental work, both constitutions, seven concepts, Black Prophecy, ER Foam, Prism and workshop boundaries remain unchanged.
+
+## Natural vaen and Red Realm correction · 2026-11-08
+
+Ink-approved definition: a second environmental Genesis event realizes a persistent identity-bearing geometry in an expressive whole item or component. Realm and prophecy pathways are interpretive. In AERA’s optional inhabited realms, Red expresses Elemental Transduction; any attribution of realm-primary Coherence–Decoherence to Red is superseded. Generic L1 operations, Orange Vaelith coherence, individual Dragon variation and MK163’s Red–Chirality structural emphasis remain intact. [Before/after review and source ledger](vaen-dual-2026-11-08/SEMANTIC_AUDIT.md).

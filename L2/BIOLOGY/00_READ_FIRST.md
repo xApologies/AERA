@@ -6,6 +6,12 @@
 ## Scope and rule
 The six chromatic energy basins Red, Orange, Yellow, Green, Blue, Violet are foundational energy structures, not intrinsically geographic places, races, or magic schools. White is their superposition, not an ordinary seventh chromatic basin. Authors can use them purely as energy conduits (as in MK147), or optionally realize them as navigable domains/realms with intelligent populations, environments and Starscape bridges. AERA supplies the following **default optional native populations for the inhabited-realm realization**. Authors may substitute other populations; no biological form is mandated by L0.
 
+### Red Realm expression · November 8, 2026
+
+In this optional inhabited-realm realization, **Elemental Transduction** is Red’s primary realm-specific expression. **Coherence–Decoherence is not Red’s primary realm assignment.** The population’s six specializations remain distinct: an individual Dragon specializes in one; the realm expression does not make every Dragon an elemental specialist or grant all six capabilities. Elemental fire still requires finite energy, access, skill and sustainable Transduction.
+
+[Persistent Topology / Coherence–Decoherence](../../L1/OPERATIONS.md) remains a generic operational category, and [Orange Vaelith coherence and regeneration](01_VAELITH.md) remain valid. In MK163, Red → Chirality describes a structural emphasis; it is not removed by this AERA expression-level correction. A broader replacement of that structural assignment would require a separate author decision. [Original correction](../../provenance/vaen-dual-2026-11-08/sources/02_AERA/02_RED_REALM_ELEMENTAL_TRANSDUCTION_CORRECTION.md).
+
 | Basin | Current default denizen | Scope |
 |---|---|---|
 | Red | Dragons | Retained; large, physically powerful, flight-capable, six distinct operational specializations across population; each dragon has one native specialization per MK231 authority, not all six per individual. Further physical redesign pending. |

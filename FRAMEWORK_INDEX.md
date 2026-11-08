@@ -70,3 +70,7 @@ Read [prophecies/README.md](prophecies/README.md) for the ordered I–VIII liter
 Read [L2/LANGUAGE/AE_AI_NAMING_CONVENTION.md](L2/LANGUAGE/AE_AI_NAMING_CONVENTION.md) for optional personal-name patterns and contextual institutional vocabulary. This does not define Genesis Language or AEVEA grammar.
 
 The [Aenith / Aineth / Ain lexicon](L2/LANGUAGE/AENITH_AINETH_AIN.md) locks the enchanted object, enchanting process and individual enchantment terms. Its AE/AI relationship is specific to this family; existing Enchanting mechanics and the optional naming convention remain intact.
+
+## Natural vaen and optional Red Realm expression
+
+[Genesis expression versus vaen identity](L2/ALCHEMY_VAEN.md); [Elemental Transduction in the optional Red Realm](L2/BIOLOGY/00_READ_FIRST.md). Distinguish a realm’s expression from an individual Dragon’s specialization and from the generic L1 taxonomy.

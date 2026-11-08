@@ -1,0 +1,85 @@
+{
+  "status": "PASS",
+  "repository": "AERA",
+  "baseline": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+  "source_archive_sha256": "8641541ebdbe3f0cc7e1f7039be32ce108c4d70907aefd4413742e6c1c51d4ed",
+  "archive_bytes": 13064,
+  "manifest_hashes_checked": 6,
+  "members_including_manifest": 7,
+  "scoped_original_files_exact": 5,
+  "baseline_files_preserved": 194,
+  "prior_files_unchanged": 186,
+  "modified": 8,
+  "added": 7,
+  "deleted": 0,
+  "topics": [
+    {
+      "scope": "Formation, existing examples, Type 1–5 and Binding",
+      "owner": "L2/ALCHEMY_VAEN.md",
+      "status": "PASS"
+    },
+    {
+      "scope": "Ecology examples and conditional statuses",
+      "owner": "L2/ALCHEMY_VAEN.md",
+      "status": "PASS"
+    },
+    {
+      "scope": "Interpretive pathway; no extra operator or recipe",
+      "owner": "L2/ALCHEMY_VAEN.md",
+      "status": "PASS"
+    },
+    {
+      "scope": "Biology and optional use",
+      "owner": "L2/GENESIS_BIOLOGY.md",
+      "status": "PASS"
+    },
+    {
+      "scope": "Prophecy firewalls and weak crosswalk left intact",
+      "owner": "CONCEPTS/08_CROSSWALK.md",
+      "status": "PASS"
+    },
+    {
+      "scope": "AERA Red native expression and limits",
+      "owner": "L2/BIOLOGY/00_READ_FIRST.md",
+      "status": "PASS"
+    },
+    {
+      "scope": "Generic L1 coherence remains generic",
+      "owner": "L1/OPERATIONS.md",
+      "status": "PASS"
+    }
+  ],
+  "unchanged_scope_guards": [
+    "CONSTITUTION.md",
+    "chat-thread/CHAT_THREAD_CONSTITUTION.md",
+    "L1/OPERATIONS.md",
+    "L1/TRANSDUCTION_LIFECYCLE.md",
+    "L0/CHROMATIC_EXISTENCE.md",
+    "PROPHECIES.md",
+    "L2/BIOLOGY/01_VAELITH.md",
+    "L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md",
+    "examples/MK231/SEVEN_REALMS_AND_SPECIES.md",
+    "L2/BIOLOGY/04_MIGRATION_BOUNDARIES.md",
+    "MANIFEST.json",
+    "SHA256SUMS.txt"
+  ],
+  "changed_paths": [
+    "CHANGELOG.md",
+    "CONCEPTS/08_CROSSWALK.md",
+    "FRAMEWORK_INDEX.md",
+    "L2/ALCHEMY_VAEN.md",
+    "L2/BIOLOGY/00_READ_FIRST.md",
+    "L2/GENESIS_BIOLOGY.md",
+    "L2/INHERITANCE/02_ALCHEMY_VAEN_AND_BINDING.md",
+    "provenance/DECISION_LEDGER.md",
+    "provenance/vaen-dual-2026-11-08/SEMANTIC_AUDIT.md",
+    "provenance/vaen-dual-2026-11-08/VALIDATION.json",
+    "provenance/vaen-dual-2026-11-08/sources/02_AERA/01_VAEN_FRAMEWORK_UPDATE.md",
+    "provenance/vaen-dual-2026-11-08/sources/02_AERA/02_RED_REALM_ELEMENTAL_TRANSDUCTION_CORRECTION.md",
+    "provenance/vaen-dual-2026-11-08/sources/03_AUDIT/REPO_BASELINES_AND_SCOPE.md",
+    "provenance/vaen-dual-2026-11-08/sources/MANIFEST.json",
+    "provenance/vaen-dual-2026-11-08/sources/executable.md"
+  ],
+  "literal_transcript_complete": false,
+  "publication": "Pre-publication validation. Live commit verification is reported after the normal push."
+}
