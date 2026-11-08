@@ -50,3 +50,11 @@ The **author controls** whether an energy basin manifests as a realm, what organ
 ## Prophecy literary drafts — v0.9.0
 
 The eight [prophecy manuscripts](prophecies/README.md) are literary drafts pending Vera's full editorial/continuity audit. Read [current semantic reconciliation](provenance/PROPHECIES_SEMANTIC_PASS_v0.9.0.md) alongside the framework concepts; story-specific history and both constitutions remain preserved.
+
+### November 2026 — vaen and Red Realm developments
+
+- **Natural `vaen` formation:** A native object or material in White can undergo first-stage **Genesis expression**, followed by a distinct second Genesis evolutionary event that realizes **specialized identity-bearing geometry** in the object or one of its components. Genesis expression alone is not sufficient to classify an object as `vaen`. Examples include special fungi and flowers, seeds, resin, mineral nodules and conditional animal/geological materials. See [Alchemy and vaen](L2/ALCHEMY_VAEN.md).
+- **Realm interpretation:** Violet Genesis Field, Green Resolution, Blue Bandwidth, Yellow Persistence, Red Chirality and Orange Topology can provide differing structural contributions. The proposed stage-by-stage realm pathway is interpretive, not a mandatory universal L0 sequence. The seven prophecies, six basins, six operational domains and Transduction lifecycle remain distinct. See [Seven Realms](CONCEPTS/01_SEVEN_REALMS.md) and [prophecy crosswalk](CONCEPTS/08_CROSSWALK.md).
+- **Red Realm clarification:** **Elemental Transduction** is the updated Red-native elemental expression; Red is not defined by exclusive Coherence–Decoherence. Coherence–Decoherence remains available as a general operational domain, while the existing Red Chirality structural specialization retains its separate scope. See [Operations](L1/OPERATIONS.md) and [native realm correspondence](L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md).
+
+The related story-level realization is maintained separately in [MK163](https://github.com/xApologies/MK163); this README update does not migrate story canon into AERA.
