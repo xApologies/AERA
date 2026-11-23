@@ -120,3 +120,7 @@ NOT YET DONE: import selected full mathematical/worldbuilding corpus (separately
 ## 2026-11-08 · vaen formation and Red realm expression
 
 Clarified how natural vaen acquire an identity after Genesis expression, including conditional biological and geological examples. Added the Red elemental-expression rule to the optional denizen owner. [Scope, validation and deferred questions](provenance/vaen-dual-2026-11-08/SEMANTIC_AUDIT.md).
+
+## 2026-11-23 · chromatic native capability reassignment
+
+Dragons retain Elemental Transduction, Dimensional Geometry (including CSR flight) and Chirality. Resonance moves to Primordials, Genesis Expression to Leviathans and Genesis Field Topology to Unicorns within the optional six-population realization. Vaelith, Sprites, human biology, structural specializations and universal operations remain unchanged. Added the supplied assignment note, reconciled both current six-Dragon-capability passages, and updated navigation/handoff. [Source integrity, semantic audit and publication scope](provenance/chromatic-native-2026-11-23/SEMANTIC_AUDIT.md); no other repository was updated.

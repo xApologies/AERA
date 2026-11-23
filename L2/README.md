@@ -8,6 +8,7 @@ Authors determine their planets, stars, geography, weather, ecosystems, politics
 - [`GENESIS_BIOLOGY.md`](GENESIS_BIOLOGY.md) — non-Genesis, Genesis-adapted, Genesis-dependent organisms; biological `vaen` opportunities.
 - [Optional human Neurogenesis variation](BIOLOGY/06_HUMAN_NEUROGENESIS_VARIATION.md) — three expressions of one humanity; innate development tendencies remain distinct from learned proficiency.
 - [Current optional chromatic denizens](BIOLOGY/00_READ_FIRST.md) — Vaelith and Sprite biology, accepted visual references and pending MK231 migration; no new energy basins or mandatory inhabited realms.
+- [Native Transduction assignments](BIOLOGY/08_NATIVE_TRANSDUCTION_ASSIGNMENTS.md) — three Dragon-native capabilities and the Primordial/Leviathan/Unicorn reassignments; human biology, Vaelith and Sprite mechanics remain unchanged.
 - [Vaelith anatomy and prophetic correspondence](BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md) — unisex living-shell anatomy and optional associations; source images and story history remain intact.
 - [Fictional human longevity](../L1/NEUROGENESIS/04_LONGEVITY.md) — approximate ranges by biological development, distinct from magical proficiency.
 - [Optional inherited Afflicted biology](BIOLOGY/05_AFFLICTED.md) — recursive chromatic channels and White Awakening; proposed Neon-affinity context, with [source and story boundaries](../provenance/afflicted-v1/SEMANTIC_AUDIT.md).

@@ -1,0 +1,33 @@
+{
+  "package": "AERA_MK163_Chromatic_Transduction_Update_2026-11-23.zip",
+  "verification": "No publisher-supplied checksum manifest. Locally computed SHA-256 values identify the received bytes; ZIP CRC and extracted byte equality verified.",
+  "archive": {
+    "bytes": 8760,
+    "sha256": "e39d5f883e1809c7030cc31c6868fc62ae0ab70475c56a10347c8501bc3f37bc"
+  },
+  "members": [
+    {
+      "path": "aera_chromatic_update/README.md",
+      "bytes": 1884,
+      "sha256": "752ed2748d1d4e4259e15021842a3070f730b84f4ec61bd6ce78655ab1768879",
+      "publication": "archived as supplied source"
+    },
+    {
+      "path": "aera_chromatic_update/__pycache__/apply_update.cpython-313.pyc",
+      "bytes": 8871,
+      "sha256": "ffc20d493ea28c6dc8ca23e71a0e51e0c36d5e77cd3a0e4ce65bd0b5749db990",
+      "publication": "local only; not executed"
+    },
+    {
+      "path": "aera_chromatic_update/apply_update.py",
+      "bytes": 7533,
+      "sha256": "b30ece3df0a7953e2c7e5730c76d75240ae5c3aa298c962b5dd38486c5c06431",
+      "publication": "archived as supplied source"
+    }
+  ],
+  "generated_note": {
+    "source": "NOTE literal in apply_update.py",
+    "bytes": 2933,
+    "sha256": "1d474dede22c569ae33120c72da5c9a3ac3dd55ca9626185da38de17d5fe754f"
+  }
+}

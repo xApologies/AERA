@@ -8,13 +8,13 @@ The six chromatic energy basins Red, Orange, Yellow, Green, Blue, Violet are fou
 
 ### Red Realm expression · November 8, 2026
 
-In this optional inhabited-realm realization, **Elemental Transduction** is Red’s primary realm-specific expression. **Coherence–Decoherence is not Red’s primary realm assignment.** The population’s six specializations remain distinct: an individual Dragon specializes in one; the realm expression does not make every Dragon an elemental specialist or grant all six capabilities. Elemental fire still requires finite energy, access, skill and sustainable Transduction.
+In this optional inhabited-realm realization, **Elemental Transduction** is Red’s primary realm-specific expression. **Coherence–Decoherence is not Red’s primary realm assignment.** The [2026-11-23 native allocation](08_NATIVE_TRANSDUCTION_ASSIGNMENTS.md) supersedes the former six-capability population list: Dragons now have three listed native capabilities, without making every individual an elemental specialist or a master of all three. Historical MK231 specialization descriptions retain their source-specific scope. Elemental fire still requires finite energy, access, skill and sustainable Transduction.
 
 [Persistent Topology / Coherence–Decoherence](../../L1/OPERATIONS.md) remains a generic operational category, and [Orange Vaelith coherence and regeneration](01_VAELITH.md) remain valid. In MK163, Red → Chirality describes a structural emphasis; it is not removed by this AERA expression-level correction. A broader replacement of that structural assignment would require a separate author decision. [Original correction](../../provenance/vaen-dual-2026-11-08/sources/02_AERA/02_RED_REALM_ELEMENTAL_TRANSDUCTION_CORRECTION.md).
 
 | Basin | Current default denizen | Scope |
 |---|---|---|
-| Red | Dragons | Retained; large, physically powerful, flight-capable, six distinct operational specializations across population; each dragon has one native specialization per MK231 authority, not all six per individual. Further physical redesign pending. |
+| Red | Dragons | Large, physically powerful, flight-capable. Native capabilities: **Elemental Transduction, Dimensional Geometry (including CSR flight), Chirality**. Three Dragon-native capabilities after the 2026-11-23 author revision; finite energy and skill constrain individuals. Further physical redesign pending. |
 | Orange | **Vaelith** (V-A-E-L-I-T-H) | New default replacing Phoenix: living Genesis network, distributed coherence, regeneration, persistent shell; Coherence/Decoherence/Rebirth. |
 | Yellow | Primordials | Retained; inorganic, organic, and **process** categories; living organized matter or process. |
 | Green | **Sprites** | New default replacing Kitsune: living bounded Genesis recursions, Green-dominant, collective true biological realization and admissible potential. |
@@ -24,6 +24,8 @@ In this optional inhabited-realm realization, **Elemental Transduction** is Red�
 **White:** Humanity's dwarf/human/elf expressions are story-level options in MK231, not an automatic additional chromatic species. 
 
 The [optional human Neurogenesis model](06_HUMAN_NEUROGENESIS_VARIATION.md) defines dwarf-like, human-like and elf-like expressions of one humanity with typically low, intermediate and high innate channel development respectively. Names remain provisional; these are population tendencies, not guaranteed skill or incapacity, and authors may alter or omit them.
+
+**Current six-race native capability assignments (2026-11-23):** see [Chromatic native Transduction assignments](08_NATIVE_TRANSDUCTION_ASSIGNMENTS.md). Dragons retain three native capabilities; Resonance is assigned to Primordials, Genesis Expression to Leviathans, and Genesis Field Topology to Unicorns. These are race-level assignments, not edits to the universal L1 taxonomy.
 
 ## Reproductive framework
 Chromatic-native populations may reproduce through compatible **energetic contribution from multiple individuals**, not necessarily sexual mating or binary parents. Dragons and Leviathans can produce eggs through pooled energies; a contribution may be communal (e.g. three or four dragons). The form of offspring (egg, cradle, crystal or other structure) is population-dependent. Do not impose ordinary human sex reproduction as a universal chromatic rule. The [current Vaelith anatomy](01_VAELITH.md) is unisex/androgynous without male/female secondary sexual differentiation, superseding earlier exploratory visual morphs while retaining energetic reproduction. Exact taxonomy, developmental form and contributors remain open.
