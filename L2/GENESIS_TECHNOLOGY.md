@@ -41,3 +41,9 @@ Intrinsic, activated, finite-reservoir and chromatic-conduit configurations may 
 Sigil and material engineering can support reproducible products from hidden proprietary mathematical designs. Example: a company holds its Raeon field/topology mathematics privately and flashes manufactured blank cards with prepared systems. A world might legally protect applied Genesis-math constructions, manufacturing designs and specialty sigils, with royalties/foundations/institutions; precise legal rules are **author-defined**, not modern patent statutes copied verbatim.
 
 Source: [MK147 systems](https://github.com/xApologies/Mk-147/blob/main/live-model/02_DOMAINS/SYSTEMS.md); [MK147 storage](https://github.com/xApologies/Mk-147/blob/main/live-model/02_DOMAINS/DIAMONDS_CURRENCY_EQUIPMENT.md); [`_raeon`](https://github.com/xApologies/_raeon).
+
+## Reconciled weapon and expedition applications — 2026-11-25
+
+[Genesis-enhanced weapons](TECHNOLOGY/GENESIS_ENHANCED_WEAPONS.md) selects independent handling-inertia/gravitational-load reduction and impact recoupling as an optional conceptual architecture. Energy and momentum, including field/wielder/surroundings, must be accounted for. The illustrative maul calculation is not an implemented topology or a universal enchantment recipe; quantitative coupling, recoil and costs remain OPEN.
+
+[CSR and dimensional expedition equipment](TECHNOLOGY/CSR_AND_DIMENSIONAL_EXPEDITION_EQUIPMENT.md) adds optional relay specialists, crossings, bracelet examples and backup rings. It preserves inheritance reassignment and the original Ring master. The [master Shaping catalogue](../L1/SHAPINGS/README.md) is available with [source status and pricing limits](../L1/SHAPINGS/AUTHORITY_AND_OPEN.md); it does not prescribe a civilization's economy.

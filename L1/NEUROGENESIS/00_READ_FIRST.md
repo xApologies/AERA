@@ -14,3 +14,8 @@ Do not change L0 mathematics, six operational domains, the six-stage Transductio
 - [White Awakening and cutaneous `aen`](02_WHITE_AWAKENING_AND_AEN.md) — integrated brain/body biology and trained skin access.
 - [`aen` formation and fatigue](03_AEN_TRAINING_AND_FATIGUE.md) — dot → open arc → closed ring → wider band; cumulative basin-specific fatigue and native/Binding throughput benefits, with no Genesis Card boost.
 - [Fictional Genesis longevity](04_LONGEVITY.md) — approximate development-dependent ranges, including typical White Awakened lives of 400–500 years; exact aging mechanics remain OPEN.
+
+## Trained applications — 2026-11-25
+
+- [White Genesis Collapse](05_WHITE_GENESIS_COLLAPSE.md) — simultaneous closed `aen` rings, equal output normalized to Violet, singular recursive configuration and selective incorporation; not automatic upon Awakening.
+- [Bodily augmentation](06_BODILY_AUGMENTATION.md) — temporary changes in biological state through body-anchored Transduction; distinct from Collapse and enchanting.

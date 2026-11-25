@@ -58,3 +58,7 @@ The eight [prophecy manuscripts](prophecies/README.md) are literary drafts pendi
 - **Red Realm clarification:** **Elemental Transduction** is the updated Red-native elemental expression; Red is not defined by exclusive Coherence–Decoherence. Coherence–Decoherence remains available as a general operational domain, while the existing Red Chirality structural specialization retains its separate scope. See [Operations](L1/OPERATIONS.md) and [native realm correspondence](L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md).
 
 The related story-level realization is maintained separately in [MK163](https://github.com/xApologies/MK163); this README update does not migrate story canon into AERA.
+
+## Upstream reconciliation — 2026-11-25
+
+The [integration report](provenance/upstream-reconciliation-001/INTEGRATION_REPORT.md) records White Genesis Collapse, bodily augmentation, enhanced weapons, recovered CSR rules and the single [Shaping master catalogue](L1/SHAPINGS/README.md). Read its [authority and OPEN records](L1/SHAPINGS/AUTHORITY_AND_OPEN.md) before adopting entries. Source economics, legacy exceptions and unapproved candidates retain their scope; the constitutions and mathematical foundations remain unchanged.

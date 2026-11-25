@@ -124,3 +124,10 @@ Clarified how natural vaen acquire an identity after Genesis expression, includi
 ## 2026-11-23 · chromatic native capability reassignment
 
 Dragons retain Elemental Transduction, Dimensional Geometry (including CSR flight) and Chirality. Resonance moves to Primordials, Genesis Expression to Leviathans and Genesis Field Topology to Unicorns within the optional six-population realization. Vaelith, Sprites, human biology, structural specializations and universal operations remain unchanged. Added the supplied assignment note, reconciled both current six-Dragon-capability passages, and updated navigation/handoff. [Source integrity, semantic audit and publication scope](provenance/chromatic-native-2026-11-23/SEMANTIC_AUDIT.md); no other repository was updated.
+
+## Upstream reconciliation 001 — 2026-11-25
+
+- Added trained White Genesis Collapse, bodily augmentation and optional enhanced-weapon architecture.
+- Installed one byte-identical 1,245-record/65-column Shaping master with source status, pricing and unresolved-record qualifications.
+- Recovered compatible CSR and expedition deltas from two exact pinned MK163 AERA-targeted documents; preserved unrelated source and framework authority.
+- Updated navigation, profession/fatigue/concurrency records and current handoff; retained both constitutions, L0/L3/L4, original assets and historical provenance. See the [integration report](provenance/upstream-reconciliation-001/INTEGRATION_REPORT.md).

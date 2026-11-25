@@ -12,3 +12,7 @@ Fatigue is one cumulative existing basin-specific physiological system: native T
 **Important correction:** aen boost energy loading for native Shapings and prepared Bindings, but NOT operational Genesis Cards. A card exclusively anchors its basin(s) and draws energy **through the card**. An Awakened's aen cannot simultaneously access card-occupied basins or boost card throughput. All still generate fatigue. Ongoing-Shaping/card precedence remains OPEN.
 
 No new lifecycle, mana, exact fatigue/area equation or mandatory ranks.
+
+## White Genesis Collapse — 2026-11-25
+
+The [Collapse specification](05_WHITE_GENESIS_COLLAPSE.md) requires six closed rings without requiring wider bands. Equal output at the Violet reference requires unequal extraction effort; increasing supply reinforces the existing singular topology rather than deepening recursion. Its approximately 17-hour trained baseline is an author-selected ordinary-sustainment benchmark, not a derivation from the earlier 31/23-hour ring examples. Combat reinforcement reducing endurance to 11–13 hours is illustrative only. Fatigue remains cumulative and basin-specific; any required basin's exhaustion ends Collapse, while unexhausted basins remain accessible. Operational Cards remain incompatible and receive no `aen` boost.

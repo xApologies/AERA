@@ -21,3 +21,7 @@ The [selected longevity ranges](04_LONGEVITY.md) give White Awakened a **typical
 
 ## Open
 White potion ingredient recipe and relation to older Type Two white-dust separation scaffold; requirement for six prior chromatic potions; exact neural fusion, cutaneous histology, growth limits, aen area/throughput equation, fractal taxonomy, recovery, exact aging equations, disease/injury effects and longevity-training mechanics. Approximate lifespan ranges are now selected; they do not resolve these quantitative or clinical details.
+
+## Optional trained White Genesis Collapse
+
+[White Genesis Collapse](05_WHITE_GENESIS_COLLAPSE.md) is the later author-established application of all six simultaneously closed `aen` rings. It requires coherent normalization and training; it is not an automatic Awakening phenotype, an Afflicted condition or a new operational domain. Its black containment silhouette does not change the exceptional Black/Neon source authorities.

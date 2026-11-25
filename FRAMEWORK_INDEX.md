@@ -75,3 +75,11 @@ The [Aenith / Aineth / Ain lexicon](L2/LANGUAGE/AENITH_AINETH_AIN.md) locks the 
 ## Natural vaen and optional Red Realm expression
 
 [Genesis expression versus vaen identity](L2/ALCHEMY_VAEN.md); [Elemental Transduction in the optional Red Realm](L2/BIOLOGY/00_READ_FIRST.md). Distinguish a realm’s expression from an individual Dragon’s specialization and from the generic L1 taxonomy.
+
+## Upstream reconciliation — 2026-11-25
+
+- [White Genesis Collapse](L1/NEUROGENESIS/05_WHITE_GENESIS_COLLAPSE.md) and [bodily augmentation](L1/NEUROGENESIS/06_BODILY_AUGMENTATION.md) — distinct trained applications with unchanged foundations.
+- [Single Shaping master catalogue](L1/SHAPINGS/README.md) and [authority/open records](L1/SHAPINGS/AUTHORITY_AND_OPEN.md) — 1,245 byte-preserved records; source status is not blanket canonical promotion.
+- [Binding supply and CSR](L1/INTERFACES/05_BINDING_CARD_BASIN_SUPPLY_AND_CSR.md) — shared O/Y/B/V requirements, distinct Binding bandwidth and Card exclusivity.
+- [Enhanced weapons](L2/TECHNOLOGY/GENESIS_ENHANCED_WEAPONS.md) and [expedition equipment](L2/TECHNOLOGY/CSR_AND_DIMENSIONAL_EXPEDITION_EQUIPMENT.md) — optional L2 applications, with engineering and local economics qualified.
+- [Integration report and remaining audit backlog](provenance/upstream-reconciliation-001/INTEGRATION_REPORT.md).

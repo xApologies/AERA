@@ -57,3 +57,14 @@ Source: author-supplied Genesis Diamond and Dimensional Ring masters, preserved 
 ## Natural vaen and Red Realm correction · 2026-11-08
 
 Ink-approved definition: a second environmental Genesis event realizes a persistent identity-bearing geometry in an expressive whole item or component. Realm and prophecy pathways are interpretive. In AERA’s optional inhabited realms, Red expresses Elemental Transduction; any attribution of realm-primary Coherence–Decoherence to Red is superseded. Generic L1 operations, Orange Vaelith coherence, individual Dragon variation and MK163’s Red–Chirality structural emphasis remain intact. [Before/after review and source ledger](vaen-dual-2026-11-08/SEMANTIC_AUDIT.md).
+
+## Scoped upstream reconciliation 001 — 2026-11-25
+
+Source: author's AERA_UPSTREAM_RECONCILIATION_001_CLEAN package and pinned, previously approved AERA-targeted MK163 workshop sources. [Integration report](upstream-reconciliation-001/INTEGRATION_REPORT.md).
+
+- UR-001: optional enhanced-weapon architecture separates handling inertia/gravitational load from impact recoupling, with conservation and recoil accounting. Detailed engineering remains OPEN.
+- UR-002: bodily augmentation locally anchors compatible Transduction to temporary biological enhancement. Effect duration differs from fatigue; Collapse/enchanting remain distinct.
+- UR-003: install the sole updated author-supplied 1,245-record catalogue unchanged. This supersedes earlier catalogue import exclusions only, not source status, exceptional-effect or economy boundaries. GE-0598/GE-0599 basin/cost promotion is deferred pending reconciliation of their OPEN status; PE-001/002/003 legacy overrides remain historical.
+- UR-004: trained White Awakened may use six closed normalized `aen` rings for singular White Genesis Collapse. Mastery does not vary recursion depth. Approximately 17-hour baseline is a design benchmark, 11–13-hour combat example is illustrative; no coefficients, invulnerability or Card compatibility added.
+- UR-005/006: recover compatible CSR O/Y/B/V supply and expedition deltas. Existing PSSP, global operational Card exclusivity, fatigue, Dimensional Ring inheritance reassignment and source authority remain intact; MK163 prices/possessions stay scoped.
+- UR-007–011 and other candidate areas remain audit backlog, without canonical promotion. The earlier MK163-only Genesis Systems author package remains unapplied to AERA. No external repository, L0, L3/L4, constitution, prophecy, existing biology, original source asset or unrelated historical record is changed.

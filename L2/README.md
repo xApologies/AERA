@@ -51,3 +51,10 @@ These are optional source-derived expansions. Diamond density conversions and ri
 [AE / AI naming convention](LANGUAGE/AE_AI_NAMING_CONVENTION.md) documents optional personal-name and contextual relational tendencies, with canonical spellings and counterexamples.
 
 [Aenith / Aineth / Ain](LANGUAGE/AENITH_AINETH_AIN.md) names the enchanted object, enchanting process and persistent enchantment respectively; terminology leaves the existing engineering and broader language choices unchanged.
+
+## Upstream reconciliation — 2026-11-25
+
+- [Genesis-enhanced weapons](TECHNOLOGY/GENESIS_ENHANCED_WEAPONS.md) — optional handling/impact architecture with energy, momentum and recoil accounting; exact topology remains OPEN.
+- [CSR and dimensional expedition equipment](TECHNOLOGY/CSR_AND_DIMENSIONAL_EXPEDITION_EQUIPMENT.md) — optional relay work and equipment choices under the unchanged Dimensional Ring master.
+- [Bodily augmentation](../L1/NEUROGENESIS/06_BODILY_AUGMENTATION.md) — the L1 mechanism underlying the optional Augmenter profession.
+- [Reconciliation audit](../provenance/upstream-reconciliation-001/INTEGRATION_REPORT.md) — selected source inheritance, catalogue qualifications and remaining audit backlog.

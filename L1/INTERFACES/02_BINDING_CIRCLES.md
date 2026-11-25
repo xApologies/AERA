@@ -16,3 +16,7 @@ Installed Bindings persistently occupy part of the individual's **finite local G
 Sources:
 - https://github.com/xApologies/Mk-147/blob/main/live-model/04_SYSTEMS/BINDING_VAEN.md
 - https://github.com/xApologies/Mk-147/blob/main/live-model/04_SYSTEMS/SIGIL_ENGINEERING.md
+
+## Recovered basin-supply clarification
+
+The [2026-11-17 CSR source reconciliation](05_BINDING_CARD_BASIN_SUPPLY_AND_CSR.md) adds O/Y/B/V supply, conditional shared-basin Binding/native concurrency and finite White-superposed emergency supply. The existing 60% allocation remains illustrative, including OPEN accounting for access Bindings. These additions preserve identity resolution, PSSP and persistent installed bandwidth.

@@ -28,3 +28,7 @@ The [locked lexicon](../LANGUAGE/AENITH_AINETH_AIN.md) establishes **Aenith** (o
 
 ## Preservation
 Do not change L0 mathematics, prophecies, denizen biology, MK231 storyline, MK727 catalogues, source PDFs, historical release manifests or independent repositories.
+
+## Selected weapon architecture — 2026-11-25
+
+[Genesis-enhanced weapons](../TECHNOLOGY/GENESIS_ENHANCED_WEAPONS.md) now selects the optional conceptual separation of handling inertia, gravitational load and impact recoupling, with full energy/momentum and recoil accounting. This narrows the earlier broad mass/inertia deferral only at that conceptual level. Exact reduction factors, engineering, field/Shield topology, costs and failure laws remain OPEN. [White Genesis Collapse](../../L1/NEUROGENESIS/05_WHITE_GENESIS_COLLAPSE.md) separately leaves incorporated enchantment behavior OPEN; no new object-conduit/Card interaction rule is implied.

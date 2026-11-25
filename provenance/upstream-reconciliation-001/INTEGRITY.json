@@ -1,0 +1,87 @@
+{
+  "package": "AERA_UPSTREAM_RECONCILIATION_001_CLEAN.zip",
+  "package_sha256": "bacb3a3e7455bb80c65f527bcb599109c89869f66822ffd291706422aa6ad2c5",
+  "baseline": "a77d050141b2db3eaa8f3dc7f520306400096748",
+  "manifest_sha256": "34dcb310c148b2a4e41217d10da1e29cdf9744467bde8766dea4210c8bf92456",
+  "manifest_files": {
+    "AUDIT_LEDGER.md": {
+      "path": "provenance/upstream-reconciliation-001/package/AUDIT_LEDGER.md",
+      "sha256": "6cd14eb452493a2bc7e18c41d696f086acc8c3b31e4de48c7cd408f3b849a3ec",
+      "size": 2903
+    },
+    "EXECUTABLE.md": {
+      "path": "provenance/upstream-reconciliation-001/package/EXECUTABLE.md",
+      "sha256": "b9954bf10f241a7b089b4e514e2003fc313d147333da8086ce5f99720baed99c",
+      "size": 3436
+    },
+    "README.md": {
+      "path": "provenance/upstream-reconciliation-001/package/README.md",
+      "sha256": "e52627042290c8db40415cc44b49344c583fc9085d293dd06ee17790e1b50110",
+      "size": 591
+    },
+    "payload/L1/NEUROGENESIS/05_WHITE_GENESIS_COLLAPSE.md": {
+      "path": "L1/NEUROGENESIS/05_WHITE_GENESIS_COLLAPSE.md",
+      "sha256": "801879d259a1aaeb29f8f6ff697ec7c1f286ef68094c2ca96f800604f79f28aa",
+      "size": 4962
+    },
+    "payload/L1/NEUROGENESIS/06_BODILY_AUGMENTATION.md": {
+      "path": "L1/NEUROGENESIS/06_BODILY_AUGMENTATION.md",
+      "sha256": "4cf4b6da4f7e32edacbb0480096056e9661ba5fb9c07ba0ea6ff64f757dac201",
+      "size": 989
+    },
+    "payload/L1/SHAPINGS/README.md": {
+      "path": "L1/SHAPINGS/README.md",
+      "sha256": "d02e67bade82899788d222b7c8cf0ae6b9dedfcf370dbb87c29b21eb6699f7ed",
+      "size": 1400
+    },
+    "payload/L1/SHAPINGS/SHAPINGS_MASTER.csv": {
+      "path": "L1/SHAPINGS/SHAPINGS_MASTER.csv",
+      "sha256": "4e7d13925b024f679aca369a08a8ca2b064b4794cde3654431e28bee531edab3",
+      "size": 1943317
+    },
+    "payload/L2/TECHNOLOGY/GENESIS_ENHANCED_WEAPONS.md": {
+      "path": "L2/TECHNOLOGY/GENESIS_ENHANCED_WEAPONS.md",
+      "sha256": "7e079599a0dceb363a94c579aa34b30ea022ccd3a55f2a5df3213d22f60381a8",
+      "size": 1699
+    },
+    "validate.py": {
+      "path": "provenance/upstream-reconciliation-001/package/validate.py",
+      "sha256": "e45a00d3a733332a110496afb1a77d2a720a58dbfbc8a2aca47ca5a25cc12fe3",
+      "size": 1304
+    }
+  },
+  "retrieved_sources": [
+    {
+      "path": "provenance/upstream-reconciliation-001/sources/05_BINDING_CARD_BASIN_SUPPLY_AND_CSR.md",
+      "url": "https://github.com/xApologies/MK163/blob/dc4ef8440e18f39f89bc0a15dd1d26942c1258ec/PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007/AERA/L1/INTERFACES/05_BINDING_CARD_BASIN_SUPPLY_AND_CSR.md",
+      "git_blob": "632e741fb027b4b94fd06e3a574ddf1fce939624",
+      "sha256": "f70e8354caa938fbf12e0f26f4568bb97ba89904d3028e4ae555f50cc87e2ed2",
+      "size": 5215
+    },
+    {
+      "path": "provenance/upstream-reconciliation-001/sources/CSR_AND_DIMENSIONAL_EXPEDITION_EQUIPMENT.md",
+      "url": "https://github.com/xApologies/MK163/blob/dc4ef8440e18f39f89bc0a15dd1d26942c1258ec/PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007/AERA/L2/TECHNOLOGY/CSR_AND_DIMENSIONAL_EXPEDITION_EQUIPMENT.md",
+      "git_blob": "ea1173d9c152b2c818e0a2b58d08c9978924a82c",
+      "sha256": "f2c14522d2547ff462208ee892632ffad292c6cbf56a7a77d3f63a7a575b2a9c",
+      "size": 1881
+    }
+  ],
+  "catalogue": {
+    "records": 1245,
+    "columns": 65,
+    "unique_ids": 1245,
+    "record_types": {
+      "INDUSTRIAL_BINDING": 1016,
+      "SUMMON": 229
+    },
+    "basin_counts": {
+      "1": 1,
+      "2": 352,
+      "3": 799,
+      "4": 93
+    },
+    "sha256": "4e7d13925b024f679aca369a08a8ca2b064b4794cde3654431e28bee531edab3",
+    "line_endings": "CRLF; path-specific -text Git attribute"
+  },
+  "scope": "Integrity and bounded semantic reconciliation; not exhaustive effect-by-effect canonical approval"
+}

@@ -19,4 +19,8 @@
 
 **`aen` clarification, 2026-10-13:** [Training and fatigue](../NEUROGENESIS/03_AEN_TRAINING_AND_FATIGUE.md) permits faster energy loading for native Shapings and prepared Bindings. Operational Cards use their own exclusive basin conduits and receive no `aen` boost; an active Red+Orange card also blocks that practitioner's Red and Orange `aen`. All methods contribute to cumulative basin-specific fatigue, while Binding bandwidth occupancy remains a separate capacity constraint. This does not settle ongoing-Shaping/card activation precedence.
 
-**Unresolved:** card-versus-ongoing-Shaping precedence; exact Binding bandwidth equations; mixed ordinary/Black cards; potion Type One/Two reconciliation and White Awakening prerequisites; precise energy and fatigue laws. No new mathematical proof, spell catalogue, or story chronology is imported.
+**Unresolved:** card-versus-ongoing-Shaping precedence; exact Binding bandwidth equations; mixed ordinary/Black cards; potion Type One/Two reconciliation and White Awakening prerequisites; precise energy and fatigue laws. No new mathematical proof or story chronology is established. The 2026-11-25 [catalogue consolidation](../SHAPINGS/AUTHORITY_AND_OPEN.md) supersedes the earlier no-catalogue-import statement only; source statuses and exceptional scope remain qualified.
+
+## CSR and Collapse — 2026-11-25
+
+[CSR](05_BINDING_CARD_BASIN_SUPPLY_AND_CSR.md) requires O/Y/B/V through either Binding or operational Card. A compatible Binding may share basins with other Bindings/native Shapings; an active CSR Card blocks all overlapping interfaces. [White Genesis Collapse](../NEUROGENESIS/05_WHITE_GENESIS_COLLAPSE.md) requires coherent participation of all six closed `aen` rings, so active operational Cards are incompatible. Native Shapings and compatible installed Bindings may coexist with Collapse within control, throughput and fatigue limits. No automatic cancellation or activation priority is selected.

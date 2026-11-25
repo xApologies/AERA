@@ -18,7 +18,7 @@ Common classifications (examples, not compulsory magic domains):
 |---|---|
 | `maege` (singular), `maegi` (plural) | Broad Transduction/Shaping practice |
 | `helkir` | Coherence-based healing/topological stabilization; a human professional and social role |
-| Augmenter | Resonance-led enhancement/reinforcement |
+| Augmenter | [Body-anchored enhancement/reinforcement](../L1/NEUROGENESIS/06_BODILY_AUGMENTATION.md), including compatible Resonance and Coherence operations |
 | Summoner | Manifested entities, constructs and controlled Genesis projections |
 | Architect | Direct Genesis-field geometry and persistent topological constructions (`velis`); title working |
 | Alchemist | Material scientist working with Genesis-relevant chemistry/Type 1–5 materials |
@@ -38,3 +38,9 @@ Some worlds may emphasize mathematical games (Raeon), collectible Genesis cards,
 Romanticized late seventeenth / eighteenth-century preindustrial human material culture: grown orthogonal stone blocks, sigil municipal infrastructure, water/greenery, abundant plant agriculture, dungeon support towns, provincial capital structure, Institutions of Knowledge, cultural card games. **This is an example**; not all future worlds are obligated to be preindustrial or to share its legal institutions.
 
 Sources: [MK147 Blackstone](https://github.com/xApologies/Mk-147/blob/main/live-model/03_BLACKSTONE/V2_BLACKSTONE_CANON.md), [MK147 Culture](https://github.com/xApologies/Mk-147/blob/main/live-model/05_CULTURE/V2_CULTURE_CANON.md), [MK157 Social Life](https://github.com/xApologies/MK157/blob/main/live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md).
+
+## Optional Augmenter and expedition practices — 2026-11-25
+
+[Bodily augmentation](../L1/NEUROGENESIS/06_BODILY_AUGMENTATION.md) temporarily enhances biological state as organized energy is used and dissipates. Martial training, melee and equipment use are professional applications; compatible utility/healing Shapings do not redefine the profession. [White Genesis Collapse](../L1/NEUROGENESIS/05_WHITE_GENESIS_COLLAPSE.md) and [enchanted weapons](TECHNOLOGY/GENESIS_ENHANCED_WEAPONS.md) can complement augmentation but remain distinct systems. Wealth and profession do not automatically confer Collapse mastery.
+
+[Expedition practices](TECHNOLOGY/CSR_AND_DIMENSIONAL_EXPEDITION_EQUIPMENT.md) illustrate CSR Card versus Binding choices and specialist relay work for `aithren`/`vaelum`. Source prices, leader possessions and crew composition remain setting-specific.

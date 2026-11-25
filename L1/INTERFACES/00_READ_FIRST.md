@@ -11,3 +11,7 @@
 A skilled native transductionist can sustain several independent Shapings drawing from the same basin if resources suffice, unless that basin is occupied by an active Genesis Card. Card restrictions are **global to the practitioner**, not just card-versus-card. A Binding's bandwidth footprint and a card's basin anchor are distinct limitations.
 
 Read the companion source and mechanism files. All mechanisms are fictional Layer One worldbuilding, not claims of experimental physical verification.
+
+## Reconciled applications — 2026-11-25
+
+Read [Binding supply and CSR](05_BINDING_CARD_BASIN_SUPPLY_AND_CSR.md) for the shared O/Y/B/V requirement and source-qualified logistics, [White Genesis Collapse](../NEUROGENESIS/05_WHITE_GENESIS_COLLAPSE.md) for six-ring access with no active operational Cards, and the [catalogue authority notes](../SHAPINGS/AUTHORITY_AND_OPEN.md) before using individual catalogue records.

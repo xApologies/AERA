@@ -8,3 +8,7 @@
 *.jpeg binary
 *.jpg binary
 *.zip binary
+
+# Preserve the author-supplied catalogue bytes, including CRLF line endings.
+L1/SHAPINGS/SHAPINGS_MASTER.csv -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+provenance/upstream-reconciliation-001/package/validate.py text eol=lf

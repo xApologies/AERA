@@ -15,7 +15,9 @@ The [current `aen` clarification](../NEUROGENESIS/03_AEN_TRAINING_AND_FATIGUE.md
 ## Manufacturing and profession
 Industrial sigil arrays can flash blank maege-glass cards with encoded manifolds. **Cardsmiths engineer cards; Architects/Runesmiths design and inscribe the sigils and workbenches.** An orthogonal workbench exposes an isolated, *coupled* PSSP view of the card's manifold, not an independent copy or automatic editor. Cardsmiths use mathematical expertise, professional tools, Genesis crystals/dust and identity-bearing `vaen` to inspect, modify or engineer manifolds; failures can fracture cards. Basin-set compression is possible at trade-offs, exact formulas/recipes OPEN.
 
-**Scope exclusions:** MK727's 1,245-card catalogue, prices, individual spells, Kaira's Black Cards, and novel-specific economies are not universal AERA mechanics. MK727 Black Cards use separate exceptional concurrency; do not apply ordinary six-basin restrictions automatically.
+**Catalogue scope update — 2026-11-25:** the author's updated [1,245-record master catalogue](../SHAPINGS/README.md) is now available in AERA, superseding only the earlier catalogue import exclusion. Its [record authority notes](../SHAPINGS/AUTHORITY_AND_OPEN.md) retain candidate/OPEN statuses, source prices and legacy overrides. Individual effects and economies are not automatically universal mechanics. Kaira's Black Cards remain source-specific exceptional systems; do not apply ordinary six-basin restrictions automatically.
+
+[CSR reconciliation](05_BINDING_CARD_BASIN_SUPPLY_AND_CSR.md) confirms O/Y/B/V exclusivity, no Card ownership cap and no permanent Binding-allocation cost. [White Genesis Collapse](../NEUROGENESIS/05_WHITE_GENESIS_COLLAPSE.md) requires all six `aen` basins and is incompatible with active operational Cards; activation precedence remains OPEN.
 
 Sources:
 - https://github.com/xApologies/MK727/blob/main/live-model/01_MAGIC.md
